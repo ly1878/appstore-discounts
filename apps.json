@@ -1,6 +1,20 @@
 {
   "$schema": "apps.json-schema.json",
   "appConfig": [
+      {
+    "id": 934850257,
+    "name": {
+      "us": "OsmAnd Maps Travel & Navigate"
+    },
+    "addType": "auto"
+  },
+  {
+    "id": 6477843068,
+    "name": {
+      "us": "Cat Keyboard - Easy Paste"
+    },
+    "addType": "auto"
+  },
     {
       "id": 6760777178,
       "name": {
