@@ -28,6 +28,20 @@
         "us": "AppRaven: Apps Gone Free"
       },
       "addType": "manual"
+    },
+    {
+      "id": 953286746,
+      "name": {
+        "us": "Darkroom: Photo & Video Editor"
+      },
+      "addType": "manual"
+    },
+    {
+      "id": 694647259,
+      "name": {
+        "us": "ProCamera. Professional Camera"
+      },
+      "addType": "manual"
     }
   ]
 }
