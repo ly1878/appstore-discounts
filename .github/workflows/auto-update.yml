@@ -8,9 +8,10 @@ on:
 
 jobs:
   generate:
-    contents: write
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -44,12 +45,10 @@ jobs:
           git config --global user.name "GitHub Workflow"
           git add .
           git commit -m 'chore: automatic update of GitHub workflow'
-          
+
       - name: git push
         if: steps.commit_msg.outputs.check_result == 'success'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-
-
