@@ -30,6 +30,7 @@ jobs:
 
       - name: update README
         run: npx jtm run --watch false
+        continue-on-error: true
 
       - name: commit the all info
         id: commit_msg
