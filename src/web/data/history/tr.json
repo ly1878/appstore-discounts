@@ -175955,6 +175955,54 @@
       ]
     ]
   },
+  "1490607195": {
+    "trackId": 1490607195,
+    "trackName": "AppRaven: Apps Gone Free",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Supporter": "₺12,99",
+      "Yearly Supporter": "₺79,99",
+      "AppRaven Lifetime": "₺899,99",
+      "Amazing Tip": "₺149,99",
+      "Enormous Tip": "₺499,99",
+      "Fearless Tip": "₺999,99",
+      "Nice Tip": "₺49,99",
+      "Generous Tip": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Supporter": "₺12,99",
+      "Yearly Supporter": "₺79,99",
+      "AppRaven Lifetime": "₺899,99",
+      "Amazing Tip": "₺149,99",
+      "Enormous Tip": "₺499,99",
+      "Fearless Tip": "₺999,99",
+      "Nice Tip": "₺49,99",
+      "Generous Tip": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788520967639,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Supporter": "₺12,99",
+            "Yearly Supporter": "₺79,99",
+            "AppRaven Lifetime": "₺899,99",
+            "Amazing Tip": "₺149,99",
+            "Enormous Tip": "₺499,99",
+            "Fearless Tip": "₺999,99",
+            "Nice Tip": "₺49,99",
+            "Generous Tip": "₺249,99"
+          }
+        }
+      ]
+    ]
+  },
   "1491196899": {
     "trackId": 1491196899,
     "trackName": "Papa's Bakeria To Go!",

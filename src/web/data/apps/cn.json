@@ -8052,6 +8052,18 @@
     "firstRecordedAt": 1750018368270
   },
   {
+    "trackId": 1490607195,
+    "region": "cn",
+    "timestamp": 1788520967639,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1490607195",
+    "trackName": "AppRaven: 免费应用程序",
+    "firstRecordedAt": 1788520967639
+  },
+  {
     "trackId": 1491605477,
     "region": "cn",
     "timestamp": 1785180382989,

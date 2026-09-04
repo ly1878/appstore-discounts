@@ -131051,6 +131051,54 @@
       ]
     ]
   },
+  "1490607195": {
+    "trackId": 1490607195,
+    "trackName": "AppRaven: 應用程式免費",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "AppRaven Lifetime": "USD 29.99",
+      "Yearly Supporter": "USD 11.99",
+      "Monthly Supporter": "USD 1.99",
+      "Amazing Tip": "USD 2.99",
+      "Enormous Tip": "USD 9.99",
+      "Fearless Tip": "USD 19.99",
+      "Nice Tip": "USD 0.99",
+      "Generous Tip": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "AppRaven Lifetime": "USD 29.99",
+      "Yearly Supporter": "USD 11.99",
+      "Monthly Supporter": "USD 1.99",
+      "Amazing Tip": "USD 2.99",
+      "Enormous Tip": "USD 9.99",
+      "Fearless Tip": "USD 19.99",
+      "Nice Tip": "USD 0.99",
+      "Generous Tip": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788520967639,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "AppRaven Lifetime": "USD 29.99",
+            "Yearly Supporter": "USD 11.99",
+            "Monthly Supporter": "USD 1.99",
+            "Amazing Tip": "USD 2.99",
+            "Enormous Tip": "USD 9.99",
+            "Fearless Tip": "USD 19.99",
+            "Nice Tip": "USD 0.99",
+            "Generous Tip": "USD 4.99"
+          }
+        }
+      ]
+    ]
+  },
   "1491196899": {
     "trackId": 1491196899,
     "trackName": "Papa's Bakeria To Go!",

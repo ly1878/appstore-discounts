@@ -13128,6 +13128,18 @@
     "firstRecordedAt": 1750018368270
   },
   {
+    "trackId": 1490607195,
+    "region": "us",
+    "timestamp": 1788520967639,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1490607195",
+    "trackName": "AppRaven: Apps Gone Free",
+    "firstRecordedAt": 1788520967639
+  },
+  {
     "trackId": 1491196899,
     "region": "us",
     "timestamp": 1745571749645,

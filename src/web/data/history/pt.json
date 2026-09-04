@@ -78781,6 +78781,54 @@
       ]
     ]
   },
+  "1490607195": {
+    "trackId": 1490607195,
+    "trackName": "AppRaven: Aplicações Gratuitas",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Monthly Supporter": "1,99 €",
+      "Yearly Supporter": "12,99 €",
+      "AppRaven Lifetime": "24,99 €",
+      "Amazing Tip": "2,99 €",
+      "Enormous Tip": "9,99 €",
+      "Fearless Tip": "22,99 €",
+      "Nice Tip": "0,99 €",
+      "Generous Tip": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Monthly Supporter": "1,99 €",
+      "Yearly Supporter": "12,99 €",
+      "AppRaven Lifetime": "24,99 €",
+      "Amazing Tip": "2,99 €",
+      "Enormous Tip": "9,99 €",
+      "Fearless Tip": "22,99 €",
+      "Nice Tip": "0,99 €",
+      "Generous Tip": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788520967639,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Monthly Supporter": "1,99 €",
+            "Yearly Supporter": "12,99 €",
+            "AppRaven Lifetime": "24,99 €",
+            "Amazing Tip": "2,99 €",
+            "Enormous Tip": "9,99 €",
+            "Fearless Tip": "22,99 €",
+            "Nice Tip": "0,99 €",
+            "Generous Tip": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1491196899": {
     "trackId": 1491196899,
     "trackName": "Papa's Bakeria To Go!",
