@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1788489752344,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 6477843068,
+          "trackName": "Cat Keyboard - Easy Paste",
+          "inAppPurchasesTimes": 4
+        }
+      ],
+      "pt": [
+        {
+          "trackId": 934850257,
+          "trackName": "OsmAnd — Mapas e GPS Offline",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "10.906s",
+    "regionAppCount": {
+      "cn": 2,
+      "hk": 3,
+      "mo": 3,
+      "tw": 3,
+      "us": 3,
+      "tr": 3,
+      "pt": 3
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1788489063218,
     "regionAppInfo": {
       "cn": [],
