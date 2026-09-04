@@ -8,6 +8,7 @@ on:
 
 jobs:
   generate:
+    contents: write
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
@@ -28,11 +29,6 @@ jobs:
       - name: generate web data (src/web/data)
         run: npm run generate-web-data
 
-      - name: update README
-        run: npx jtm run --watch false
-        continue-on-error: true
-        timeout-minutes: 2
-
       - name: commit the all info
         id: commit_msg
         run: |
@@ -48,9 +44,12 @@ jobs:
           git config --global user.name "GitHub Workflow"
           git add .
           git commit -m 'chore: automatic update of GitHub workflow'
-
+          
       - name: git push
         if: steps.commit_msg.outputs.check_result == 'success'
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PUBLISH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+
+
