@@ -21,6 +21,13 @@
         "us": "SSH Client - Secure ShellFish"
       },
       "addType": "manual"
+    },
+    {
+      "id": 1490607195,
+      "name": {
+        "us": "AppRaven: Apps Gone Free"
+      },
+      "addType": "manual"
     }
   ]
 }
