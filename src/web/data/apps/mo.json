@@ -4704,6 +4704,18 @@
     "firstRecordedAt": 1755886638673
   },
   {
+    "trackId": 694647259,
+    "region": "mo",
+    "timestamp": 1788524447256,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id694647259",
+    "trackName": "ProCamera. 專業相機 - 專業錄影攝影拍照軟體調色",
+    "firstRecordedAt": 1788524447256
+  },
+  {
     "trackId": 698470765,
     "region": "mo",
     "timestamp": 1773053618851,
@@ -6346,6 +6358,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id952764370",
     "trackName": "Rolling Coins",
     "firstRecordedAt": 1767775219467
+  },
+  {
+    "trackId": 953286746,
+    "region": "mo",
+    "timestamp": 1788524447256,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id953286746",
+    "trackName": "Darkroom: Photo & Video Editor",
+    "firstRecordedAt": 1788524447256
   },
   {
     "trackId": 953426154,

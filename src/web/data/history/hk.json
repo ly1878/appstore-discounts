@@ -58514,6 +58514,60 @@
       ]
     ]
   },
+  "694647259": {
+    "trackId": 694647259,
+    "trackName": "ProCamera. 專業相機 - 專業錄影攝影拍照軟體調色",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ProCamera 年存取權限": "HK$ 78.00",
+      "ProCamera HDR": "HK$ 32.00",
+      "ProCamera 每週訪問權限": "HK$ 4.00",
+      "Night Camera & Long Exposure": "HK$ 38.00",
+      "ProCamera Up 年存取權限": "HK$ 48.00",
+      "ProCamera 每月訪問權限": "HK$ 15.00",
+      "ProCamera Up One-Time Purchase": "HK$ 328.00",
+      "ProCamera一次性付款": "HK$ 388.00",
+      "Private Lightbox": "HK$ 148.00",
+      "ProCamera Up Monthly Access": "HK$ 10.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ProCamera 年存取權限": "HK$ 78.00",
+      "ProCamera HDR": "HK$ 32.00",
+      "ProCamera 每週訪問權限": "HK$ 4.00",
+      "Night Camera & Long Exposure": "HK$ 38.00",
+      "ProCamera Up 年存取權限": "HK$ 48.00",
+      "ProCamera 每月訪問權限": "HK$ 15.00",
+      "ProCamera Up One-Time Purchase": "HK$ 328.00",
+      "ProCamera一次性付款": "HK$ 388.00",
+      "Private Lightbox": "HK$ 148.00",
+      "ProCamera Up Monthly Access": "HK$ 10.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ProCamera 年存取權限": "HK$ 78.00",
+            "ProCamera HDR": "HK$ 32.00",
+            "ProCamera 每週訪問權限": "HK$ 4.00",
+            "Night Camera & Long Exposure": "HK$ 38.00",
+            "ProCamera Up 年存取權限": "HK$ 48.00",
+            "ProCamera 每月訪問權限": "HK$ 15.00",
+            "ProCamera Up One-Time Purchase": "HK$ 328.00",
+            "ProCamera一次性付款": "HK$ 388.00",
+            "Private Lightbox": "HK$ 148.00",
+            "ProCamera Up Monthly Access": "HK$ 10.00"
+          }
+        }
+      ]
+    ]
+  },
   "698470765": {
     "trackId": 698470765,
     "trackName": "King's League: Odyssey",
@@ -77817,6 +77871,60 @@
             "Magnetic Stars 10": "HK$ 8.00",
             "Unlock Rollman Coin": "HK$ 18.00",
             "Unlock Rollf Coin": "HK$ 18.00"
+          }
+        }
+      ]
+    ]
+  },
+  "953286746": {
+    "trackId": 953286746,
+    "trackName": "Darkroom: Photo & Video Editor",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "年度訂閱": "HK$ 128.00",
+      "每月訂閱": "HK$ 48.00",
+      "Legacy - Unlock Everything": "HK$ 88.00",
+      "Legacy - All Tools": "HK$ 58.00",
+      "永久解鎖全部功能": "HK$ 788.00",
+      "Legacy - All Premium Filters": "HK$ 58.00",
+      "Legacy - Portrait Filters": "HK$ 32.00",
+      "折扣年訂閱": "HK$ 268.00",
+      "Legacy - XPRO": "HK$ 32.00",
+      "Legacy - Landscape Filters": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "年度訂閱": "HK$ 128.00",
+      "每月訂閱": "HK$ 48.00",
+      "Legacy - Unlock Everything": "HK$ 88.00",
+      "Legacy - All Tools": "HK$ 58.00",
+      "永久解鎖全部功能": "HK$ 788.00",
+      "Legacy - All Premium Filters": "HK$ 58.00",
+      "Legacy - Portrait Filters": "HK$ 32.00",
+      "折扣年訂閱": "HK$ 268.00",
+      "Legacy - XPRO": "HK$ 32.00",
+      "Legacy - Landscape Filters": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "HK$ 128.00",
+            "每月訂閱": "HK$ 48.00",
+            "Legacy - Unlock Everything": "HK$ 88.00",
+            "Legacy - All Tools": "HK$ 58.00",
+            "永久解鎖全部功能": "HK$ 788.00",
+            "Legacy - All Premium Filters": "HK$ 58.00",
+            "Legacy - Portrait Filters": "HK$ 32.00",
+            "折扣年訂閱": "HK$ 268.00",
+            "Legacy - XPRO": "HK$ 32.00",
+            "Legacy - Landscape Filters": "HK$ 32.00"
           }
         }
       ]

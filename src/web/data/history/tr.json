@@ -62983,6 +62983,60 @@
       ]
     ]
   },
+  "694647259": {
+    "trackId": 694647259,
+    "trackName": "ProCamera. Raw+ Manual Camera",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ProCamera Yearly Access": "₺299,00",
+      "ProCamera Weekly Access": "₺29,99",
+      "HDR in Pro Camera": "₺149,99",
+      "Night Camera & Slow Shutter": "₺149,99",
+      "ProCamera Up Yearly Access": "₺249,99",
+      "ProCamera Up Monthly Access": "₺49,99",
+      "ProCamera Monthly Access": "₺69,00",
+      "Private Lightbox": "₺999,99",
+      "ProCamera Lifetime Access": "₺1.999,99",
+      "ProCamera Up One-Time Payment": "₺1.199,00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ProCamera Yearly Access": "₺299,00",
+      "ProCamera Weekly Access": "₺29,99",
+      "HDR in Pro Camera": "₺149,99",
+      "Night Camera & Slow Shutter": "₺149,99",
+      "ProCamera Up Yearly Access": "₺249,99",
+      "ProCamera Up Monthly Access": "₺49,99",
+      "ProCamera Monthly Access": "₺69,00",
+      "Private Lightbox": "₺999,99",
+      "ProCamera Lifetime Access": "₺1.999,99",
+      "ProCamera Up One-Time Payment": "₺1.199,00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ProCamera Yearly Access": "₺299,00",
+            "ProCamera Weekly Access": "₺29,99",
+            "HDR in Pro Camera": "₺149,99",
+            "Night Camera & Slow Shutter": "₺149,99",
+            "ProCamera Up Yearly Access": "₺249,99",
+            "ProCamera Up Monthly Access": "₺49,99",
+            "ProCamera Monthly Access": "₺69,00",
+            "Private Lightbox": "₺999,99",
+            "ProCamera Lifetime Access": "₺1.999,99",
+            "ProCamera Up One-Time Payment": "₺1.199,00"
+          }
+        }
+      ]
+    ]
+  },
   "697885605": {
     "trackId": 697885605,
     "trackName": "常春藤基礎英文字彙",
@@ -81362,6 +81416,60 @@
             "Ultra Punch 10": "₺99,99",
             "Magnetic Stars Unlimited": "₺799,99",
             "Magnetic Stars 20": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
+  "953286746": {
+    "trackId": 953286746,
+    "trackName": "Darkroom: Photo & Video Editor",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Subscription": "₺449,99",
+      "Yearly Subscription": "₺1.799,99",
+      "Legacy - Unlock Everything": "₺499,99",
+      "Legacy - All Tools": "₺399,99",
+      "Legacy - All Premium Filters": "₺399,99",
+      "Legacy - XPRO": "₺199,99",
+      "Unlock Everything Forever": "₺4.999,99",
+      "Legacy - Portrait Filters": "₺199,99",
+      "Legacy - Landscape Filters": "₺199,99",
+      "Legacy - Black & White Filters": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Subscription": "₺449,99",
+      "Yearly Subscription": "₺1.799,99",
+      "Legacy - Unlock Everything": "₺499,99",
+      "Legacy - All Tools": "₺399,99",
+      "Legacy - All Premium Filters": "₺399,99",
+      "Legacy - XPRO": "₺199,99",
+      "Unlock Everything Forever": "₺4.999,99",
+      "Legacy - Portrait Filters": "₺199,99",
+      "Legacy - Landscape Filters": "₺199,99",
+      "Legacy - Black & White Filters": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Subscription": "₺449,99",
+            "Yearly Subscription": "₺1.799,99",
+            "Legacy - Unlock Everything": "₺499,99",
+            "Legacy - All Tools": "₺399,99",
+            "Legacy - All Premium Filters": "₺399,99",
+            "Legacy - XPRO": "₺199,99",
+            "Unlock Everything Forever": "₺4.999,99",
+            "Legacy - Portrait Filters": "₺199,99",
+            "Legacy - Landscape Filters": "₺199,99",
+            "Legacy - Black & White Filters": "₺199,99"
           }
         }
       ]

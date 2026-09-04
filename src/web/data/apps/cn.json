@@ -3132,6 +3132,18 @@
     "firstRecordedAt": 1778211603451
   },
   {
+    "trackId": 694647259,
+    "region": "cn",
+    "timestamp": 1788524447256,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id694647259",
+    "trackName": "ProCamera. 全能单反手动Raw专业相机和摄像影机",
+    "firstRecordedAt": 1788524447256
+  },
+  {
     "trackId": 700740791,
     "region": "cn",
     "timestamp": 1775656195976,
@@ -4078,6 +4090,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id952704587",
     "trackName": "Analog Portland",
     "firstRecordedAt": 1761167355803
+  },
+  {
+    "trackId": 953286746,
+    "region": "cn",
+    "timestamp": 1788524447256,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id953286746",
+    "trackName": "Darkroom: Photo & Video Editor",
+    "firstRecordedAt": 1788524447256
   },
   {
     "trackId": 953426154,

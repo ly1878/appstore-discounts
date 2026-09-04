@@ -63763,6 +63763,58 @@
       ]
     ]
   },
+  "694647259": {
+    "name": "ProCamera. Professional Camera",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ProCamera Yearly Access": "$29.99",
+      "vivid HDR in Pro Camera": "$3.99",
+      "Night Camera & Long Exposure": "$3.99",
+      "ProCamera Up Yearly Access": "$11.99",
+      "ProCamera Weekly Access": "$3.99",
+      "ProCamera Up Monthly Access": "$1.99",
+      "Private Lightbox": "$19.99",
+      "ProCamera Up One-Time Purchase": "$69.99",
+      "ProCamera Lifetime Access": "$149.99",
+      "ProCamera Monthly Access": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ProCamera Yearly Access": "$29.99",
+      "vivid HDR in Pro Camera": "$3.99",
+      "Night Camera & Long Exposure": "$3.99",
+      "ProCamera Up Yearly Access": "$11.99",
+      "ProCamera Weekly Access": "$3.99",
+      "ProCamera Up Monthly Access": "$1.99",
+      "Private Lightbox": "$19.99",
+      "ProCamera Up One-Time Purchase": "$69.99",
+      "ProCamera Lifetime Access": "$149.99",
+      "ProCamera Monthly Access": "$7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ProCamera Yearly Access": "$29.99",
+            "vivid HDR in Pro Camera": "$3.99",
+            "Night Camera & Long Exposure": "$3.99",
+            "ProCamera Up Yearly Access": "$11.99",
+            "ProCamera Weekly Access": "$3.99",
+            "ProCamera Up Monthly Access": "$1.99",
+            "Private Lightbox": "$19.99",
+            "ProCamera Up One-Time Purchase": "$69.99",
+            "ProCamera Lifetime Access": "$149.99",
+            "ProCamera Monthly Access": "$7.99"
+          }
+        }
+      ]
+    ]
+  },
   "697885605": {
     "name": "常春藤基礎英文字彙",
     "maxPriceInfo": {
@@ -87792,6 +87844,58 @@
             "Ultra Punch Unlimited": "$19.99",
             "Unlock Rollf Coin": "$1.99",
             "Magnetic Stars Unlimited": "$14.99"
+          }
+        }
+      ]
+    ]
+  },
+  "953286746": {
+    "name": "Darkroom: Photo & Video Editor",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Subscription": "$9.99",
+      "Yearly Subscription": "$39.99",
+      "Legacy - Unlock Everything": "$9.99",
+      "Legacy - All Tools": "$7.99",
+      "Unlock Everything Forever": "$99.99",
+      "Legacy - All Premium Filters": "$7.99",
+      "Legacy - XPRO": "$3.99",
+      "Discounted Yearly Subscription": "$32.99",
+      "Legacy - Portrait Filters": "$3.99",
+      "Legacy - Black & White Filters": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Subscription": "$9.99",
+      "Yearly Subscription": "$39.99",
+      "Legacy - Unlock Everything": "$9.99",
+      "Legacy - All Tools": "$7.99",
+      "Unlock Everything Forever": "$99.99",
+      "Legacy - All Premium Filters": "$7.99",
+      "Legacy - XPRO": "$3.99",
+      "Discounted Yearly Subscription": "$32.99",
+      "Legacy - Portrait Filters": "$3.99",
+      "Legacy - Black & White Filters": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Subscription": "$9.99",
+            "Yearly Subscription": "$39.99",
+            "Legacy - Unlock Everything": "$9.99",
+            "Legacy - All Tools": "$7.99",
+            "Unlock Everything Forever": "$99.99",
+            "Legacy - All Premium Filters": "$7.99",
+            "Legacy - XPRO": "$3.99",
+            "Discounted Yearly Subscription": "$32.99",
+            "Legacy - Portrait Filters": "$3.99",
+            "Legacy - Black & White Filters": "$3.99"
           }
         }
       ]

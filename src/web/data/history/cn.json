@@ -33809,6 +33809,60 @@
       ]
     ]
   },
+  "694647259": {
+    "trackId": 694647259,
+    "trackName": "ProCamera. 全能单反手动Raw专业相机和摄像影机",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "ProCamera 年度访问权限": "¥48.00",
+      "ProCamera HDR": "¥48.00",
+      "ProCamera Up Yearly Access": "¥38.00",
+      "Night Camera & Long Exposure": "¥48.00",
+      "ProCamera 每周访问权限": "¥5.00",
+      "ProCamera Up Monthly Access": "¥8.00",
+      "让您的相机更上一层楼": "¥10.00",
+      "Private Lightbox": "¥148.00",
+      "ProCamera Up 一次性购买": "¥198.00",
+      "ProCamera 一次性付款": "¥268.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "ProCamera 年度访问权限": "¥48.00",
+      "ProCamera HDR": "¥48.00",
+      "ProCamera Up Yearly Access": "¥38.00",
+      "Night Camera & Long Exposure": "¥48.00",
+      "ProCamera 每周访问权限": "¥5.00",
+      "ProCamera Up Monthly Access": "¥8.00",
+      "让您的相机更上一层楼": "¥10.00",
+      "Private Lightbox": "¥148.00",
+      "ProCamera Up 一次性购买": "¥198.00",
+      "ProCamera 一次性付款": "¥268.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "ProCamera 年度访问权限": "¥48.00",
+            "ProCamera HDR": "¥48.00",
+            "ProCamera Up Yearly Access": "¥38.00",
+            "Night Camera & Long Exposure": "¥48.00",
+            "ProCamera 每周访问权限": "¥5.00",
+            "ProCamera Up Monthly Access": "¥8.00",
+            "让您的相机更上一层楼": "¥10.00",
+            "Private Lightbox": "¥148.00",
+            "ProCamera Up 一次性购买": "¥198.00",
+            "ProCamera 一次性付款": "¥268.00"
+          }
+        }
+      ]
+    ]
+  },
   "700740791": {
     "trackId": 700740791,
     "trackName": "Squeezy",
@@ -45391,6 +45445,60 @@
           "price": 8,
           "formattedPrice": "¥8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "953286746": {
+    "trackId": 953286746,
+    "trackName": "Darkroom: Photo & Video Editor",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "每月订阅": "¥38.00",
+      "年度订阅": "¥198.00",
+      "Legacy - Unlock Everything": "¥68.00",
+      "Legacy - All Tools": "¥58.00",
+      "永久解锁所有功能": "¥698.00",
+      "Legacy - All Premium Filters": "¥58.00",
+      "Legacy - XPRO": "¥28.00",
+      "Legacy - Portrait Filters": "¥28.00",
+      "Legacy - Landscape Filters": "¥28.00",
+      "Legacy - Black & White Filters": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "每月订阅": "¥38.00",
+      "年度订阅": "¥198.00",
+      "Legacy - Unlock Everything": "¥68.00",
+      "Legacy - All Tools": "¥58.00",
+      "永久解锁所有功能": "¥698.00",
+      "Legacy - All Premium Filters": "¥58.00",
+      "Legacy - XPRO": "¥28.00",
+      "Legacy - Portrait Filters": "¥28.00",
+      "Legacy - Landscape Filters": "¥28.00",
+      "Legacy - Black & White Filters": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "每月订阅": "¥38.00",
+            "年度订阅": "¥198.00",
+            "Legacy - Unlock Everything": "¥68.00",
+            "Legacy - All Tools": "¥58.00",
+            "永久解锁所有功能": "¥698.00",
+            "Legacy - All Premium Filters": "¥58.00",
+            "Legacy - XPRO": "¥28.00",
+            "Legacy - Portrait Filters": "¥28.00",
+            "Legacy - Landscape Filters": "¥28.00",
+            "Legacy - Black & White Filters": "¥28.00"
+          }
         }
       ]
     ]

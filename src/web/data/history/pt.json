@@ -30721,6 +30721,60 @@
       ]
     ]
   },
+  "694647259": {
+    "trackId": 694647259,
+    "trackName": "ProCamera. Professional Camera",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Acesso Anual ProCamera": "14,99 €",
+      "Acesso Semanal ProCamera": "0,59 €",
+      "vivid HDR in Pro Camera": "4,99 €",
+      "ProCamera Up Yearly Access": "12,99 €",
+      "Night Camera & Long Exposure": "4,99 €",
+      "ProCamera Up Monthly Access": "1,99 €",
+      "Acesso Mensal ProCamera": "2,99 €",
+      "ProCamera Up - Compra única": "49,99 €",
+      "Private Lightbox": "22,99 €",
+      "ProCamera - Compra única": "69,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Acesso Anual ProCamera": "14,99 €",
+      "Acesso Semanal ProCamera": "0,59 €",
+      "vivid HDR in Pro Camera": "4,99 €",
+      "ProCamera Up Yearly Access": "12,99 €",
+      "Night Camera & Long Exposure": "4,99 €",
+      "ProCamera Up Monthly Access": "1,99 €",
+      "Acesso Mensal ProCamera": "2,99 €",
+      "ProCamera Up - Compra única": "49,99 €",
+      "Private Lightbox": "22,99 €",
+      "ProCamera - Compra única": "69,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Acesso Anual ProCamera": "14,99 €",
+            "Acesso Semanal ProCamera": "0,59 €",
+            "vivid HDR in Pro Camera": "4,99 €",
+            "ProCamera Up Yearly Access": "12,99 €",
+            "Night Camera & Long Exposure": "4,99 €",
+            "ProCamera Up Monthly Access": "1,99 €",
+            "Acesso Mensal ProCamera": "2,99 €",
+            "ProCamera Up - Compra única": "49,99 €",
+            "Private Lightbox": "22,99 €",
+            "ProCamera - Compra única": "69,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "697885605": {
     "trackId": 697885605,
     "trackName": "常春藤基礎英文字彙",
@@ -39241,6 +39295,60 @@
             "Magnetic Stars 10": "0,99 €",
             "Unlock Rollman Coin": "1,99 €",
             "Unlock Rollf Coin": "1,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "953286746": {
+    "trackId": 953286746,
+    "trackName": "Darkroom: Photo & Video Editor",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Assinatura Anual": "44,99 €",
+      "Assinatura mensal": "9,99 €",
+      "Legacy - Unlock Everything": "9,99 €",
+      "Legacy - All Tools": "8,99 €",
+      "Legacy - All Premium Filters": "8,99 €",
+      "Desbloqueie tudo para sempre": "99,99 €",
+      "Assinatura Anual Desconto": "39,99 €",
+      "Legacy - XPRO": "3,99 €",
+      "Legacy - Portrait Filters": "3,99 €",
+      "Legacy - Black & White Filters": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Assinatura Anual": "44,99 €",
+      "Assinatura mensal": "9,99 €",
+      "Legacy - Unlock Everything": "9,99 €",
+      "Legacy - All Tools": "8,99 €",
+      "Legacy - All Premium Filters": "8,99 €",
+      "Desbloqueie tudo para sempre": "99,99 €",
+      "Assinatura Anual Desconto": "39,99 €",
+      "Legacy - XPRO": "3,99 €",
+      "Legacy - Portrait Filters": "3,99 €",
+      "Legacy - Black & White Filters": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Assinatura Anual": "44,99 €",
+            "Assinatura mensal": "9,99 €",
+            "Legacy - Unlock Everything": "9,99 €",
+            "Legacy - All Tools": "8,99 €",
+            "Legacy - All Premium Filters": "8,99 €",
+            "Desbloqueie tudo para sempre": "99,99 €",
+            "Assinatura Anual Desconto": "39,99 €",
+            "Legacy - XPRO": "3,99 €",
+            "Legacy - Portrait Filters": "3,99 €",
+            "Legacy - Black & White Filters": "3,99 €"
           }
         }
       ]

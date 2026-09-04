@@ -47751,6 +47751,60 @@
       ]
     ]
   },
+  "694647259": {
+    "trackId": 694647259,
+    "trackName": "ProCamera. 專業相機 - 專業錄影攝影拍照軟體調色",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ProCamera HDR": "USD 3.99",
+      "ProCamera 年存取權限": "USD 8.99",
+      "ProCamera Up 年存取權限": "USD 5.99",
+      "Night Camera & Long Exposure": "USD 3.99",
+      "ProCamera Up Monthly Access": "USD 1.99",
+      "ProCamera 每月訪問權限": "USD 2.99",
+      "ProCamera Up One-Time Purchase": "USD 39.99",
+      "ProCamera Up 週存取權限": "USD 0.95",
+      "ProCamera一次性付款": "USD 149.99",
+      "ProCamera 每週訪問權限": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ProCamera HDR": "USD 3.99",
+      "ProCamera 年存取權限": "USD 8.99",
+      "ProCamera Up 年存取權限": "USD 5.99",
+      "Night Camera & Long Exposure": "USD 3.99",
+      "ProCamera Up Monthly Access": "USD 1.99",
+      "ProCamera 每月訪問權限": "USD 2.99",
+      "ProCamera Up One-Time Purchase": "USD 39.99",
+      "ProCamera Up 週存取權限": "USD 0.95",
+      "ProCamera一次性付款": "USD 149.99",
+      "ProCamera 每週訪問權限": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ProCamera HDR": "USD 3.99",
+            "ProCamera 年存取權限": "USD 8.99",
+            "ProCamera Up 年存取權限": "USD 5.99",
+            "Night Camera & Long Exposure": "USD 3.99",
+            "ProCamera Up Monthly Access": "USD 1.99",
+            "ProCamera 每月訪問權限": "USD 2.99",
+            "ProCamera Up One-Time Purchase": "USD 39.99",
+            "ProCamera Up 週存取權限": "USD 0.95",
+            "ProCamera一次性付款": "USD 149.99",
+            "ProCamera 每週訪問權限": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "698470765": {
     "trackId": 698470765,
     "trackName": "King's League: Odyssey",
@@ -62458,6 +62512,60 @@
             "Magnetic Stars 10": "USD 0.99",
             "Unlock Rollman Coin": "USD 1.99",
             "Unlock Rollf Coin": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
+  "953286746": {
+    "trackId": 953286746,
+    "trackName": "Darkroom: Photo & Video Editor",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "年度訂閱": "USD 39.99",
+      "Legacy - Unlock Everything": "USD 9.99",
+      "每月訂閱": "USD 5.99",
+      "永久解鎖全部功能": "USD 99.99",
+      "Legacy - All Tools": "USD 7.99",
+      "Legacy - Landscape Filters": "USD 3.99",
+      "Legacy - All Premium Filters": "USD 7.99",
+      "折扣年訂閱": "USD 32.99",
+      "Legacy - Duotone Filters": "USD 1.99",
+      "Legacy - Instant Filters": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "年度訂閱": "USD 39.99",
+      "Legacy - Unlock Everything": "USD 9.99",
+      "每月訂閱": "USD 5.99",
+      "永久解鎖全部功能": "USD 99.99",
+      "Legacy - All Tools": "USD 7.99",
+      "Legacy - Landscape Filters": "USD 3.99",
+      "Legacy - All Premium Filters": "USD 7.99",
+      "折扣年訂閱": "USD 32.99",
+      "Legacy - Duotone Filters": "USD 1.99",
+      "Legacy - Instant Filters": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788524447256,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "USD 39.99",
+            "Legacy - Unlock Everything": "USD 9.99",
+            "每月訂閱": "USD 5.99",
+            "永久解鎖全部功能": "USD 99.99",
+            "Legacy - All Tools": "USD 7.99",
+            "Legacy - Landscape Filters": "USD 3.99",
+            "Legacy - All Premium Filters": "USD 7.99",
+            "折扣年訂閱": "USD 32.99",
+            "Legacy - Duotone Filters": "USD 1.99",
+            "Legacy - Instant Filters": "USD 1.99"
           }
         }
       ]
