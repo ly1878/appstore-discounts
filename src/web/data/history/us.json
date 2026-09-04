@@ -86441,6 +86441,60 @@
       ]
     ]
   },
+  "934850257": {
+    "trackId": 934850257,
+    "trackName": "OsmAnd Maps Travel & Navigate",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "OsmAnd Pro Monthly": "$5.99",
+      "OsmAnd: All inclusive Annual": "$8.99",
+      "Wikipedia": "$0.00",
+      "OsmAnd Maps+ Annual": "$14.99",
+      "Contour lines": "$8.99",
+      "OsmAnd Pro Annual": "$39.99",
+      "North America": "$14.99",
+      "OsmAnd: All Inclusive Monthly": "$1.99",
+      "OsmAnd Maps+": "$69.99",
+      "All World Maps": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "OsmAnd Pro Monthly": "$5.99",
+      "OsmAnd: All inclusive Annual": "$8.99",
+      "Wikipedia": "$0.00",
+      "OsmAnd Maps+ Annual": "$14.99",
+      "Contour lines": "$8.99",
+      "OsmAnd Pro Annual": "$39.99",
+      "North America": "$14.99",
+      "OsmAnd: All Inclusive Monthly": "$1.99",
+      "OsmAnd Maps+": "$69.99",
+      "All World Maps": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "OsmAnd Pro Monthly": "$5.99",
+            "OsmAnd: All inclusive Annual": "$8.99",
+            "Wikipedia": "$0.00",
+            "OsmAnd Maps+ Annual": "$14.99",
+            "Contour lines": "$8.99",
+            "OsmAnd Pro Annual": "$39.99",
+            "North America": "$14.99",
+            "OsmAnd: All Inclusive Monthly": "$1.99",
+            "OsmAnd Maps+": "$69.99",
+            "All World Maps": "$19.99"
+          }
+        }
+      ]
+    ]
+  },
   "935216956": {
     "trackId": 935216956,
     "trackName": "Papers, Please",
@@ -148528,6 +148582,39 @@
           "price": 0.99,
           "formattedPrice": "$0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "trackId": 1336634154,
+    "trackName": "SSH Client - Secure ShellFish",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ShellFish Monthly subscription": "$2.99",
+      "ShellFish Lifetime Pro Unlock": "$29.99",
+      "ShellFish Annual subscription": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ShellFish Monthly subscription": "$2.99",
+      "ShellFish Lifetime Pro Unlock": "$29.99",
+      "ShellFish Annual subscription": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "$2.99",
+            "ShellFish Lifetime Pro Unlock": "$29.99",
+            "ShellFish Annual subscription": "$14.99"
+          }
         }
       ]
     ]
@@ -341680,6 +341767,42 @@
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "trackId": 6477843068,
+    "trackName": "Cat Keyboard - Easy Paste",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Cat Pro": "$24.99",
+      "Premium (1 Month)": "$2.99",
+      "Premium (3 Month)": "$7.99",
+      "Premium (12 Month)": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Cat Pro": "$24.99",
+      "Premium (1 Month)": "$2.99",
+      "Premium (3 Month)": "$7.99",
+      "Premium (12 Month)": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Cat Pro": "$24.99",
+            "Premium (1 Month)": "$2.99",
+            "Premium (3 Month)": "$7.99",
+            "Premium (12 Month)": "$19.99"
+          }
         }
       ]
     ]

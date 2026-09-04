@@ -609,8 +609,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id330247123",
     "trackName": "Sun Seeker - Tracker & Compass",
-    "firstRecordedAt": 1775990965343,
-    "notificationDisabled": true
+    "firstRecordedAt": 1775990965343
   },
   {
     "trackId": 332325822,
@@ -1309,6 +1308,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 388624839,
+    "region": "pt",
+    "timestamp": 1788489063218,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id388624839",
+    "trackName": "CamScanner +",
+    "firstRecordedAt": 1788489063218
+  },
+  {
     "trackId": 388857410,
     "region": "pt",
     "timestamp": 1761797674362,
@@ -1498,8 +1509,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id397553707",
     "trackName": "Texas Poker: Pokerist Pro",
-    "firstRecordedAt": 1764420659459,
-    "notificationDisabled": true
+    "firstRecordedAt": 1764420659459
   },
   {
     "trackId": 398463868,
@@ -1547,8 +1557,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id401818935",
     "trackName": "Genius Scan Enterprise - PDF",
-    "firstRecordedAt": 1767709826612,
-    "notificationDisabled": true
+    "firstRecordedAt": 1767709826612
   },
   {
     "trackId": 402012828,
@@ -2160,8 +2169,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id454086751",
     "trackName": "Home Run com um Toque!",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 454679700,
@@ -2382,7 +2390,7 @@
   {
     "trackId": 479516143,
     "region": "pt",
-    "timestamp": 1788432282964,
+    "timestamp": 1788489063218,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -3661,8 +3669,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id598581396",
     "trackName": "Kingdom Rush Frontiers TD",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 600626116,
@@ -4790,8 +4797,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id807752194",
     "trackName": "Afinador de Violoncelo Pro",
-    "firstRecordedAt": 1767638538827,
-    "notificationDisabled": true
+    "firstRecordedAt": 1767638538827
   },
   {
     "trackId": 808296431,
@@ -5656,6 +5662,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id933113994",
     "trackName": "DRAGON QUEST V",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 934850257,
+    "region": "pt",
+    "timestamp": 1788489063218,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id934850257",
+    "trackName": "OsmAnd — Mapas e GPS Offline",
+    "firstRecordedAt": 1788489063218
   },
   {
     "trackId": 935216956,
@@ -7119,8 +7137,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1067198688",
     "trackName": "彩云天气Pro",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1067575393,
@@ -7132,8 +7149,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1067575393",
     "trackName": "Image Eraser - Inpaint & heal",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1069549814,
@@ -7457,8 +7473,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1094038347",
     "trackName": "Só Tem Você Aqui",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1095883970,
@@ -8982,8 +8997,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1248033433",
     "trackName": "Kingdom Rush Vengeance TD",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1249864455,
@@ -9343,8 +9357,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1291427111",
     "trackName": "Evoland 2",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1291429551,
@@ -9791,6 +9804,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 1336634154,
+    "region": "pt",
+    "timestamp": 1788489063218,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1336634154",
+    "trackName": "SSH Files – Secure ShellFish",
+    "firstRecordedAt": 1788489063218
+  },
+  {
     "trackId": 1336793944,
     "region": "pt",
     "timestamp": 1761797674362,
@@ -10100,8 +10125,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1373057849",
     "trackName": "ThreeKingdoms The Last Warlord",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1373567447,
@@ -10473,8 +10497,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1423585518",
     "trackName": "Roman: budget weight loss",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1424977227,
@@ -11062,8 +11085,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1449893235",
     "trackName": "Earthquake Network",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1450106361,
@@ -11411,8 +11433,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1459657920,
@@ -13188,8 +13209,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1533979882",
     "trackName": "Northgard",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1534488108,
@@ -13633,8 +13653,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
     "trackName": "Otter - Food Diary",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1551279815,
@@ -14162,8 +14181,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1572719445",
     "trackName": "Hello Tower",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1573220858,
@@ -14295,8 +14313,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1576004936",
     "trackName": "Química Tabela Periódica 2026",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1576148500,
@@ -16024,8 +16041,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1659271912",
     "trackName": "Tokyo Train! 2",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1659903900,
@@ -16685,8 +16701,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6447306697",
     "trackName": "Cluedo",
-    "firstRecordedAt": 1767422426281,
-    "notificationDisabled": true
+    "firstRecordedAt": 1767422426281
   },
   {
     "trackId": 6447488668,
@@ -17070,8 +17085,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6451352949",
     "trackName": "Fishow - Just a Cast Away",
-    "firstRecordedAt": 1770022513313,
-    "notificationDisabled": true
+    "firstRecordedAt": 1770022513313
   },
   {
     "trackId": 6451376191,
@@ -17131,8 +17145,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6455495086",
     "trackName": "3D Pinball Space Cadet",
-    "firstRecordedAt": 1770151664299,
-    "notificationDisabled": true
+    "firstRecordedAt": 1770151664299
   },
   {
     "trackId": 6455889577,
@@ -17768,8 +17781,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6475892753",
     "trackName": "Listenify",
-    "firstRecordedAt": 1774630899433,
-    "notificationDisabled": true
+    "firstRecordedAt": 1774630899433
   },
   {
     "trackId": 6476010032,
@@ -17962,6 +17974,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6477835115",
     "trackName": "Papa's Paleteria To Go!",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6477843068,
+    "region": "pt",
+    "timestamp": 1788489063218,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6477843068",
+    "trackName": "Teclado Gato",
+    "firstRecordedAt": 1788489063218
   },
   {
     "trackId": 6478163749,
@@ -18669,8 +18693,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6505058041",
     "trackName": "Quakeline",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 6508165149,
@@ -19162,8 +19185,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6738272916",
     "trackName": "TV Global - Ao vivo",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 6738282698,
@@ -19607,8 +19629,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6741892043",
     "trackName": "Road to Empress",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 6742044212,
@@ -20544,8 +20565,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6746746394",
     "trackName": "Mayor Card: City Management",
-    "firstRecordedAt": 1761797674362,
-    "notificationDisabled": true
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 6746919411,
@@ -21217,8 +21237,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6753062308",
     "trackName": "石器經典版-情懷服",
-    "firstRecordedAt": 1762653910679,
-    "notificationDisabled": true
+    "firstRecordedAt": 1762653910679
   },
   {
     "trackId": 6753077755,
@@ -21348,8 +21367,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6754450155",
     "trackName": "Mega Pact: Let's Go!",
-    "firstRecordedAt": 1768971093472,
-    "notificationDisabled": true
+    "firstRecordedAt": 1768971093472
   },
   {
     "trackId": 6754453691,
@@ -21397,8 +21415,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6754613166",
     "trackName": "Trackless Links Pro",
-    "firstRecordedAt": 1763297306895,
-    "notificationDisabled": true
+    "firstRecordedAt": 1763297306895
   },
   {
     "trackId": 6754641661,
@@ -23174,8 +23191,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6785557805",
     "trackName": "Antizuck Smart Glasses Scanner",
-    "firstRecordedAt": 1785497333507,
-    "notificationDisabled": true
+    "firstRecordedAt": 1785497333507
   },
   {
     "trackId": 6785585993,
@@ -23307,8 +23323,7 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6794760301",
     "trackName": "FileFlip: Convert Files",
-    "firstRecordedAt": 1786005279085,
-    "notificationDisabled": true
+    "firstRecordedAt": 1786005279085
   },
   {
     "trackId": 6795031582,

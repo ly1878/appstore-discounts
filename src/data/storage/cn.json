@@ -14712,7 +14712,8 @@
       "3000点券": "¥38.00",
       "十页传真": "¥58.00",
       "3000点券+6次抽奖机会": "¥38.00",
-      "600点券+1次抽奖机会": "¥8.00"
+      "600点券+1次抽奖机会": "¥8.00",
+      "扫描全能王高级帐户（一个月）": "¥48.00"
     },
     "minPriceInfo": {
       "price": 1,
@@ -14722,9 +14723,26 @@
       "3000点券": "¥38.00",
       "十页传真": "¥58.00",
       "3000点券+6次抽奖机会": "¥38.00",
-      "600点券+1次抽奖机会": "¥8.00"
+      "600点券+1次抽奖机会": "¥8.00",
+      "扫描全能王高级帐户（一个月）": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "扫描全能王高级帐户": "¥343.00",
+            "一页传真": "¥8.00",
+            "3000点券": "¥38.00",
+            "扫描全能王高级帐户（一个月）": "¥48.00",
+            "十页传真": "¥58.00",
+            "3000点券+6次抽奖机会": "¥38.00",
+            "600点券+1次抽奖机会": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750173218085,
@@ -95394,6 +95412,37 @@
           "price": 8,
           "formattedPrice": "¥8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "name": "SSH Client - Secure ShellFish",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "ShellFish Monthly subscription": "¥22.00",
+      "ShellFish Lifetime Pro Unlock": "¥168.00",
+      "ShellFish Annual subscription": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "ShellFish Monthly subscription": "¥22.00",
+      "ShellFish Lifetime Pro Unlock": "¥168.00",
+      "ShellFish Annual subscription": "¥88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "¥22.00",
+            "ShellFish Lifetime Pro Unlock": "¥168.00",
+            "ShellFish Annual subscription": "¥88.00"
+          }
         }
       ]
     ]
@@ -200085,8 +200134,8 @@
       "巨龙战争": "¥45.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00",
+      "price": 15,
+      "formattedPrice": "¥15.00",
       "大圣游记": "¥30.00",
       "巨大的威胁": "¥30.00",
       "所有塔": "¥128.00",
@@ -200128,6 +200177,25 @@
       "巨龙战争": "¥45.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "大圣游记": "¥45.00",
+            "巨龙战争": "¥45.00",
+            "巨大的威胁": "¥45.00",
+            "所有塔": "¥128.00",
+            "卢米妮尔_折扣": "¥30.00",
+            "所有英雄": "¥198.00",
+            "安雅_折扣": "¥9.00",
+            "沙丘哨兵_折扣": "¥9.00",
+            "暮光长弓_折扣": "¥18.00",
+            "希尔瓦拉": "¥40.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778855403338,
@@ -223120,6 +223188,40 @@
           "price": 12,
           "formattedPrice": "¥12.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "name": "猫键盘",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Cat Pro": "¥168.00",
+      "Premium (1 Month)": "¥22.00",
+      "Premium (3 Month)": "¥58.00",
+      "Premium (12 Month)": "¥148.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费",
+      "Cat Pro": "¥168.00",
+      "Premium (1 Month)": "¥22.00",
+      "Premium (3 Month)": "¥58.00",
+      "Premium (12 Month)": "¥148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Cat Pro": "¥168.00",
+            "Premium (1 Month)": "¥22.00",
+            "Premium (3 Month)": "¥58.00",
+            "Premium (12 Month)": "¥148.00"
+          }
         }
       ]
     ]

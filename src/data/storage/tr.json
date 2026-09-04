@@ -13761,14 +13761,14 @@
   "388624839": {
     "name": "CamScanner + | PDF Scanner",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
-      "CamScanner Premium": "₺329,99",
-      "One-page Fax": "₺39,99",
-      "Ten-page Fax": "₺399,99",
-      "3000 C-Points": "₺229,99",
-      "600 cp + One chance to Draw": "₺39,99",
-      "3000 cp + Six chance to Draw": "₺229,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "CamScanner Premium": "₺799,99",
+      "One-page Fax": "₺49,99",
+      "Ten-page Fax": "₺499,99",
+      "3000 C-Points": "₺249,99",
+      "600 cp + One chance to Draw": "₺49,99",
+      "3000 cp + Six chance to Draw": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -13781,6 +13781,21 @@
       "3000 cp + Six chance to Draw": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺799,99",
+            "One-page Fax": "₺49,99",
+            "Ten-page Fax": "₺499,99",
+            "3000 C-Points": "₺249,99",
+            "600 cp + One chance to Draw": "₺49,99",
+            "3000 cp + Six chance to Draw": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750302768824,
@@ -77671,6 +77686,58 @@
       ]
     ]
   },
+  "934850257": {
+    "name": "OsmAnd Maps Travel & Navigate",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "OsmAnd Pro Monthly": "₺249,99",
+      "OsmAnd Maps+ Annual": "₺699,99",
+      "Wikipedia": "₺0,00",
+      "OsmAnd Pro Annual": "₺1.999,99",
+      "OsmAnd: All inclusive Annual": "₺169,99",
+      "Contour lines": "₺499,99",
+      "OsmAnd Maps+": "₺2.999,99",
+      "OsmAnd: All inclusive 3 months": "₺22,99",
+      "All World Maps": "₺999,99",
+      "Europe": "₺799,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "OsmAnd Pro Monthly": "₺249,99",
+      "OsmAnd Maps+ Annual": "₺699,99",
+      "Wikipedia": "₺0,00",
+      "OsmAnd Pro Annual": "₺1.999,99",
+      "OsmAnd: All inclusive Annual": "₺169,99",
+      "Contour lines": "₺499,99",
+      "OsmAnd Maps+": "₺2.999,99",
+      "OsmAnd: All inclusive 3 months": "₺22,99",
+      "All World Maps": "₺999,99",
+      "Europe": "₺799,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "OsmAnd Pro Monthly": "₺249,99",
+            "OsmAnd Maps+ Annual": "₺699,99",
+            "Wikipedia": "₺0,00",
+            "OsmAnd Pro Annual": "₺1.999,99",
+            "OsmAnd: All inclusive Annual": "₺169,99",
+            "Contour lines": "₺499,99",
+            "OsmAnd Maps+": "₺2.999,99",
+            "OsmAnd: All inclusive 3 months": "₺22,99",
+            "All World Maps": "₺999,99",
+            "Europe": "₺799,99"
+          }
+        }
+      ]
+    ]
+  },
   "935216956": {
     "name": "Papers, Please",
     "maxPriceInfo": {
@@ -132822,6 +132889,37 @@
           "price": 39.99,
           "formattedPrice": "₺39,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "name": "SSH Client - Secure ShellFish",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ShellFish Monthly subscription": "₺69,99",
+      "ShellFish Lifetime Pro Unlock": "₺999,99",
+      "ShellFish Annual subscription": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ShellFish Monthly subscription": "₺69,99",
+      "ShellFish Lifetime Pro Unlock": "₺999,99",
+      "ShellFish Annual subscription": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "₺69,99",
+            "ShellFish Lifetime Pro Unlock": "₺999,99",
+            "ShellFish Annual subscription": "₺499,99"
+          }
         }
       ]
     ]
@@ -277777,6 +277875,40 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "name": "Cat Keyboard - Easy Paste",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Cat Pro": "₺1.299,99",
+      "Premium (3 Month)": "₺399,99",
+      "Premium (12 Month)": "₺999,99",
+      "Premium (1 Month)": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Cat Pro": "₺1.299,99",
+      "Premium (3 Month)": "₺399,99",
+      "Premium (12 Month)": "₺999,99",
+      "Premium (1 Month)": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Cat Pro": "₺1.299,99",
+            "Premium (3 Month)": "₺399,99",
+            "Premium (12 Month)": "₺999,99",
+            "Premium (1 Month)": "₺149,99"
+          }
         }
       ]
     ]

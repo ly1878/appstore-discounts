@@ -11681,7 +11681,9 @@
       "3000 C-Points": "USD 4.99",
       "十頁傳真": "USD 8.99",
       "掃描全能王高級帳戶單月版": "USD 4.99",
-      "掃描全能王高級帳戶全年版": "USD 49.99"
+      "掃描全能王高級帳戶全年版": "USD 49.99",
+      "扫描全能王高级帐户（一年）": "USD 39.99",
+      "扫描全能王高级帐户（一个月）": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -11693,9 +11695,26 @@
       "3000 C-Points": "USD 4.99",
       "十頁傳真": "USD 8.99",
       "掃描全能王高級帳戶單月版": "USD 4.99",
-      "掃描全能王高級帳戶全年版": "USD 49.99"
+      "掃描全能王高級帳戶全年版": "USD 49.99",
+      "扫描全能王高级帐户（一年）": "USD 39.99",
+      "扫描全能王高级帐户（一个月）": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "USD 49.99",
+            "一頁傳真": "USD 0.99",
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746835719930,
@@ -60304,6 +60323,60 @@
       ]
     ]
   },
+  "934850257": {
+    "trackId": 934850257,
+    "trackName": "OsmAnd Maps Travel & Navigate",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "OsmAnd Maps+ Annual": "USD 9.99",
+      "Wikipedia": "USD 0.00",
+      "OsmAnd Maps+": "USD 59.99",
+      "Contour lines": "USD 8.99",
+      "All World Maps": "USD 19.99",
+      "Nautical Map": "USD 1.99",
+      "OsmAnd Pro Monthly": "USD 4.99",
+      "OsmAnd Pro Annual": "USD 34.99",
+      "Antarctica": "USD 1.99",
+      "OsmAnd: All Inclusive Monthly": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "OsmAnd Maps+ Annual": "USD 9.99",
+      "Wikipedia": "USD 0.00",
+      "OsmAnd Maps+": "USD 59.99",
+      "Contour lines": "USD 8.99",
+      "All World Maps": "USD 19.99",
+      "Nautical Map": "USD 1.99",
+      "OsmAnd Pro Monthly": "USD 4.99",
+      "OsmAnd Pro Annual": "USD 34.99",
+      "Antarctica": "USD 1.99",
+      "OsmAnd: All Inclusive Monthly": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "OsmAnd Maps+ Annual": "USD 9.99",
+            "Wikipedia": "USD 0.00",
+            "OsmAnd Maps+": "USD 59.99",
+            "Contour lines": "USD 8.99",
+            "All World Maps": "USD 19.99",
+            "Nautical Map": "USD 1.99",
+            "OsmAnd Pro Monthly": "USD 4.99",
+            "OsmAnd Pro Annual": "USD 34.99",
+            "Antarctica": "USD 1.99",
+            "OsmAnd: All Inclusive Monthly": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
   "935216956": {
     "trackId": 935216956,
     "trackName": "Papers, Please",
@@ -103246,6 +103319,39 @@
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "trackId": 1336634154,
+    "trackName": "SSH Client - Secure ShellFish",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ShellFish Annual subscription": "USD 12.99",
+      "ShellFish Monthly subscription": "USD 2.99",
+      "ShellFish Lifetime Pro Unlock": "USD 24.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ShellFish Annual subscription": "USD 12.99",
+      "ShellFish Monthly subscription": "USD 2.99",
+      "ShellFish Lifetime Pro Unlock": "USD 24.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ShellFish Annual subscription": "USD 12.99",
+            "ShellFish Monthly subscription": "USD 2.99",
+            "ShellFish Lifetime Pro Unlock": "USD 24.99"
+          }
         }
       ]
     ]
@@ -204135,6 +204241,42 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "trackId": 6477843068,
+    "trackName": "貓鍵盤",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Cat Pro": "USD 24.99",
+      "Premium (3 Month)": "USD 7.99",
+      "Premium (12 Month)": "USD 19.99",
+      "Premium (1 Month)": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Cat Pro": "USD 24.99",
+      "Premium (3 Month)": "USD 7.99",
+      "Premium (12 Month)": "USD 19.99",
+      "Premium (1 Month)": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cat Pro": "USD 24.99",
+            "Premium (3 Month)": "USD 7.99",
+            "Premium (12 Month)": "USD 19.99",
+            "Premium (1 Month)": "USD 2.99"
+          }
         }
       ]
     ]

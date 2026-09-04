@@ -14424,7 +14424,8 @@
       "3000 cp + Six chance to Draw": "$150.00",
       "600 cp + One chance to Draw": "$30.00",
       "掃描全能王高級帳戶單月版": "$150.00",
-      "掃描全能王高級帳戶全年版": "$1,490.00"
+      "掃描全能王高級帳戶全年版": "$1,490.00",
+      "扫描全能王高级帐户（一年）": "$1,290.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -14436,9 +14437,26 @@
       "3000 cp + Six chance to Draw": "$150.00",
       "600 cp + One chance to Draw": "$30.00",
       "掃描全能王高級帳戶單月版": "$150.00",
-      "掃描全能王高級帳戶全年版": "$1,490.00"
+      "掃描全能王高級帳戶全年版": "$1,490.00",
+      "扫描全能王高级帐户（一年）": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "$1,660.00",
+            "一頁傳真": "$30.00",
+            "十頁傳真": "$290.00",
+            "3000 C-Points": "$150.00",
+            "3000 cp + Six chance to Draw": "$150.00",
+            "600 cp + One chance to Draw": "$30.00",
+            "扫描全能王高级帐户（一年）": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746723741923,
@@ -74773,6 +74791,58 @@
       ]
     ]
   },
+  "934850257": {
+    "name": "OsmAnd Maps Travel & Navigate",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Wikipedia": "$0.00",
+      "Contour lines": "$290.00",
+      "OsmAnd: All inclusive Annual": "$280.00",
+      "OsmAnd Pro Monthly": "$150.00",
+      "All World Maps": "$690.00",
+      "Asia": "$150.00",
+      "OsmAnd Maps+": "$1,990.00",
+      "OsmAnd Maps+ Annual": "$320.00",
+      "Nautical Map": "$60.00",
+      "OsmAnd Pro Annual": "$1,190.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Wikipedia": "$0.00",
+      "Contour lines": "$290.00",
+      "OsmAnd: All inclusive Annual": "$280.00",
+      "OsmAnd Pro Monthly": "$150.00",
+      "All World Maps": "$690.00",
+      "Asia": "$150.00",
+      "OsmAnd Maps+": "$1,990.00",
+      "OsmAnd Maps+ Annual": "$320.00",
+      "Nautical Map": "$60.00",
+      "OsmAnd Pro Annual": "$1,190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Wikipedia": "$0.00",
+            "Contour lines": "$290.00",
+            "OsmAnd: All inclusive Annual": "$280.00",
+            "OsmAnd Pro Monthly": "$150.00",
+            "All World Maps": "$690.00",
+            "Asia": "$150.00",
+            "OsmAnd Maps+": "$1,990.00",
+            "OsmAnd Maps+ Annual": "$320.00",
+            "Nautical Map": "$60.00",
+            "OsmAnd Pro Annual": "$1,190.00"
+          }
+        }
+      ]
+    ]
+  },
   "935216956": {
     "name": "Papers, Please",
     "maxPriceInfo": {
@@ -130850,6 +130920,37 @@
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "name": "SSH Client - Secure ShellFish",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ShellFish Lifetime Pro Unlock": "$790.00",
+      "ShellFish Monthly subscription": "$90.00",
+      "ShellFish Annual subscription": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ShellFish Lifetime Pro Unlock": "$790.00",
+      "ShellFish Monthly subscription": "$90.00",
+      "ShellFish Annual subscription": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ShellFish Lifetime Pro Unlock": "$790.00",
+            "ShellFish Monthly subscription": "$90.00",
+            "ShellFish Annual subscription": "$390.00"
+          }
         }
       ]
     ]
@@ -297961,6 +298062,40 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "name": "貓鍵盤",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Cat Pro": "$790.00",
+      "Premium (1 Month)": "$90.00",
+      "Premium (3 Month)": "$290.00",
+      "Premium (12 Month)": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Cat Pro": "$790.00",
+      "Premium (1 Month)": "$90.00",
+      "Premium (3 Month)": "$290.00",
+      "Premium (12 Month)": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cat Pro": "$790.00",
+            "Premium (1 Month)": "$90.00",
+            "Premium (3 Month)": "$290.00",
+            "Premium (12 Month)": "$690.00"
+          }
         }
       ]
     ]

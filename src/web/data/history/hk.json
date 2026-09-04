@@ -75310,6 +75310,60 @@
       ]
     ]
   },
+  "934850257": {
+    "trackId": 934850257,
+    "trackName": "OsmAnd Maps Travel & Navigate",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Contour lines": "HK$ 68.00",
+      "Wikipedia": "HK$ 0.00",
+      "OsmAnd Pro Monthly": "HK$ 38.00",
+      "All World Maps": "HK$ 148.00",
+      "OsmAnd: All inclusive Annual": "HK$ 73.00",
+      "Asia": "HK$ 38.00",
+      "OsmAnd Maps+ Annual": "HK$ 98.00",
+      "OsmAnd: All Inclusive Monthly": "HK$ 15.00",
+      "Nautical Map": "HK$ 18.00",
+      "OsmAnd Pro Annual": "HK$ 288.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Contour lines": "HK$ 68.00",
+      "Wikipedia": "HK$ 0.00",
+      "OsmAnd Pro Monthly": "HK$ 38.00",
+      "All World Maps": "HK$ 148.00",
+      "OsmAnd: All inclusive Annual": "HK$ 73.00",
+      "Asia": "HK$ 38.00",
+      "OsmAnd Maps+ Annual": "HK$ 98.00",
+      "OsmAnd: All Inclusive Monthly": "HK$ 15.00",
+      "Nautical Map": "HK$ 18.00",
+      "OsmAnd Pro Annual": "HK$ 288.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Contour lines": "HK$ 68.00",
+            "Wikipedia": "HK$ 0.00",
+            "OsmAnd Pro Monthly": "HK$ 38.00",
+            "All World Maps": "HK$ 148.00",
+            "OsmAnd: All inclusive Annual": "HK$ 73.00",
+            "Asia": "HK$ 38.00",
+            "OsmAnd Maps+ Annual": "HK$ 98.00",
+            "OsmAnd: All Inclusive Monthly": "HK$ 15.00",
+            "Nautical Map": "HK$ 18.00",
+            "OsmAnd Pro Annual": "HK$ 288.00"
+          }
+        }
+      ]
+    ]
+  },
   "935216956": {
     "trackId": 935216956,
     "trackName": "Papers, Please",
@@ -132507,6 +132561,39 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "trackId": 1336634154,
+    "trackName": "SSH Client - Secure ShellFish",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ShellFish Monthly subscription": "HK$ 22.00",
+      "ShellFish Lifetime Pro Unlock": "HK$ 188.00",
+      "ShellFish Annual subscription": "HK$ 98.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "ShellFish Monthly subscription": "HK$ 22.00",
+      "ShellFish Lifetime Pro Unlock": "HK$ 188.00",
+      "ShellFish Annual subscription": "HK$ 98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "HK$ 22.00",
+            "ShellFish Lifetime Pro Unlock": "HK$ 188.00",
+            "ShellFish Annual subscription": "HK$ 98.00"
+          }
         }
       ]
     ]
@@ -291273,6 +291360,42 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "trackId": 6477843068,
+    "trackName": "貓鍵盤",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Cat Pro": "HK$ 188.00",
+      "Premium (1 Month)": "HK$ 22.00",
+      "Premium (3 Month)": "HK$ 58.00",
+      "Premium (12 Month)": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Cat Pro": "HK$ 188.00",
+      "Premium (1 Month)": "HK$ 22.00",
+      "Premium (3 Month)": "HK$ 58.00",
+      "Premium (12 Month)": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788489063218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cat Pro": "HK$ 188.00",
+            "Premium (1 Month)": "HK$ 22.00",
+            "Premium (3 Month)": "HK$ 58.00",
+            "Premium (12 Month)": "HK$ 148.00"
+          }
         }
       ]
     ]
