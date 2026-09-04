@@ -1,5 +1,46 @@
 [
   {
+    "timestamp": 1788507050610,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 6477843068,
+          "trackName": "猫键盘",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 934850257,
+          "trackName": "OsmAnd — Mapas e GPS Offline",
+          "inAppPurchasesTimes": 3
+        }
+      ]
+    },
+    "duration": "11.612s",
+    "regionAppCount": {
+      "cn": 2,
+      "hk": 3,
+      "mo": 3,
+      "tw": 3,
+      "us": 3,
+      "tr": 3,
+      "pt": 3
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1788491062450,
     "regionAppInfo": {
       "cn": [],
