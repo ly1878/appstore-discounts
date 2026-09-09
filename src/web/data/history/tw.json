@@ -78517,7 +78517,10 @@
       "Legacy - Portrait Filters": "$120.00",
       "Legacy - XPRO": "$120.00",
       "Legacy - Black & White Filters": "$120.00",
-      "折扣年訂閱": "$990.00"
+      "折扣年訂閱": "$990.00",
+      "Legacy - Duotone Filters": "$60.00",
+      "Legacy - Instant Filters": "$60.00",
+      "Legacy - Landscape Filters": "$120.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -78531,9 +78534,31 @@
       "Legacy - Portrait Filters": "$120.00",
       "Legacy - XPRO": "$120.00",
       "Legacy - Black & White Filters": "$120.00",
-      "折扣年訂閱": "$990.00"
+      "折扣年訂閱": "$990.00",
+      "Legacy - Duotone Filters": "$60.00",
+      "Legacy - Instant Filters": "$60.00",
+      "Legacy - Landscape Filters": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788994190086,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "折扣年訂閱": "$990.00",
+            "每月訂閱": "$190.00",
+            "永久解鎖全部功能": "$2,990.00",
+            "年度訂閱": "$690.00",
+            "Legacy - Duotone Filters": "$60.00",
+            "Legacy - Instant Filters": "$60.00",
+            "Legacy - XPRO": "$120.00",
+            "Legacy - Black & White Filters": "$120.00",
+            "Legacy - Landscape Filters": "$120.00",
+            "Legacy - Portrait Filters": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788524447256,
