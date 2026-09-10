@@ -77472,6 +77472,23 @@
     "history": [
       [
         {
+          "timestamp": 1789005467985,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "$690.00",
+            "每月訂閱": "$190.00",
+            "Legacy - Unlock Everything": "$320.00",
+            "Legacy - All Tools": "$290.00",
+            "永久解鎖全部功能": "$2,990.00",
+            "Legacy - All Premium Filters": "$290.00",
+            "Legacy - Portrait Filters": "$120.00",
+            "Legacy - XPRO": "$120.00",
+            "Legacy - Black & White Filters": "$120.00",
+            "折扣年訂閱": "$990.00"
+          }
+        },
+        {
           "timestamp": 1788994190086,
           "price": 0,
           "formattedPrice": "免費",
