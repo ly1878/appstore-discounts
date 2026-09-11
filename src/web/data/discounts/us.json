@@ -1,5 +1,79 @@
 [
   {
+    "trackId": 994157520,
+    "region": "us",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6467822375,
+    "region": "us",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Lifetime",
+        "from": "$24.99",
+        "to": "$5.99",
+        "range": "[$5.99 ~ $29.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "24h Pass",
+        "from": "$0.69",
+        "to": "$0.59",
+        "range": "[$0.49 ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6467822375",
+    "trackName": "Auto Redial - Phone Call Retry",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6480058345,
+    "region": "us",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6480058345",
+    "trackName": "Kaiju Attack 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
     "trackId": 549432607,
     "region": "us",
     "timestamp": 1788404920760,
@@ -4584,7 +4658,7 @@
         "name": "Premium Lifetime",
         "from": "$24.99",
         "to": "$12.99",
-        "range": "[$7.99 ~ $29.99]"
+        "range": "[$5.99 ~ $29.99]"
       },
       {
         "type": "inAppPurchase",
@@ -14319,7 +14393,7 @@
         "name": "Premium Lifetime",
         "from": "$29.99",
         "to": "$7.99",
-        "range": "[$7.99 ~ $29.99]"
+        "range": "[$5.99 ~ $29.99]"
       }
     ],
     "price": 0,

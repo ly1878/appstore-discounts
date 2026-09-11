@@ -1,5 +1,72 @@
 [
   {
+    "trackId": 994157520,
+    "region": "tw",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$33.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6467822375,
+    "region": "tw",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "$690.00",
+        "to": "$190.00",
+        "range": "[$190.00 ~ $990.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
+    "trackName": "Auto Redial - 自動重撥",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6480058345,
+    "region": "tw",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
     "trackId": 549432607,
     "region": "tw",
     "timestamp": 1788364904788,
@@ -3504,7 +3571,7 @@
         "name": "高級終身會員",
         "from": "$590.00",
         "to": "$390.00",
-        "range": "[$290.00 ~ $990.00]"
+        "range": "[$190.00 ~ $990.00]"
       },
       {
         "type": "inAppPurchase",
@@ -4652,7 +4719,7 @@
         "name": "高級終身會員",
         "from": "$590.00",
         "to": "$390.00",
-        "range": "[$290.00 ~ $990.00]"
+        "range": "[$190.00 ~ $990.00]"
       },
       {
         "type": "inAppPurchase",
@@ -5220,7 +5287,7 @@
         "name": "高級終身會員",
         "from": "$790.00",
         "to": "$590.00",
-        "range": "[$290.00 ~ $990.00]"
+        "range": "[$190.00 ~ $990.00]"
       }
     ],
     "price": 0,
@@ -5416,7 +5483,7 @@
         "name": "高級終身會員",
         "from": "$590.00",
         "to": "$320.00",
-        "range": "[$290.00 ~ $990.00]"
+        "range": "[$190.00 ~ $990.00]"
       },
       {
         "type": "inAppPurchase",
@@ -14351,7 +14418,7 @@
         "name": "高級終身會員",
         "from": "$990.00",
         "to": "$290.00",
-        "range": "[$290.00 ~ $990.00]"
+        "range": "[$190.00 ~ $990.00]"
       },
       {
         "type": "inAppPurchase",

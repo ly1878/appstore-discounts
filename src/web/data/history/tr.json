@@ -87565,6 +87565,20 @@
     "history": [
       [
         {
+          "timestamp": 1789096686298,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺89,99",
+            "60,000 Gold": "₺169,99",
+            "700,000 Gold": "₺4.999,99",
+            "325,000 Gold": "₺769,99",
+            "125,000 Gold": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785881474416,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -256862,12 +256876,28 @@
       "Pro – Lifetime": "₺0,00",
       "Weekly Subscription": "₺39,99",
       "Yearly Subscription": "₺249,99",
-      "Premium Lifetime": "₺399,99",
+      "Premium Lifetime": "₺299,99",
       "7-Day Pass": "₺79,99",
       "3-Day Pass": "₺39,99",
       "24h Pass": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096686298,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-Day Pass": "₺49,99",
+            "Weekly Subscription": "₺79,99",
+            "Premium Lifetime": "₺299,99",
+            "7-Day Pass": "₺149,99",
+            "24h Pass": "₺29,99",
+            "Pro – Lifetime": "₺0,00",
+            "Yearly Subscription": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788404920760,
@@ -258765,6 +258795,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096686298,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786929139377,

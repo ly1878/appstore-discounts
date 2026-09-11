@@ -48,6 +48,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "994157520": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1020541183": {
       "all": 1,
       "price": 1,
@@ -97,6 +102,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6480058345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6467822375": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "高級終身會員": 1,
+        "7-Day Pass": 1,
+        "24小時通行證": 1
+      }
     }
   },
   "mo": {
@@ -110,6 +129,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "994157520": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1020541183": {
       "all": 1,
       "price": 1,
@@ -159,6 +183,19 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6480058345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6467822375": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "24小時通行證": 1,
+        "高級終身會員": 1
+      }
     }
   },
   "tw": {
@@ -168,6 +205,11 @@
       "inAppPurchase": {}
     },
     "982457990": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "994157520": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -216,6 +258,19 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6480058345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6467822375": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "7-Day Pass": 1,
+        "高級終身會員": 1
+      }
     }
   },
   "us": {
@@ -225,6 +280,11 @@
       "inAppPurchase": {}
     },
     "982457990": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "994157520": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -293,6 +353,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6480058345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6467822375": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Premium Lifetime": 1,
+        "7-Day Pass": 1,
+        "24h Pass": 1
+      }
     }
   },
   "tr": {
@@ -302,6 +376,11 @@
       "inAppPurchase": {}
     },
     "982457990": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "994157520": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -362,11 +441,18 @@
       "inAppPurchase": {}
     },
     "6467822375": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "7-Day Pass": 1
+        "7-Day Pass": 2,
+        "Premium Lifetime": 1,
+        "24h Pass": 1
       }
+    },
+    "6480058345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "pt": {
@@ -376,6 +462,11 @@
       "inAppPurchase": {}
     },
     "982457990": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "994157520": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -436,12 +527,19 @@
       "inAppPurchase": {}
     },
     "6467822375": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "7-Day Pass": 1,
-        "Premium Lifetime": 1
+        "7-Day Pass": 2,
+        "Premium Lifetime": 2,
+        "3-Day Pass": 1,
+        "Passe de 24 horas": 1
       }
+    },
+    "6480058345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }

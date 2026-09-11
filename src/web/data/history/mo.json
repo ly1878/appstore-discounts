@@ -67946,6 +67946,20 @@
     "history": [
       [
         {
+          "timestamp": 1789096686298,
+          "price": 0.79,
+          "formattedPrice": "USD 0.79",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "60,000資金": "USD 8.99",
+            "325,000資金": "USD 44.99",
+            "25,000資金": "USD 3.99",
+            "125,000資金": "USD 17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785852564271,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -182428,13 +182442,29 @@
       "Pro – Lifetime": "USD 0.00",
       "每週訂閱": "USD 0.69",
       "年度訂閱": "USD 4.99",
-      "高級終身會員": "USD 7.99",
+      "高級終身會員": "USD 5.99",
       "7-Day Pass": "USD 2.99",
       "3-Day Pass": "USD 0.99",
       "24h Pass": "USD 0.49",
-      "24小時通行證": "USD 0.69"
+      "24小時通行證": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096686298,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7-Day Pass": "USD 2.99",
+            "3-Day Pass": "USD 0.99",
+            "24小時通行證": "USD 0.59",
+            "高級終身會員": "USD 5.99",
+            "Pro – Lifetime": "USD 0.00",
+            "每週訂閱": "USD 1.49",
+            "年度訂閱": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785217559321,
@@ -183929,6 +183959,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789096686298,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786893646311,

@@ -1,15 +1,578 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://github.com/ly1878/appstore-discounts/rss/us.xml</id>
-  <title>App Store Discounts（US）</title>
-  <updated>2026-09-04T00:00:00.000Z</updated>
-  <link rel="alternate" href="https://apps.apple.com/us/app"/>
-  <subtitle>Only tracking OsmAnd, Cat Keyboard, ShellFish</subtitle>
-  <entry>
-    <title>Old discount items removed</title>
-    <id>welcome-us-clean</id>
-    <link href="https://github.com/ly1878/appstore-discounts"/>
-    <updated>2026-09-04T00:00:00.000Z</updated>
-    <summary>New items will appear only when these three apps go on sale.</summary>
-  </entry>
+    <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
+    <title>App Store Discounts（US）</title>
+    <updated>2026-09-11T03:18:19.233Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Eyelly wu</name>
+        <email>eyelly.wu@gmail.com</email>
+        <uri>https://github.com/eyelly-wu</uri>
+    </author>
+    <link rel="alternate" href="https://apps.apple.com/us/app"/>
+    <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
+feedId:49753370488353792+userId:73658201673997312
+feedId:157008699750812672+userId:73658201673997312
+</subtitle>
+    <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
+    <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
+    <rights>Copyright (c) 2024-present Eyelly Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
+        <id>welcomeus</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-09-11T03:18:19.233Z</updated>
+        <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
+        <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
+  <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
+</ul><h1>Find Us</h1><a href="https://github.com/appstore-discounts/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Data Report]]></title>
+        <id>rankingusFri, 11 Sep 2026 03:18:19 GMT</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-09-11T03:18:19.233Z</updated>
+        <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
+        <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
+  <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
+    <b>United States(US)</b>
+  </li><li>Türkiye(TR)</li><li>Portugal(PT)</li>
+</ol><h2>Statistics of the Number of App Tracked</h2><table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Total Apps</th>
+      <th>Artificially Added</th>
+      <th>Automatically Added</th>
+      <th>Prohibit Push</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>All</td>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>US</b>
+      </td>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+    </tr>
+  </tbody>
+</table><p>
+  <a href="https://appstore-discounts.eyelly.me/us/apps?lang=en">View All Apps</a>
+</p><h2>Ranking of App Discounts This Month(US)</h2><blockquote>Since it supports applications that automatically add tracking based on paid application rankings, most applications are now automatically added, and the quality of the application is unknown and uncontrollable. The current ranking will be used as a reference for subsequent disabling push.</blockquote><table>
+  <thead>
+    <tr>
+      <th>Ranking</th>
+      <th>App</th>
+      <th>Number of Discounts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/549432607?lang=en">Townsmen Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/982457990?lang=en">Cross Infinity: Eschaton Rifts</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/994157520?lang=en">1942 Pacific Front Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1020541183?lang=en">MovieSpirit - Movie Maker Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1298544927?lang=en">My Child Lebensborn</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1435752659?lang=en">駕考王 - 澳門駕考駕照筆試模擬考試題庫</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1477806063?lang=en">Football Agent</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1552864378?lang=en">ScourgeBringer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1592505377?lang=en">Wreckfest</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1642715290?lang=en">Little Big Workshop</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6747307749?lang=en">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6759970821?lang=en">Dungeon Merge!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en">Kaiju Attack 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6467822375?lang=en">Auto Redial - Phone Call Retry</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Premium Lifetime</i>：<b>1</b>
+              </li><li>
+                <i>7-Day Pass</i>：<b>1</b>
+              </li><li>
+                <i>24h Pass</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table><h2>Disable Push Apps</h2><table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>App</th>
+      <th>Add Method</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaiju Attack 2]]></title>
+        <id>Kaiju Attack 2-us-1789096686298</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en"/>
+        <updated>2026-09-11T03:18:06.298Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
+  To wash away the shame of defeat two years ago, Chaos has gathered an alien coalition, attacking Earth once more, citing humanity's sins as justification.
+Even the once-defending superhero now turns against us. As the commander, how will you resolve this crisis? What lies ahead for humanity and Earth?
+
+Game Intro
+Kaiju Attack 2, the sequel to our critically acclaimed title released two years ago, builds upon the strengths of the first installment while addressing its shortcomings. We've introduced numerous new features and enhancements, including:
+- Faster-paced and more intense gameplay.
+- Introduction of currency tiles alongside the existing three types.
+- Ability to deploy multiple types of secret weapons simultaneously.
+- Nine new alien bosses with smarter, more cunning behavior AI for increased challenge.
+- Eight new secret weapons, including super robots capable of splitting into three separate units and combining.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
+        <id>1942 Pacific Front Premium-us-1789096686298</id>
+        <link href="https://appstore-discounts.eyelly.me/us/994157520?lang=en"/>
+        <updated>2026-09-11T03:18:06.298Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/994157520?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/37/a4/6e37a4bc-1e74-ea85-f462-678a077bec82/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    60,000 Gold：<b>$10.99</b>
+  </li><li>
+    25,000 Gold：<b>$5.99</b>
+  </li><li>
+    125,000 Gold：<b>$21.99</b>
+  </li><li>
+    325,000 Gold：<b>$54.99</b>
+  </li><li>
+    700,000 Gold：<b>$89.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  The battle continues after “1941 Frozen Front” – and this time, it’s all about naval warfare! Join the navy and fight to win the battle of your life! Own the battlefield and send your soldiers to the frontline. Military combat at its best!
+Choose the right tactics and use your commando to defeat the enemy! Lead the U.S. Army on their campaign or command the Japanese forces on their mission! Take out enemy alliances with infantry, artillery, tanks, warplanes, battleships and submarines and earn your stripes as an ingenious commander at the PACIFIC FRONT! 
+
+*** MISSION BRIEFING ***
+FIGHT with powerful weapons like torpedos and bombs!
+TAKE OUT enemy positions with tanks and infantry!
+BOMBARD hostile headquarters with mighty bomber wings!
+SURPRISE the enemy with attacks from your submarine!
+EMPLACE your artillery in rough terrain!
+CLEAR beaches, lagoons and straits!
+AMBUSH the enemy! 
+SUPPLY your army with goods and ammunition!
+DEFEND your aircraft carriers and battleships!
+
+Features:
+- Play without ads!
+- Turn-based strategy action set in WW2
+- Thrilling campaigns and challenging missions
+- Historical U.S. and Japanese units
+- Infantry, artillery, tanks, warplanes, battleships and submarines for both fractions
+- Repairs, camouflage and fortification of units during the battles
+- Hot-hand multiplayer battles
+- Hex grid for the best overview possible
+- Detailed graphics and super-realistic sounds 
+- Full tablet support
+
+Thank you for playing ‘1942 Pacific Front’!
+
+© HandyGames 2026
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/dc/94/dbdc941e-f3d1-cd09-870b-093ead16614c/mzl.vaxbiwtd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/09/5c/ec095c03-9c23-d3bd-afdd-ca2a61f4cb09/mzl.koobpsyo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/c7/e7/71c7e7c8-b30a-ed0f-962c-e732bc781b65/mzl.legezkvc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/46/db/8e46db9b-9b34-f2a1-ebe2-c7da7ad7d7a1/mzl.pdmudgrd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/08/b7/c408b729-93d6-ae6f-2f5d-4ad8201d6bf7/mzl.rxehmyfo.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/de/b7/a4deb72b-6987-f3ef-1c0c-c18bcc41ec28/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/d3/46/3bd34672-cfc4-68db-c733-465c49c9fb1f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/78/73/a1787373-b572-1b0b-e484-13d1fda04d2a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/cb/1f/a3cb1f3b-efcf-1fca-fca9-0abbb284828c/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f5/6d/a6f56d13-df92-9802-89d4-6409bfe8110a/pr_source.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto Redial - Phone Call Retry]]></title>
+        <id>Auto Redial - Phone Call Retry-us-1789096686298</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6467822375?lang=en"/>
+        <updated>2026-09-11T03:18:06.298Z</updated>
+        <summary type="html"><![CDATA[Premium Lifetime: $24.99 → $5.99<br/>7-Day Pass: $4.99 → $2.99<br/>24h Pass: $0.69 → $0.59]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6467822375?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a1/cc2ea1d5-0045-c8eb-6697-feb35cd6d97f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium Lifetime：</strong><span>$24.99</span> → <b>
+  <strong>$5.99</strong>
+</b><span>[$5.99 ~ $29.99]</span>
+  </li><li>
+    <strong>7-Day Pass：</strong><span>$4.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $4.99]</span>
+  </li><li>
+    <strong>24h Pass：</strong><span>$0.69</span> → <b>
+  <strong>$0.59</strong>
+</b><span>[$0.49 ~ $0.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Weekly Subscription：<b>$1.49</b>
+  </li><li>
+    Premium Lifetime：<b>$5.99</b>
+  </li><li>
+    3-Day Pass：<b>$0.99</b>
+  </li><li>
+    7-Day Pass：<b>$2.99</b>
+  </li><li>
+    24h Pass：<b>$0.59</b>
+  </li><li>
+    Yearly Subscription：<b>$8.99</b>
+  </li><li>
+    Pro – Lifetime：<b>$0.00</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  With this application, you can make automatic calls to the numbers you want efficiently and in a personalized way. You can define the number of repetitions, the interval between calls, add an extension, activate vibration before dialing, and even schedule your calls using a built-in calendar. Auto Redial App also offers a simple and intuitive interface, detailed call history, and multiple customization options to fit your needs.
+
+This application is ideal for anyone who needs to make repetitive calls automatically — such as an appointment call, a busy call retry, or contacting services where the line is busy.
+
+Main Features:
+- Automatically redial busy or unanswered calls.
+- Set number of retries and time intervals.
+- Schedule calls in advance via calendar.
+- Add extensions automatically after dialing.
+- Enable vibration before each redial.
+- Call history and retry stats.
+
+Perfect for:
+- Booking appointments (doctors, embassies, etc.)
+- Customer service or tech support
+- Calling public offices
+- Freelancers and business owners following up clients
+
+Whether you’re calling to book a doctor’s appointment, reach customer service, or just trying to connect when the line is busy, this app saves time and frustration.
+
+
+Privacy Policy:
+https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
+
+Terms of Use (EULA):
+Apple App Store
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/34/a6/ea34a6ef-0f27-5c2f-da72-0ac5d433c69a/989ffe33-0c8a-4a18-be78-abf229ff9046_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.33.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/c3/95/6ec39518-34cf-2527-a49d-9b9949be9e52/3c5224a8-9051-4329-a504-3fc03f035a07_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.42.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/a3/78/d2a378e3-099c-feda-76cc-f5c189cc7372/8e2f164c-246c-46ff-90c9-abba2c4b7ee5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.21.26.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cc/52/28cc5275-ceee-255b-2645-07ada3a0aa76/3cd58bbf-5a78-4970-bec9-ca56e64292fd_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/3f/04/453f04d4-1dc8-8d6f-0603-581683f8d5d9/26d59837-71f1-4582-a8f6-35a1d39a38c5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.48.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/81/52/e081524f-fe33-4ef1-c2e7-bcdd6950de38/36a302a5-17a0-4c7d-a575-bfb64f8d97dc_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/52/79/51527915-b73c-86c1-9bfa-328c25a89a2a/8f69617d-e5f1-4726-ba4a-266eaa3ee8e3_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.35.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/63/08/b363088f-ebbe-404f-9990-982d329c4c4c/49d79db2-cae7-45ba-a075-dd34372e3fe1_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.21.11.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/1d/7b/d61d7b86-e55a-df56-a632-28e491055fd9/91e843c0-9b5c-4871-b072-e7f072071149_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.19.07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/d9/91/9ad99154-84aa-2bc6-1ef0-5256999b5b99/cc0e8dd8-8469-47c4-95a0-7c9b68db56b5_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.47.png/576x768bb.png" />]]></content>
+    </entry>
 </feed>

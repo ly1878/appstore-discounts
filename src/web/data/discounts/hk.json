@@ -1,5 +1,79 @@
 [
   {
+    "trackId": 994157520,
+    "region": "hk",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6467822375,
+    "region": "hk",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "HK$ 188.00",
+        "to": "HK$ 48.00",
+        "range": "[HK$ 48.00 ~ HK$ 228.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "HK$ 38.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "24小時通行證",
+        "from": "HK$ 8.00",
+        "to": "HK$ 6.00",
+        "range": "[HK$ 6.00 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6467822375",
+    "trackName": "Auto Redial - 自動重撥",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6480058345,
+    "region": "hk",
+    "timestamp": 1789096686298,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
     "trackId": 549432607,
     "region": "hk",
     "timestamp": 1788364904788,
@@ -4404,7 +4478,7 @@
         "name": "高級終身會員",
         "from": "HK$ 188.00",
         "to": "HK$ 98.00",
-        "range": "[HK$ 58.00 ~ HK$ 228.00]"
+        "range": "[HK$ 48.00 ~ HK$ 228.00]"
       },
       {
         "type": "inAppPurchase",
@@ -4592,7 +4666,7 @@
         "name": "高級終身會員",
         "from": "HK$ 188.00",
         "to": "HK$ 98.00",
-        "range": "[HK$ 58.00 ~ HK$ 228.00]"
+        "range": "[HK$ 48.00 ~ HK$ 228.00]"
       }
     ],
     "price": 0,
@@ -5148,7 +5222,7 @@
         "name": "高級終身會員",
         "from": "HK$ 148.00",
         "to": "HK$ 88.00",
-        "range": "[HK$ 58.00 ~ HK$ 228.00]"
+        "range": "[HK$ 48.00 ~ HK$ 228.00]"
       },
       {
         "type": "inAppPurchase",
@@ -14020,7 +14094,7 @@
         "name": "高級終身會員",
         "from": "HK$ 228.00",
         "to": "HK$ 58.00",
-        "range": "[HK$ 58.00 ~ HK$ 228.00]"
+        "range": "[HK$ 48.00 ~ HK$ 228.00]"
       },
       {
         "type": "inAppPurchase",
