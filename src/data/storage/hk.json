@@ -74358,7 +74358,10 @@
       "OsmAnd Maps+ Annual": "HK$ 98.00",
       "OsmAnd: All Inclusive Monthly": "HK$ 15.00",
       "Nautical Map": "HK$ 18.00",
-      "OsmAnd Pro Annual": "HK$ 288.00"
+      "OsmAnd Pro Annual": "HK$ 288.00",
+      "OsmAnd Maps+": "HK$ 488.00",
+      "Antarctica": "HK$ 18.00",
+      "OsmAnd: All inclusive 3 months": "HK$ 28.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -74372,9 +74375,31 @@
       "OsmAnd Maps+ Annual": "HK$ 98.00",
       "OsmAnd: All Inclusive Monthly": "HK$ 15.00",
       "Nautical Map": "HK$ 18.00",
-      "OsmAnd Pro Annual": "HK$ 288.00"
+      "OsmAnd Pro Annual": "HK$ 288.00",
+      "OsmAnd Maps+": "HK$ 488.00",
+      "Antarctica": "HK$ 18.00",
+      "OsmAnd: All inclusive 3 months": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789149532118,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "OsmAnd Maps+": "HK$ 488.00",
+            "OsmAnd Maps+ Annual": "HK$ 98.00",
+            "OsmAnd Pro Monthly": "HK$ 38.00",
+            "OsmAnd Pro Annual": "HK$ 288.00",
+            "Antarctica": "HK$ 18.00",
+            "OsmAnd: All Inclusive Monthly": "HK$ 15.00",
+            "OsmAnd: All inclusive 3 months": "HK$ 28.00",
+            "OsmAnd: All inclusive Annual": "HK$ 73.00",
+            "Contour lines": "HK$ 68.00",
+            "Wikipedia": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,

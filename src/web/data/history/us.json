@@ -86511,7 +86511,9 @@
       "North America": "$14.99",
       "OsmAnd: All Inclusive Monthly": "$1.99",
       "OsmAnd Maps+": "$69.99",
-      "All World Maps": "$19.99"
+      "All World Maps": "$19.99",
+      "Antarctica": "$1.99",
+      "OsmAnd: All inclusive 3 months": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -86525,9 +86527,30 @@
       "North America": "$14.99",
       "OsmAnd: All Inclusive Monthly": "$1.99",
       "OsmAnd Maps+": "$69.99",
-      "All World Maps": "$19.99"
+      "All World Maps": "$19.99",
+      "Antarctica": "$1.99",
+      "OsmAnd: All inclusive 3 months": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789149532118,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "OsmAnd Maps+": "$69.99",
+            "OsmAnd Maps+ Annual": "$14.99",
+            "OsmAnd Pro Monthly": "$5.99",
+            "OsmAnd Pro Annual": "$39.99",
+            "Antarctica": "$1.99",
+            "OsmAnd: All Inclusive Monthly": "$1.99",
+            "OsmAnd: All inclusive 3 months": "$4.99",
+            "OsmAnd: All inclusive Annual": "$8.99",
+            "Contour lines": "$8.99",
+            "Wikipedia": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,
