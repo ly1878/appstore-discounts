@@ -30,16 +30,25 @@
       "addType": "manual"
     },
     {
-      "id": 953286746,
+      "id": 6480058345,
       "name": {
-        "us": "Darkroom: Photo & Video Editor"
+        "us": "Kaiju Attack 2",
+        "tw": "怪獸大進擊 2",
+        "hk": "怪獸大進擊 2"
       },
       "addType": "manual"
     },
     {
-      "id": 694647259,
+      "id": 994157520,
       "name": {
-        "us": "ProCamera. Professional Camera"
+        "us": "1942 Pacific Front Premium"
+      },
+      "addType": "manual"
+    },
+    {
+      "id": 6467822375,
+      "name": {
+        "us": "Auto Redial - Phone Call Retry"
       },
       "addType": "manual"
     }
