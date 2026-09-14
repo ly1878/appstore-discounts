@@ -98093,6 +98093,52 @@
       ]
     ]
   },
+  "1099850421": {
+    "name": "Annotable: Annotation & Markup",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "All Features": "₺499,99",
+      "Loupe Tool": "₺99,99",
+      "Spotlight Tool": "₺99,99",
+      "Text Highlighter & Redaction Tool": "₺99,99",
+      "All Text Styles & Fonts": "₺99,99",
+      "All Obscuration Styles": "₺99,99",
+      "Blur Tool": "₺99,99",
+      "Color Customization": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "All Features": "₺499,99",
+      "Loupe Tool": "₺99,99",
+      "Spotlight Tool": "₺99,99",
+      "Text Highlighter & Redaction Tool": "₺99,99",
+      "All Text Styles & Fonts": "₺99,99",
+      "All Obscuration Styles": "₺99,99",
+      "Blur Tool": "₺99,99",
+      "Color Customization": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Features": "₺499,99",
+            "Loupe Tool": "₺99,99",
+            "Spotlight Tool": "₺99,99",
+            "Text Highlighter & Redaction Tool": "₺99,99",
+            "All Text Styles & Fonts": "₺99,99",
+            "All Obscuration Styles": "₺99,99",
+            "Blur Tool": "₺99,99",
+            "Color Customization": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
   "1101997011": {
     "name": "奇門(實用)",
     "maxPriceInfo": {
@@ -112859,6 +112905,37 @@
       ]
     ]
   },
+  "1189158497": {
+    "name": "Photos Measure - Image meter",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Autorenew yearly VIP": "₺499,99",
+      "Autorenew monthly VIP": "₺28,99",
+      "Upgrade to VIP for life time": "₺2.499,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Autorenew yearly VIP": "₺499,99",
+      "Autorenew monthly VIP": "₺28,99",
+      "Upgrade to VIP for life time": "₺2.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Autorenew yearly VIP": "₺499,99",
+            "Autorenew monthly VIP": "₺28,99",
+            "Upgrade to VIP for life time": "₺2.499,99"
+          }
+        }
+      ]
+    ]
+  },
   "1189781891": {
     "name": "Five Nights at Freddy's: SL",
     "maxPriceInfo": {
@@ -115292,6 +115369,37 @@
           "formattedPrice": "Free",
           "inAppPurchases": {
             "INSIDE full game": "₺249,99"
+          }
+        }
+      ]
+    ]
+  },
+  "1202642773": {
+    "name": "Ever Play - HiFi Music Player",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Full Function Pack": "₺46,99",
+      "Hi-Res & DSD & Visualizer": "₺1.999,99",
+      "Real-time DSD Conversion": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Full Function Pack": "₺46,99",
+      "Hi-Res & DSD & Visualizer": "₺1.999,99",
+      "Real-time DSD Conversion": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Function Pack": "₺46,99",
+            "Hi-Res & DSD & Visualizer": "₺1.999,99",
+            "Real-time DSD Conversion": "₺99,99"
           }
         }
       ]

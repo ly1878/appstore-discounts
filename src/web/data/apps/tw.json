@@ -8160,6 +8160,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 1099850421,
+    "region": "tw",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1099850421",
+    "trackName": "Annotable: Annotation & Markup",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 1101997011,
     "region": "tw",
     "timestamp": 1745492532710,
@@ -9168,6 +9180,18 @@
     "firstRecordedAt": 1764664716757
   },
   {
+    "trackId": 1189158497,
+    "region": "tw",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1189158497",
+    "trackName": "照片標記助手 PhotosMeasure",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 1189781891,
     "region": "tw",
     "timestamp": 1745328692670,
@@ -9334,6 +9358,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1201642309",
     "trackName": "Playdead's INSIDE",
     "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1202642773,
+    "region": "tw",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1202642773",
+    "trackName": "Ever Play - HiFi Music Player",
+    "firstRecordedAt": 1789379052513
   },
   {
     "trackId": 1202650514,

@@ -46034,6 +46034,52 @@
       ]
     ]
   },
+  "1099850421": {
+    "name": "Annotable — Anotar & Marcar",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Todas funcionalidades": "9,99 €",
+      "Todos Estilos de Texto & Fontes": "1,99 €",
+      "Ferramenta Marcação de Texto & Censura de Texto": "1,99 €",
+      "Ferramenta Destaque": "1,99 €",
+      "Ferramenta Lupa": "1,99 €",
+      "Ferramenta Desfoque": "1,99 €",
+      "Todos estilos de Obscurecimento": "1,99 €",
+      "Customização de Cor": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Todas funcionalidades": "9,99 €",
+      "Todos Estilos de Texto & Fontes": "1,99 €",
+      "Ferramenta Marcação de Texto & Censura de Texto": "1,99 €",
+      "Ferramenta Destaque": "1,99 €",
+      "Ferramenta Lupa": "1,99 €",
+      "Ferramenta Desfoque": "1,99 €",
+      "Todos estilos de Obscurecimento": "1,99 €",
+      "Customização de Cor": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Todas funcionalidades": "9,99 €",
+            "Todos Estilos de Texto & Fontes": "1,99 €",
+            "Ferramenta Marcação de Texto & Censura de Texto": "1,99 €",
+            "Ferramenta Destaque": "1,99 €",
+            "Ferramenta Lupa": "1,99 €",
+            "Ferramenta Desfoque": "1,99 €",
+            "Todos estilos de Obscurecimento": "1,99 €",
+            "Customização de Cor": "1,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1101997011": {
     "name": "奇門(實用)",
     "maxPriceInfo": {
@@ -54235,6 +54281,37 @@
       ]
     ]
   },
+  "1189158497": {
+    "name": "Photos Measure - Image meter",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Autorenew yearly VIP": "14,99 €",
+      "Autorenew monthly VIP": "2,99 €",
+      "Upgrade to VIP for life time": "59,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Autorenew yearly VIP": "14,99 €",
+      "Autorenew monthly VIP": "2,99 €",
+      "Upgrade to VIP for life time": "59,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Autorenew yearly VIP": "14,99 €",
+            "Autorenew monthly VIP": "2,99 €",
+            "Upgrade to VIP for life time": "59,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1189781891": {
     "name": "Five Nights at Freddy's: SL",
     "maxPriceInfo": {
@@ -54640,6 +54717,37 @@
           "formattedPrice": "Gratuito",
           "inAppPurchases": {
             "INSIDE - jogo completo": "7,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "1202642773": {
+    "name": "Ever Play - HiFi Music Player",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Hi-Res & DSD & Visualizer": "44,99 €",
+      "Full Function Pack": "4,49 €",
+      "Real-time DSD Conversion": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Hi-Res & DSD & Visualizer": "44,99 €",
+      "Full Function Pack": "4,49 €",
+      "Real-time DSD Conversion": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Hi-Res & DSD & Visualizer": "44,99 €",
+            "Full Function Pack": "4,49 €",
+            "Real-time DSD Conversion": "1,99 €"
           }
         }
       ]

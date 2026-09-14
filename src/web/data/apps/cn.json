@@ -5244,6 +5244,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 1099850421,
+    "region": "cn",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1099850421",
+    "trackName": "Annotable — 终极图片标注工具",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 1101997011,
     "region": "cn",
     "timestamp": 1745492532710,
@@ -5892,6 +5904,18 @@
     "firstRecordedAt": 1764664716757
   },
   {
+    "trackId": 1189158497,
+    "region": "cn",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1189158497",
+    "trackName": "图片标记助手 - 注记和量尺大师",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 1191690597,
     "region": "cn",
     "timestamp": 1760941181671,
@@ -5974,6 +5998,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id1198176727",
     "trackName": "Controller for HomeKit",
     "firstRecordedAt": 1725237485711
+  },
+  {
+    "trackId": 1202642773,
+    "region": "cn",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1202642773",
+    "trackName": "Ever Play - HiFi 高清网盘音乐播放器",
+    "firstRecordedAt": 1789379052513
   },
   {
     "trackId": 1202650514,

@@ -78745,6 +78745,52 @@
       ]
     ]
   },
+  "1099850421": {
+    "name": "Annotable: Annotation & Markup",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "All Features": "USD 9.99",
+      "Loupe Tool": "USD 1.99",
+      "Spotlight Tool": "USD 1.99",
+      "All Text Styles & Fonts": "USD 1.99",
+      "Blur Tool": "USD 1.99",
+      "All Obscuration Styles": "USD 1.99",
+      "Text Highlighter & Redaction Tool": "USD 1.99",
+      "Color Customization": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "All Features": "USD 9.99",
+      "Loupe Tool": "USD 1.99",
+      "Spotlight Tool": "USD 1.99",
+      "All Text Styles & Fonts": "USD 1.99",
+      "Blur Tool": "USD 1.99",
+      "All Obscuration Styles": "USD 1.99",
+      "Text Highlighter & Redaction Tool": "USD 1.99",
+      "Color Customization": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "All Features": "USD 9.99",
+            "Loupe Tool": "USD 1.99",
+            "Spotlight Tool": "USD 1.99",
+            "All Text Styles & Fonts": "USD 1.99",
+            "Blur Tool": "USD 1.99",
+            "All Obscuration Styles": "USD 1.99",
+            "Text Highlighter & Redaction Tool": "USD 1.99",
+            "Color Customization": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
   "1101997011": {
     "name": "奇門(實用)",
     "maxPriceInfo": {
@@ -87747,6 +87793,37 @@
       ]
     ]
   },
+  "1189158497": {
+    "name": "照片標記助手 PhotosMeasure",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Autorenew monthly VIP": "USD 2.99",
+      "Autorenew yearly VIP": "USD 12.99",
+      "升級到終身VIP": "USD 49.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Autorenew monthly VIP": "USD 2.99",
+      "Autorenew yearly VIP": "USD 12.99",
+      "升級到終身VIP": "USD 49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Autorenew monthly VIP": "USD 2.99",
+            "Autorenew yearly VIP": "USD 12.99",
+            "升級到終身VIP": "USD 49.99"
+          }
+        }
+      ]
+    ]
+  },
   "1189781891": {
     "name": "Five Nights at Freddy's: SL",
     "maxPriceInfo": {
@@ -89509,6 +89586,40 @@
           "formattedPrice": "免費",
           "inAppPurchases": {
             "《INSIDE》完整版": "USD 6.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1202642773": {
+    "name": "Ever Play - HiFi Music Player",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Hi-Res & DSD & 音樂可視化": "USD 6.99",
+      "Full Function Pack": "USD 3.49",
+      "Hi-Res & DSD & 音樂可視化(永久購買)": "USD 39.99",
+      "實時DSD轉換": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Hi-Res & DSD & 音樂可視化": "USD 6.99",
+      "Full Function Pack": "USD 3.49",
+      "Hi-Res & DSD & 音樂可視化(永久購買)": "USD 39.99",
+      "實時DSD轉換": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Hi-Res & DSD & 音樂可視化": "USD 6.99",
+            "Full Function Pack": "USD 3.49",
+            "Hi-Res & DSD & 音樂可視化(永久購買)": "USD 39.99",
+            "實時DSD轉換": "USD 1.99"
           }
         }
       ]

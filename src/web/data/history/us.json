@@ -111193,6 +111193,54 @@
       ]
     ]
   },
+  "1099850421": {
+    "trackId": 1099850421,
+    "trackName": "Annotable: Annotation & Markup",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "All Features": "$9.99",
+      "Text Highlighter & Redaction Tool": "$1.99",
+      "All Text Styles & Fonts": "$1.99",
+      "Loupe Tool": "$1.99",
+      "Color Customization": "$1.99",
+      "Spotlight Tool": "$1.99",
+      "All Obscuration Styles": "$1.99",
+      "Blur Tool": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "All Features": "$9.99",
+      "Text Highlighter & Redaction Tool": "$1.99",
+      "All Text Styles & Fonts": "$1.99",
+      "Loupe Tool": "$1.99",
+      "Color Customization": "$1.99",
+      "Spotlight Tool": "$1.99",
+      "All Obscuration Styles": "$1.99",
+      "Blur Tool": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Features": "$9.99",
+            "Text Highlighter & Redaction Tool": "$1.99",
+            "All Text Styles & Fonts": "$1.99",
+            "Loupe Tool": "$1.99",
+            "Color Customization": "$1.99",
+            "Spotlight Tool": "$1.99",
+            "All Obscuration Styles": "$1.99",
+            "Blur Tool": "$1.99"
+          }
+        }
+      ]
+    ]
+  },
   "1101997011": {
     "trackId": 1101997011,
     "trackName": "奇門(實用)",
@@ -125770,6 +125818,39 @@
       ]
     ]
   },
+  "1189158497": {
+    "trackId": 1189158497,
+    "trackName": "Photos Measure - Image meter",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Autorenew monthly VIP": "$2.99",
+      "Autorenew yearly VIP": "$12.99",
+      "Upgrade to VIP for life time": "$49.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Autorenew monthly VIP": "$2.99",
+      "Autorenew yearly VIP": "$12.99",
+      "Upgrade to VIP for life time": "$49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Autorenew monthly VIP": "$2.99",
+            "Autorenew yearly VIP": "$12.99",
+            "Upgrade to VIP for life time": "$49.99"
+          }
+        }
+      ]
+    ]
+  },
   "1189781891": {
     "trackId": 1189781891,
     "trackName": "Five Nights at Freddy's: SL",
@@ -130415,6 +130496,39 @@
           "formattedPrice": "Free",
           "inAppPurchases": {
             "INSIDE full game": "$6.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1202642773": {
+    "trackId": 1202642773,
+    "trackName": "Ever Play - HiFi Music Player",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Hi-Res & DSD & Visualizer": "$39.99",
+      "Full Function Pack": "$1.49",
+      "Real-time DSD Conversion": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Hi-Res & DSD & Visualizer": "$39.99",
+      "Full Function Pack": "$1.49",
+      "Real-time DSD Conversion": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379052513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Hi-Res & DSD & Visualizer": "$39.99",
+            "Full Function Pack": "$1.49",
+            "Real-time DSD Conversion": "$1.99"
           }
         }
       ]

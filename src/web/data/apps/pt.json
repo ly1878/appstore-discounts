@@ -7536,6 +7536,18 @@
     "firstRecordedAt": 1769351203710
   },
   {
+    "trackId": 1099850421,
+    "region": "pt",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1099850421",
+    "trackName": "Annotable — Anotar & Marcar",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 1101997011,
     "region": "pt",
     "timestamp": 1761797674362,
@@ -8472,6 +8484,18 @@
     "firstRecordedAt": 1764664716757
   },
   {
+    "trackId": 1189158497,
+    "region": "pt",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1189158497",
+    "trackName": "Photos Measure - Image meter",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 1189781891,
     "region": "pt",
     "timestamp": 1761797674362,
@@ -8602,6 +8626,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1201642309",
     "trackName": "INSIDE da Playdead",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1202642773,
+    "region": "pt",
+    "timestamp": 1789379052513,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1202642773",
+    "trackName": "Ever Play - HiFi Music Player",
+    "firstRecordedAt": 1789379052513
   },
   {
     "trackId": 1202650514,
