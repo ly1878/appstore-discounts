@@ -291752,5 +291752,86 @@
         }
       ]
     ]
+  },
+  "6503428327": {
+    "trackId": 6503428327,
+    "trackName": "Raycast: AI, Notes and more",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Pro": "HK$ 748.00",
+      "Advanced AI": "HK$ 1,498.00",
+      "Max Plan": "HK$ 388.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Pro": "HK$ 748.00",
+      "Advanced AI": "HK$ 1,498.00",
+      "Max Plan": "HK$ 388.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "HK$ 748.00",
+            "Advanced AI": "HK$ 1,498.00",
+            "Max Plan": "HK$ 388.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6670324846": {
+    "trackId": 6670324846,
+    "trackName": "Grok - AI 助理",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "SuperGrok": "HK$ 228.00",
+      "Extra Usage Credits 5 USD": "HK$ 38.00",
+      "SuperGrok Lite": "HK$ 88.00",
+      "Extra Usage Credits 20 USD": "HK$ 148.00",
+      "SuperGrok Heavy": "HK$ 2,288.00",
+      "SuperGrok Plus": "HK$ 788.00",
+      "Extra Usage Credits 50 USD": "HK$ 388.00",
+      "Extra Usage Credits 100 USD": "HK$ 788.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "SuperGrok": "HK$ 228.00",
+      "Extra Usage Credits 5 USD": "HK$ 38.00",
+      "SuperGrok Lite": "HK$ 88.00",
+      "Extra Usage Credits 20 USD": "HK$ 148.00",
+      "SuperGrok Heavy": "HK$ 2,288.00",
+      "SuperGrok Plus": "HK$ 788.00",
+      "Extra Usage Credits 50 USD": "HK$ 388.00",
+      "Extra Usage Credits 100 USD": "HK$ 788.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SuperGrok": "HK$ 228.00",
+            "Extra Usage Credits 5 USD": "HK$ 38.00",
+            "SuperGrok Lite": "HK$ 88.00",
+            "Extra Usage Credits 20 USD": "HK$ 148.00",
+            "SuperGrok Heavy": "HK$ 2,288.00",
+            "SuperGrok Plus": "HK$ 788.00",
+            "Extra Usage Credits 50 USD": "HK$ 388.00",
+            "Extra Usage Credits 100 USD": "HK$ 788.00"
+          }
+        }
+      ]
+    ]
   }
 }

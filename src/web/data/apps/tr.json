@@ -20016,6 +20016,18 @@
     "firstRecordedAt": 1753873943491
   },
   {
+    "trackId": 6503428327,
+    "region": "tr",
+    "timestamp": 1789379308013,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6503428327",
+    "trackName": "Raycast: AI, Notes and more",
+    "firstRecordedAt": 1789379308013
+  },
+  {
     "trackId": 6503932402,
     "region": "tr",
     "timestamp": 1763345024209,
@@ -20362,6 +20374,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6670199903",
     "trackName": "StreetPro Racing",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6670324846,
+    "region": "tr",
+    "timestamp": 1789379308013,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6670324846",
+    "trackName": "Grok - AI Assistant",
+    "firstRecordedAt": 1789379308013
   },
   {
     "trackId": 6670402289,

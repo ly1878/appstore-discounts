@@ -137687,5 +137687,86 @@
         }
       ]
     ]
+  },
+  "6503428327": {
+    "trackId": 6503428327,
+    "trackName": "Raycast: AI, Notes and more",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Advanced AI": "177,99 €",
+      "Pro": "88,99 €",
+      "Max Plan": "59,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Advanced AI": "177,99 €",
+      "Pro": "88,99 €",
+      "Max Plan": "59,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Advanced AI": "177,99 €",
+            "Pro": "88,99 €",
+            "Max Plan": "59,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6670324846": {
+    "trackId": 6670324846,
+    "trackName": "Grok - Assistente de IA",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "SuperGrok": "35,00 €",
+      "Extra Usage Credits 5 USD": "6,00 €",
+      "SuperGrok Lite": "10,00 €",
+      "Extra Usage Credits 20 USD": "22,00 €",
+      "SuperGrok Plus": "100,00 €",
+      "SuperGrok Heavy": "349,00 €",
+      "Extra Usage Credits 50 USD": "60,00 €",
+      "Extra Usage Credits 100 USD": "100,00 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "SuperGrok": "35,00 €",
+      "Extra Usage Credits 5 USD": "6,00 €",
+      "SuperGrok Lite": "10,00 €",
+      "Extra Usage Credits 20 USD": "22,00 €",
+      "SuperGrok Plus": "100,00 €",
+      "SuperGrok Heavy": "349,00 €",
+      "Extra Usage Credits 50 USD": "60,00 €",
+      "Extra Usage Credits 100 USD": "100,00 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "SuperGrok": "35,00 €",
+            "Extra Usage Credits 5 USD": "6,00 €",
+            "SuperGrok Lite": "10,00 €",
+            "Extra Usage Credits 20 USD": "22,00 €",
+            "SuperGrok Plus": "100,00 €",
+            "SuperGrok Heavy": "349,00 €",
+            "Extra Usage Credits 50 USD": "60,00 €",
+            "Extra Usage Credits 100 USD": "100,00 €"
+          }
+        }
+      ]
+    ]
   }
 }

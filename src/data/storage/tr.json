@@ -278208,5 +278208,82 @@
         }
       ]
     ]
+  },
+  "6503428327": {
+    "name": "Raycast: AI, Notes and more",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro": "₺3.699,00",
+      "Advanced AI": "₺7.399,99",
+      "Max Plan": "₺2.499,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro": "₺3.699,00",
+      "Advanced AI": "₺7.399,99",
+      "Max Plan": "₺2.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "₺3.699,00",
+            "Advanced AI": "₺7.399,99",
+            "Max Plan": "₺2.499,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6670324846": {
+    "name": "Grok - AI Assistant",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "SuperGrok": "₺12.999,99",
+      "Extra Usage Credits 5 USD": "₺249,99",
+      "Extra Usage Credits 20 USD": "₺999,99",
+      "SuperGrok Lite": "₺499,99",
+      "Extra Usage Credits 100 USD": "₺4.999,99",
+      "SuperGrok Heavy": "₺12.999,99",
+      "SuperGrok Plus": "₺4.999,99",
+      "Extra Usage Credits 50 USD": "₺2.499,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "SuperGrok": "₺12.999,99",
+      "Extra Usage Credits 5 USD": "₺249,99",
+      "Extra Usage Credits 20 USD": "₺999,99",
+      "SuperGrok Lite": "₺499,99",
+      "Extra Usage Credits 100 USD": "₺4.999,99",
+      "SuperGrok Heavy": "₺12.999,99",
+      "SuperGrok Plus": "₺4.999,99",
+      "Extra Usage Credits 50 USD": "₺2.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "SuperGrok": "₺12.999,99",
+            "Extra Usage Credits 5 USD": "₺249,99",
+            "Extra Usage Credits 20 USD": "₺999,99",
+            "SuperGrok Lite": "₺499,99",
+            "Extra Usage Credits 100 USD": "₺4.999,99",
+            "SuperGrok Heavy": "₺12.999,99",
+            "SuperGrok Plus": "₺4.999,99",
+            "Extra Usage Credits 50 USD": "₺2.499,99"
+          }
+        }
+      ]
+    ]
   }
 }

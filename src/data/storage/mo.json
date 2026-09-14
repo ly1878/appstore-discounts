@@ -200359,5 +200359,36 @@
         }
       ]
     ]
+  },
+  "6503428327": {
+    "name": "Raycast: AI, Notes and more",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Max Plan": "USD 49.99",
+      "Advanced AI": "USD 191.99",
+      "Pro": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Max Plan": "USD 49.99",
+      "Advanced AI": "USD 191.99",
+      "Pro": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Max Plan": "USD 49.99",
+            "Advanced AI": "USD 191.99",
+            "Pro": "USD 9.99"
+          }
+        }
+      ]
+    ]
   }
 }

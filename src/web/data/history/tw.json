@@ -302700,5 +302700,86 @@
         }
       ]
     ]
+  },
+  "6503428327": {
+    "trackId": 6503428327,
+    "trackName": "Raycast: AI, Notes and more",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Pro": "$3,100.00",
+      "Advanced AI": "$6,200.00",
+      "Max Plan": "$1,490.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Pro": "$3,100.00",
+      "Advanced AI": "$6,200.00",
+      "Max Plan": "$1,490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "$3,100.00",
+            "Advanced AI": "$6,200.00",
+            "Max Plan": "$1,490.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6670324846": {
+    "trackId": 6670324846,
+    "trackName": "Grok - AI 助理",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "SuperGrok": "$9,990.00",
+      "Extra Usage Credits 5 USD": "$150.00",
+      "SuperGrok Lite": "$320.00",
+      "Extra Usage Credits 20 USD": "$690.00",
+      "SuperGrok Plus": "$2,990.00",
+      "SuperGrok Heavy": "$9,990.00",
+      "Extra Usage Credits 50 USD": "$1,490.00",
+      "Extra Usage Credits 100 USD": "$2,990.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "SuperGrok": "$9,990.00",
+      "Extra Usage Credits 5 USD": "$150.00",
+      "SuperGrok Lite": "$320.00",
+      "Extra Usage Credits 20 USD": "$690.00",
+      "SuperGrok Plus": "$2,990.00",
+      "SuperGrok Heavy": "$9,990.00",
+      "Extra Usage Credits 50 USD": "$1,490.00",
+      "Extra Usage Credits 100 USD": "$2,990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789379308013,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SuperGrok": "$9,990.00",
+            "Extra Usage Credits 5 USD": "$150.00",
+            "SuperGrok Lite": "$320.00",
+            "Extra Usage Credits 20 USD": "$690.00",
+            "SuperGrok Plus": "$2,990.00",
+            "SuperGrok Heavy": "$9,990.00",
+            "Extra Usage Credits 50 USD": "$1,490.00",
+            "Extra Usage Credits 100 USD": "$2,990.00"
+          }
+        }
+      ]
+    ]
   }
 }
