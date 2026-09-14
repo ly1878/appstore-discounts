@@ -33,7 +33,8 @@
       "id": 316133247,
       "name": {
         "cn": "朗文当代高级词典（第6版）",
-        "hk": "朗文當代高級詞典 (第6版)"
+        "hk": "朗文當代高級詞典 (第6版)",
+        "tr": "LDOCE"
       },
       "addType": "manual"
     },
@@ -42,7 +43,8 @@
       "name": {
         "cn": "AnkiMobile Flashcards",
         "hk": "AnkiMobile Flashcards",
-        "us": "AnkiMobile Flashcards"
+        "us": "AnkiMobile Flashcards",
+        "tr": "AnkiMobile Flashcards"
       },
       "addType": "manual"
     },
@@ -51,7 +53,8 @@
       "name": {
         "cn": "Annotable — 终极图片标注工具",
         "hk": "Annotable: Annotation & Markup",
-        "us": "Annotable: Annotation & Markup"
+        "us": "Annotable: Annotation & Markup",
+        "tr": "Annotable: Annotation & Markup"
       },
       "addType": "manual"
     },
@@ -60,7 +63,8 @@
       "name": {
         "cn": "图片标记助手 - 注记和量尺大师",
         "hk": "照片標記助手 PhotosMeasure",
-        "us": "Photos Measure - Image meter"
+        "us": "Photos Measure - Image meter",
+        "tr": "Photos Measure - Image meter"
       },
       "addType": "manual"
     },
@@ -69,7 +73,8 @@
       "name": {
         "cn": "Ever Play - HiFi 高清网盘音乐播放器",
         "hk": "Ever Play - HiFi Music Player",
-        "us": "Ever Play - HiFi Music Player"
+        "us": "Ever Play - HiFi Music Player",
+        "tr": "Ever Play - HiFi Music Player"
       },
       "addType": "manual"
     },
@@ -77,7 +82,26 @@
       "id": 1596063349,
       "name": {
         "hk": "Stash",
-        "us": "Stash - Rule Based Proxy"
+        "us": "Stash - Rule Based Proxy",
+        "tr": "Stash - Rule Based Proxy"
+      },
+      "addType": "manual"
+    },
+    {
+      "id": 6503428327,
+      "name": {
+        "hk": "Raycast: AI, Notes and more",
+        "us": "Raycast: AI, Notes and more",
+        "tr": "Raycast: AI, Notes and more"
+      },
+      "addType": "manual"
+    },
+    {
+      "id": 6670324846,
+      "name": {
+        "hk": "Grok - AI 助理",
+        "us": "Grok AI",
+        "tr": "Grok - AI Assistant"
       },
       "addType": "manual"
     }
