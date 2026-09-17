@@ -116939,7 +116939,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Full Function Pack": "₺46,99",
+      "Full Function Pack": "₺82,99",
       "Hi-Res & DSD & Visualizer": "₺1.999,99",
       "Real-time DSD Conversion": "₺99,99"
     },
@@ -116947,10 +116947,22 @@
       "price": 0,
       "formattedPrice": "Free",
       "Full Function Pack": "₺46,99",
-      "Hi-Res & DSD & Visualizer": "₺1.999,99",
+      "Hi-Res & DSD & Visualizer": "₺147,99",
       "Real-time DSD Conversion": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789670440070,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Function Pack": "₺82,99",
+            "Real-time DSD Conversion": "₺99,99",
+            "Hi-Res & DSD & Visualizer": "₺147,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379052513,

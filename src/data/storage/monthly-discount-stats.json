@@ -397,6 +397,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1202642773": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Hi-Res & DSD & Visualizer": 1
+      }
+    },
     "1435752659": {
       "all": 1,
       "price": 1,

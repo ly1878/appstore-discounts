@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-09-11T03:18:19.235Z</updated>
+    <updated>2026-09-17T18:40:58.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.235Z</updated>
+        <updated>2026-09-17T18:40:58.099Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 11 Sep 2026 03:18:19 GMT</id>
+        <id>rankingtrThu, 17 Sep 2026 18:40:58 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.235Z</updated>
+        <updated>2026-09-17T18:40:58.099Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,10 +51,10 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -192,14 +192,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1435752659?lang=en">駕考王 - 澳門駕考駕照筆試模擬考試題庫</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en">Ever Play - HiFi Music Player</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Hi-Res & DSD & Visualizer</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -209,7 +215,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1477806063?lang=en">Football Agent</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1435752659?lang=en">駕考王 - 澳門駕考駕照筆試模擬考試題庫</a>
       </td>
       <td>
         <ul>
@@ -226,7 +232,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1477806063?lang=en">Football Agent</a>
       </td>
       <td>
         <ul>
@@ -243,7 +249,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1592505377?lang=en">Wreckfest</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
       </td>
       <td>
         <ul>
@@ -260,7 +266,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1642715290?lang=en">Little Big Workshop</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1592505377?lang=en">Wreckfest</a>
       </td>
       <td>
         <ul>
@@ -277,7 +283,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6747307749?lang=en">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1642715290?lang=en">Little Big Workshop</a>
       </td>
       <td>
         <ul>
@@ -294,7 +300,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6747307749?lang=en">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
       </td>
       <td>
         <ul>
@@ -311,7 +317,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en">Dungeon Merge!</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
       </td>
       <td>
         <ul>
@@ -328,7 +334,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en">Dungeon Merge!</a>
       </td>
       <td>
         <ul>
@@ -345,7 +351,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
       </td>
       <td>
         <ul>
@@ -360,6 +366,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>16</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6480058345?lang=en">Kaiju Attack 2</a>
@@ -387,158 +410,112 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaiju Attack 2]]></title>
-        <id>Kaiju Attack 2-tr-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6480058345?lang=en"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[Price: ₺149,99 → ₺99,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6480058345?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺149,99</span> → <b>
-  <strong>₺99,99</strong>
-</b><span>[₺99,99 ~ ₺149,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺99,99</b>
-</p><h2>Application Description</h2><p>
-  To wash away the shame of defeat two years ago, Chaos has gathered an alien coalition, attacking Earth once more, citing humanity's sins as justification.
-Even the once-defending superhero now turns against us. As the commander, how will you resolve this crisis? What lies ahead for humanity and Earth?
-
-Game Intro
-Kaiju Attack 2, the sequel to our critically acclaimed title released two years ago, builds upon the strengths of the first installment while addressing its shortcomings. We've introduced numerous new features and enhancements, including:
-- Faster-paced and more intense gameplay.
-- Introduction of currency tiles alongside the existing three types.
-- Ability to deploy multiple types of secret weapons simultaneously.
-- Nine new alien bosses with smarter, more cunning behavior AI for increased challenge.
-- Eight new secret weapons, including super robots capable of splitting into three separate units and combining.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
-        <id>1942 Pacific Front Premium-tr-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/994157520?lang=en"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[Price: ₺49,99 → ₺19,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/994157520?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/37/a4/6e37a4bc-1e74-ea85-f462-678a077bec82/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺49,99</span> → <b>
-  <strong>₺19,99</strong>
-</b><span>[₺5,00 ~ ₺49,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺19,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    25,000 Gold：<b>₺89,99</b>
-  </li><li>
-    60,000 Gold：<b>₺169,99</b>
-  </li><li>
-    700,000 Gold：<b>₺4.999,99</b>
-  </li><li>
-    325,000 Gold：<b>₺769,99</b>
-  </li><li>
-    125,000 Gold：<b>₺349,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  The battle continues after “1941 Frozen Front” – and this time, it’s all about naval warfare! Join the navy and fight to win the battle of your life! Own the battlefield and send your soldiers to the frontline. Military combat at its best!
-Choose the right tactics and use your commando to defeat the enemy! Lead the U.S. Army on their campaign or command the Japanese forces on their mission! Take out enemy alliances with infantry, artillery, tanks, warplanes, battleships and submarines and earn your stripes as an ingenious commander at the PACIFIC FRONT! 
-
-*** MISSION BRIEFING ***
-FIGHT with powerful weapons like torpedos and bombs!
-TAKE OUT enemy positions with tanks and infantry!
-BOMBARD hostile headquarters with mighty bomber wings!
-SURPRISE the enemy with attacks from your submarine!
-EMPLACE your artillery in rough terrain!
-CLEAR beaches, lagoons and straits!
-AMBUSH the enemy! 
-SUPPLY your army with goods and ammunition!
-DEFEND your aircraft carriers and battleships!
-
-Features:
-- Play without ads!
-- Turn-based strategy action set in WW2
-- Thrilling campaigns and challenging missions
-- Historical U.S. and Japanese units
-- Infantry, artillery, tanks, warplanes, battleships and submarines for both fractions
-- Repairs, camouflage and fortification of units during the battles
-- Hot-hand multiplayer battles
-- Hex grid for the best overview possible
-- Detailed graphics and super-realistic sounds 
-- Full tablet support
-
-Thank you for playing ‘1942 Pacific Front’!
-
-© HandyGames 2026
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/dc/94/dbdc941e-f3d1-cd09-870b-093ead16614c/mzl.vaxbiwtd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/09/5c/ec095c03-9c23-d3bd-afdd-ca2a61f4cb09/mzl.koobpsyo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/c7/e7/71c7e7c8-b30a-ed0f-962c-e732bc781b65/mzl.legezkvc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/46/db/8e46db9b-9b34-f2a1-ebe2-c7da7ad7d7a1/mzl.pdmudgrd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/08/b7/c408b729-93d6-ae6f-2f5d-4ad8201d6bf7/mzl.rxehmyfo.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/de/b7/a4deb72b-6987-f3ef-1c0c-c18bcc41ec28/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/d3/46/3bd34672-cfc4-68db-c733-465c49c9fb1f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/78/73/a1787373-b572-1b0b-e484-13d1fda04d2a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/cb/1f/a3cb1f3b-efcf-1fca-fca9-0abbb284828c/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f5/6d/a6f56d13-df92-9802-89d4-6409bfe8110a/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Redial - Phone Call Retry]]></title>
-        <id>Auto Redial - Phone Call Retry-tr-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6467822375?lang=en"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[Premium Lifetime: ₺999,99 → ₺299,99<br/>7-Day Pass: ₺199,99 → ₺149,99<br/>24h Pass: ₺39,99 → ₺29,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6467822375?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a1/cc2ea1d5-0045-c8eb-6697-feb35cd6d97f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Ever Play - HiFi Music Player]]></title>
+        <id>Ever Play - HiFi Music Player-tr-1789670440070</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en"/>
+        <updated>2026-09-17T18:40:40.070Z</updated>
+        <summary type="html"><![CDATA[Hi-Res & DSD & Visualizer: ₺1.999,99 → ₺147,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/32/0d/5f320dc3-feef-157c-450c-34407b40ebf6/Autumn-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Premium Lifetime：</strong><span>₺999,99</span> → <b>
-  <strong>₺299,99</strong>
-</b><span>[₺299,99 ~ ₺1.499,99]</span>
-  </li><li>
-    <strong>7-Day Pass：</strong><span>₺199,99</span> → <b>
-  <strong>₺149,99</strong>
-</b><span>[₺79,99 ~ ₺249,99]</span>
-  </li><li>
-    <strong>24h Pass：</strong><span>₺39,99</span> → <b>
-  <strong>₺29,99</strong>
-</b><span>[₺19,99 ~ ₺49,99]</span>
+    <strong>Hi-Res & DSD & Visualizer：</strong><span>₺1.999,99</span> → <b>
+  <strong>₺147,99</strong>
+</b><span>[₺147,99 ~ ₺1.999,99]</span>
   </li>
 </ul><h2>All Price Information</h2><p>
   Price：<b>Free</b>
 </p><h3>In-App Purchases</h3><ul>
   <li>
-    3-Day Pass：<b>₺49,99</b>
+    Full Function Pack：<b>₺82,99</b>
   </li><li>
-    Weekly Subscription：<b>₺79,99</b>
+    Real-time DSD Conversion：<b>₺99,99</b>
   </li><li>
-    Premium Lifetime：<b>₺299,99</b>
-  </li><li>
-    7-Day Pass：<b>₺149,99</b>
-  </li><li>
-    24h Pass：<b>₺29,99</b>
-  </li><li>
-    Pro – Lifetime：<b>₺0,00</b>
-  </li><li>
-    Yearly Subscription：<b>₺499,99</b>
+    Hi-Res & DSD & Visualizer：<b>₺147,99</b>
   </li>
 </ul><h2>Application Description</h2><p>
-  With this application, you can make automatic calls to the numbers you want efficiently and in a personalized way. You can define the number of repetitions, the interval between calls, add an extension, activate vibration before dialing, and even schedule your calls using a built-in calendar. Auto Redial App also offers a simple and intuitive interface, detailed call history, and multiple customization options to fit your needs.
+  Bring your local, cloud and NAS music into one Hi-Res player.
+Ever Play gives you control of your own library, with lossless audio, DSD playback, offline caching and detailed output options for external DACs.
 
-This application is ideal for anyone who needs to make repetitive calls automatically — such as an appointment call, a busy call retry, or contacting services where the line is busy.
+Built for listeners who collect FLAC, ALAC, WAV, APE or DSD files and want to enjoy them without depending on a streaming catalog.
 
-Main Features:
-- Automatically redial busy or unanswered calls.
-- Set number of retries and time intervals.
-- Schedule calls in advance via calendar.
-- Add extensions automatically after dialing.
-- Enable vibration before each redial.
-- Call history and retry stats.
+Everplay supports all popular formats including Hi-Res ones. 
 
-Perfect for:
-- Booking appointments (doctors, embassies, etc.)
-- Customer service or tech support
-- Calling public offices
-- Freelancers and business owners following up clients
+One of the most important feature of Everplay is that it support DSD(up to 11.2MHz，aka. DSD256) playback, in term of PCM and DoP. When PCM mode is selected, DSD is converted to and output as PCM. When DoP mode is selected, DSD is outputted as DSD over PCM.(Connected device must be DoP-compatible to this mode, otherwise, DSD will be outputed as PCM even DoP mode is selected.)
 
-Whether you’re calling to book a doctor’s appointment, reach customer service, or just trying to connect when the line is busy, this app saves time and frustration.
+Everplay support up to 384kHz/32bit music file and upsampling output Mode, you can select custom output sample rate to playback. It can automatically choose the max support format to playback, so you never need to worry about output device change.
 
+Everplay support Wi-Fi transfer, iTunes files sharing and Airdrop. Through Wi-Fi Transfer, you can share music files between computer and Everplay app with browser.
 
-Privacy Policy:
-https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
+• Google Drive
+• 115 Drive
+• Aliyun Drive
+• Baidu Yun Drive
+• One Drive
+• SMB1/2/3
+• WebDAV
+• Tencent WeiYun
+• 123 Drive
+• dropbox
+• navidrome
+• pCloud
 
-Terms of Use (EULA):
-Apple App Store
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/34/a6/ea34a6ef-0f27-5c2f-da72-0ac5d433c69a/989ffe33-0c8a-4a18-be78-abf229ff9046_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.33.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/c3/95/6ec39518-34cf-2527-a49d-9b9949be9e52/3c5224a8-9051-4329-a504-3fc03f035a07_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.42.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/a3/78/d2a378e3-099c-feda-76cc-f5c189cc7372/8e2f164c-246c-46ff-90c9-abba2c4b7ee5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.21.26.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cc/52/28cc5275-ceee-255b-2645-07ada3a0aa76/3cd58bbf-5a78-4970-bec9-ca56e64292fd_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/3f/04/453f04d4-1dc8-8d6f-0603-581683f8d5d9/26d59837-71f1-4582-a8f6-35a1d39a38c5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.20.48.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/81/52/e081524f-fe33-4ef1-c2e7-bcdd6950de38/36a302a5-17a0-4c7d-a575-bfb64f8d97dc_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/52/79/51527915-b73c-86c1-9bfa-328c25a89a2a/8f69617d-e5f1-4726-ba4a-266eaa3ee8e3_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.35.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/63/08/b363088f-ebbe-404f-9990-982d329c4c4c/49d79db2-cae7-45ba-a075-dd34372e3fe1_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.21.11.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/1d/7b/d61d7b86-e55a-df56-a632-28e491055fd9/91e843c0-9b5c-4871-b072-e7f072071149_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.19.07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/d9/91/9ad99154-84aa-2bc6-1ef0-5256999b5b99/cc0e8dd8-8469-47c4-95a0-7c9b68db56b5_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-08-11_at_18.20.47.png/576x768bb.png" />]]></content>
+• FLAC(MQA), APE, WAV, ALAC(M4A), AIFF, AIF, MP3, WMA, OGG, AAC,DTS
+• SACD(ISO), DSF, DFF(DSD64, DSD128 and DSD256 support both PCM and DoP output mode)
+• CUE(Sheet)
+
+[Music Management and Easy Transfer]
+• WiFi Music Transfer (Http)
+• iTunes Files Sharing
+• Playlist Management
+• Files Management
+• Airdrop
+
+[Advanced Features]
+• Support Aliyun Drive, Weiyun, Baidu net-disk, OneDrive authorization and SMB, WebDAV connection.
+• Support load music from iTune library
+• Support Carplay feature
+• Thousand of visualizations embedded in player which beat with music,It's one of the most advanced visualizer in the App Store.
+• Playback Hi-Res audio source up to 32bit/384kHz
+• Playback DSD audio source up to 11.2MHz
+• Visualizer
+• Hundred settings of EQ with random play
+• Random EQ for each song when playing
+• Searching songs
+• Display song and connected device information
+• Upsampling function
+• Sleep timer
+• Disable Auto-lock Screen
+• Auto-download Album/Artist Image(On/OFF)
+• DSD to PCM
+• Dop(DSD over PCM)
+• Custom Output Sample Rate
+• Redesign the Player Interface and Interaction
+• Online lyrics
+• Gapless playback
+• Resample rate Algorithm
+• Variable Playback Rate
+• Fast Forward and Fast Backward
+• A→B repeat play
+• Siri Play
+• Shortcut Play
+• iPadOS Multiple Windows Support
+
+URL Scheme: FancyMusicPlayer
+
+Subscription name: Hi-Res&DSD(Yearly)
+Subscription duration: One year
+Terms of Use: You can read your terms of use here for more details: http://www.appgreat.com/FancyTermsOfUse/
+Auto-renewing subscription: You subscription will be renewed every one year. i.e. you will be charged every year.
+
+– Price may vary by location.
+– Payment will be charged to iTunes Account at confirmation of purchase
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+※Please note that Everplay is a pure music player. You should put the song to the app documents directory by the means of throung iTunes File Sharing or Wi-Fi sharing or connect to your cloud account to play it.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/0e/c3/310ec330-f744-cd8c-de4c-685339fe976d/342a2883-c0dd-413c-941f-7c2e8fb466ff_iphone5.5-eng_4.0.4_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5c/f5/745cf509-1cfc-66d9-d746-5f663b3d70bf/fdd46acf-7039-457d-914d-29cbc9cc3f57_IMG_30105.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/28/52/ed28520c-f79e-6247-e431-8bdd68f6f39c/mzl.iwiyhzjq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/49/84/4c498439-58ba-59ca-de4f-3ebda2b37750/mzl.zhkjfypj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/db/cb/dfdbcbe0-74e2-e29e-2c3b-777054754bc8/mzl.cpacyecc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/21/ac/e521aca4-62b4-e6ed-d6d4-1c1b68b47ddf/mzl.ohgteicl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/70/f9447027-1c4b-a1db-ec07-750c07e18272/mzl.qicmxqyi.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/2d/9b/e02d9ba4-ec1d-6d31-0ee5-4d13d4cd71fd/mzl.fpvbfjkf.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/4a/4a/644a4a68-92e7-5dbb-d242-325f46da2ee0/1b86797f-09f0-4f38-9d08-afca347c4344_IMG_0015.PNG/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/53/6e/28536e76-d2f1-a62f-4f99-57a7d0485391/4fb8384e-53eb-412a-98f0-c5461681fb91_IMG_0210.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/b4/ff/8db4ff05-825e-1948-6385-0949afadd658/4d87dda2-4d84-462f-b306-dc6e6926e461_IMG_0211.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/ea/d1/8bead123-8392-098d-a645-ca7610949bf8/63337572-1833-42ed-9216-4c9558b2419b_IMG_0218.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/4e/99/644e9991-0e91-6b74-2848-66e7c32056ad/7db05e24-f50b-499b-a147-113f0c2295ff_IMG_0216.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/5b/3a/395b3ac2-625b-06b9-3b93-f2625b1a1ac2/52532dcb-c7de-44df-b993-324785160eaa_IMG_0212.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/02/47/7b0247f4-03bb-b4b7-f7f8-0bea1c747f02/d4ecf600-42c8-4124-9758-e0b6b2703737_IMG_0214.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/53/cd/cb53cde9-e0d3-adbd-7c25-014aba87293d/decd9297-7459-43ef-b6d0-207ea4d1b808_IMG_0215.PNG/576x768bb.png" />]]></content>
     </entry>
 </feed>
