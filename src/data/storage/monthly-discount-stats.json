@@ -271,6 +271,13 @@
         "7-Day Pass": 1,
         "高級終身會員": 1
       }
+    },
+    "6670324846": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "SuperGrok": 1
+      }
     }
   },
   "us": {

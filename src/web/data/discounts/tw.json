@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6670324846,
+    "region": "tw",
+    "timestamp": 1789653245430,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "SuperGrok",
+        "from": "$9,990.00",
+        "to": "$990.00",
+        "range": "[$990.00 ~ $9,990.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6670324846",
+    "trackName": "Grok - AI 助理",
+    "firstRecordedAt": 1789379308013
+  },
+  {
     "trackId": 994157520,
     "region": "tw",
     "timestamp": 1789096686298,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-09-11T03:18:19.231Z</updated>
+    <updated>2026-09-17T13:54:31.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.231Z</updated>
+        <updated>2026-09-17T13:54:31.143Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwFri, 11 Sep 2026 03:18:19 GMT</id>
+        <id>rankingtwThu, 17 Sep 2026 13:54:31 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.231Z</updated>
+        <updated>2026-09-17T13:54:31.143Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,10 +51,10 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:157008546980077568+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -338,6 +338,29 @@ feedId:157008546980077568+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>15</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">Grok - AI 助理</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>SuperGrok</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -351,156 +374,69 @@ feedId:157008546980077568+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怪獸大進擊 2]]></title>
-        <id>怪獸大進擊 2-tw-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/6480058345?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[价格: $90.00 → $60.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6480058345?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$90.00</span> → <b>
-  <strong>$60.00</strong>
-</b><span>[$60.00 ~ $90.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$60.00</b>
-</p><h2>应用描述</h2><p>
-  為了洗雪兩年前敗北的恥辱，混沌這次集結了異星的聯軍，以人類的罪孽為理由，再次襲擊地球。
-就連一直捍衛人類的那位超級英雄，也決定倒戈相向。身為指揮官的你，要如何解決這個危機？人類和地球的明天，又會是如何？
-
-遊戲介紹與特點
-怪獸大進擊2，是我們在兩年前發售的好評作品，怪獸大進擊的續作。我們在保留一代的優點上，修改了缺點，並加入了許多新的特點和樂趣如下：
-- 遊戲節奏更快速、更緊湊。
-- 在原有的三種方塊外，新增資金方塊的蒐集使用。
-- 秘密武器的部署不限一種，可部署複數種類在戰場上。
-- 全新九種外星敵人，更聰明刁鑽的行為AI，提升挑戰性。
-- 全新八種秘密武器，包含可三機分離、合體的超級機器人。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
-        <id>1942 Pacific Front Premium-tw-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/994157520?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[价格: $90.00 → $33.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/994157520?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/37/a4/6e37a4bc-1e74-ea85-f462-678a077bec82/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$90.00</span> → <b>
-  <strong>$33.00</strong>
-</b><span>[$30.00 ~ $90.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$33.00</b>
-</p><h3>App內購買</h3><ul>
-  <li>
-    25,000資金：<b>$170.00</b>
-  </li><li>
-    60,000資金：<b>$330.00</b>
-  </li><li>
-    125,000資金：<b>$630.00</b>
-  </li><li>
-    700,000資金：<b>$2,990.00</b>
-  </li><li>
-    325,000資金：<b>$1,470.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  延續「1941 Frozen Front」的戰鬥，惟這一次，打的是海戰。加入海軍，打贏生死存亡之戰！稱雄戰場，派遣戰士奔赴前線。最真實的軍事作戰！
-選擇正確戰術，運用突擊隊，擊潰頑敵！既可以在戰役中指揮美軍，也可以在戰鬥中統領日軍。步兵、炮兵、坦克、飛機、戰艦、潛艇，多兵種協同作戰，消滅敵軍幫兇；PACIFIC FRONT，以靈活的指揮技巧獲得晉升！
-
-*** 任務簡報 ***
-
-魚雷、炸彈，強大武器上陣作戰！
-坦克、步兵，攻克敵人陣地！
-轟炸機群，搗毀敵軍指揮部！
-潛艇偷襲，令敵軍防不勝防！
-在惡劣地形中佈置你的炮兵部隊！
-清除灘頭、湖泊、海峽的各種障礙！
-伏擊敵人！ 
-為部隊提供物資和彈藥！
-護衛航母及戰艦群！
-
-特色：
-- 去除廣告！
-- 以二戰為背景的回合制戰略行動遊戲
-- 激動人心的戰役和充滿挑戰的任務
-- 符合史實的美、日軍隊建制
-- 美日雙方步兵、炮兵、坦克、飛機、戰艦、潛艇，多兵種一應俱全
-- 戰鬥中可修理，偽裝，構築各種人員和建物
--白熱化的多人戰鬥
-- 六角網格可一覽無餘
-- 細膩的圖片和極為真實的聲效
-- 高難的搖滾配樂
-
-感謝您選擇 '1942 Pacific Front'！
-
-© HandyGames 2026
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/d6/77/ec/d677ecc3-3ea4-bee1-4dc2-1ac12dae7047/mzl.vuhhnqtt.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/74/68/a5/7468a582-3ea6-0c6c-1d8e-ff2ff6fe5029/mzl.thuqkdyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/7c/74/5e/7c745ebc-d631-bbd9-5bde-1fd2a809d38d/mzl.pxivotic.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/77/f3/9f/77f39fcb-847d-d023-2fde-d495ab165831/mzl.iyxudhfq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/4d/ff/79/4dff79ff-86ad-c535-f82e-1b9b65ebb739/mzl.rzcpmhkv.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/2e/79/1d/2e791d7e-3954-eef1-d6e6-99bf9063ffb6/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/dc/c6/af/dcc6afb2-45ab-77ef-97f0-c1b1cd0dadcd/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/43/d2/25/43d22595-8fc8-69d6-f95e-d476b7784e2d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/97/fc/d3/97fcd3e7-ed79-9889-4c46-775c3fb20c69/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/aa/14/0d/aa140d68-732c-94d1-18af-ca77384f2562/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Redial - 自動重撥]]></title>
-        <id>Auto Redial - 自動重撥-tw-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/6467822375?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[7-Day Pass: $150.00 → $90.00<br/>高級終身會員: $690.00 → $190.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6467822375?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a1/cc2ea1d5-0045-c8eb-6697-feb35cd6d97f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Grok - AI 助理]]></title>
+        <id>Grok - AI 助理-tw-1789653245430</id>
+        <link href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN"/>
+        <updated>2026-09-17T13:54:05.430Z</updated>
+        <summary type="html"><![CDATA[SuperGrok: $9,990.00 → $990.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/45/bc/8b45bcdf-d7ef-d098-526b-3d35b94ac0e5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App內購買</h3><ul>
   <li>
-    <strong>7-Day Pass：</strong><span>$150.00</span> → <b>
-  <strong>$90.00</strong>
-</b><span>[$90.00 ~ $150.00]</span>
-  </li><li>
-    <strong>高級終身會員：</strong><span>$690.00</span> → <b>
-  <strong>$190.00</strong>
-</b><span>[$190.00 ~ $990.00]</span>
+    <strong>SuperGrok：</strong><span>$9,990.00</span> → <b>
+  <strong>$990.00</strong>
+</b><span>[$990.00 ~ $9,990.00]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免費</b>
 </p><h3>App內購買</h3><ul>
   <li>
-    每週訂閱：<b>$50.00</b>
+    SuperGrok：<b>$990.00</b>
   </li><li>
-    7-Day Pass：<b>$90.00</b>
+    Extra Usage Credits 5 USD：<b>$150.00</b>
   </li><li>
-    3-Day Pass：<b>$30.00</b>
+    SuperGrok Lite：<b>$320.00</b>
   </li><li>
-    高級終身會員：<b>$190.00</b>
+    Extra Usage Credits 20 USD：<b>$690.00</b>
   </li><li>
-    24小時通行證：<b>$20.00</b>
+    SuperGrok Heavy：<b>$9,990.00</b>
   </li><li>
-    Pro – Lifetime：<b>$0.00</b>
+    SuperGrok Plus：<b>$2,990.00</b>
   </li><li>
-    年度訂閱：<b>$290.00</b>
+    Extra Usage Credits 50 USD：<b>$1,490.00</b>
+  </li><li>
+    Extra Usage Credits 100 USD：<b>$2,990.00</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  透過此應用程序，您可以有效率且個人化地自動撥打您想要的號碼。您可以定義重複次數、通話間隔、新增分機號碼、撥號前啟動震動，甚至使用內建行事曆安排通話。 「自動重撥應用程式」還提供簡單直覺的介面、詳細的通話記錄和多種自訂選項，以滿足您的需求。
+  Grok 是由 xAI 開發的強大人工智慧助手。它被設計為最大限度地真實、有用且富有好奇心，幫助你獲得更好的答案、更快地創作，並即時理解這個世界。無論你需要智慧對話、深度研究、程式協助，還是高品質的圖像與影片生成，Grok 都能做到。
 
-此應用程式非常適合需要自動重複撥打電話的任何人 - 例如預約電話、忙線重試或聯絡線路繁忙的服務。
+人工智慧助手
+隨便問，即可獲得快速、條理清晰的回覆。讓 Grok 在網路上進行深度研究，解決數學、科學和程式中的複雜問題，或在對話中分析文件、照片和連結。這款人工智慧助手能把複雜主題轉化為清晰、可執行的洞察，並以強大的推理能力處理多步驟任務。
 
-主要特點：
-- 自動重撥佔線或未接來電。
-- 設定重試次數和時間間隔。
-- 透過行事曆提前安排通話。
-- 撥號後自動新增分機號碼。
-- 每次重撥前啟用振動。
-- 通話記錄和重試統計。
+Grok Imagine – AI 圖像與影片生成
+體驗快速而強大的 AI 圖像和影片創作。根據文字生成令人驚豔的圖像，建立帶聲音的短影片，或把照片變成動態影片。你甚至可以只用聲音生成圖像。還可以編輯既有圖片：移除物件、更換背景，或套用藝術風格——全程精準可控、畫質出色。
 
-適合：
-- 預約（醫生、大使館等）
-- 客戶服務或技術支援
-- 致電公共辦公室
-- 自由工作者和企業主跟進客戶
+Grok 語音模式
+與 Grok 進行自然的語音對話。對著你的人工智慧助手說話，即可即時獲得接近真人的回覆。你還可以個人化互動方式，並選擇適合自己的對話風格。
 
-無論您是打電話預約醫生、聯繫客戶服務，還是在線路繁忙時嘗試連接，此應用程式都可以節省時間和避免煩惱。
+來自 X 的即時資訊
+獲得最新答案。憑藉對 X 和網路的直接存取，這款人工智慧助手能讓你隨時掌握最新新聞、趨勢和正在發生的討論。讓 Grok 在 X 上進行進階搜尋，看看人們真正在說什麼。
 
+輕鬆將內容脈絡轉移到 Grok
+已經在使用 ChatGPT、Claude、Gemini 或其他 AI 工具？可以把對話和內容脈絡輕鬆轉移到 Grok，繼續工作，不必從頭開始。
 
-隱私權政策：
+真實使用情境
+學生用 Grok 學習並獲得清晰講解。職場人士用它做研究、寫作、分析並解決問題。內容創作者可在數秒內生成客製圖像和影片。開發者能獲得強而有力的程式協助與技術洞察。任何想要快速、真實、富有創造力的人工智慧助手的人，都能從 Grok 中受益。
 
-https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
+Grok 適合誰？
+Grok 為那些不滿足於基礎答案的好奇之人而打造。它非常適合學生、職場人士、創作者、研究者，以及所有希望同時擁有強大 AI 對話體驗與先進圖像、影片和智慧體能力的人。如果你看重求真、創造力和即時知識，Grok 就是為你準備的。
 
-使用條款（最終使用者許可協議）：
+有了 Grok 作為你的個人人工智慧助手，探索知識、激發創意、完成實際工作都會更快、更有趣。立即下載 Grok，體驗真正有幫助的人工智慧。
 
-Apple App Store：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/fd/36/2efd3677-7ead-dd11-3cac-c3765a026ab8/22c32242-b4e4-4f3f-b545-1f8d9ad67837_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.54.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/df/f9/05dff9b3-0a8c-4c3f-bf3c-d710badf4240/5f13a017-e208-4e09-995e-f5e808a97343_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.59.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/a3/4c/72a34cfe-c6be-4acd-6a2b-6aec1e82fc5a/d9356034-0c59-4171-ae49-8bf37adc0536_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.22.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/8b/03/698b03a1-4961-be08-47bc-386e97f9d681/d23b5ab8-3f9e-4719-9944-623dbc266d3a_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.11.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/06/d6/c106d6f6-6229-9077-00d3-b9f662024f0e/86793243-8ddb-4564-9a9a-c26b763a0c1d_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/4d/b9/624db940-88b3-521f-24e4-e2ab5a3f826a/850ff7e2-ec4b-4647-a374-150d088da5ee_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.48.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/d6/26/3cd6267f-4ad7-ee74-aea6-12634c832dac/658171ac-a346-42ad-af3c-87155b697ccd_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.50.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/05/d3/0c05d30e-d096-34b6-4c37-31135417df7e/34f06e56-f582-4b07-ac91-6e31c005c8b9_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.54.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/92/8a/ad928a8a-5990-a35c-acc4-f32a9fb7a9e9/5de6bba2-ff9d-41d7-9c10-f039d744a745_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.37.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/a1/af/29a1af08-aee0-d2b0-0152-0c399aec019c/edbac840-7238-4ffe-91ef-e23d95f0471a_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.31.png/360x480bb.jpg" />]]></content>
+服務條款：https://x.ai/legal/terms-of-service
+隱私權政策：https://x.ai/legal/privacy-policy
+
+Grok by xAI
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/7b/7c/cb7b7c6f-bba9-a34f-9fa0-a550eedf6758/Grok__SS1__U0028Google_Play_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/a3/96/31a3964a-ec84-bacf-10db-b821b0e8d344/Grok__SS2__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/36/c7/4c36c7e0-38e7-83bf-34b6-62f19c56082e/CPP__Grok_4.5_SS2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/3f/1c/9f3f1cc9-7158-4c48-e39a-3824ad07c3f6/Grok__SS4__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ef/56/dcef5641-9bbe-699b-4e4a-492177b38c85/Grok__SS5__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/03/ee/fd03eea0-1390-834f-d670-778e3de28727/Grok__SS7__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/df/1f/83df1f85-8743-a9be-058c-b525caef78fd/Grok__SS8__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/ad/50/59ad50ef-33fa-093a-34c3-9fa58f333719/Grok__SS10__U0028App_Store_U0029.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/0b/37/c00b37d8-97b5-329d-46e1-60bf391edd43/Grok__SS1__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/f7/01/97f70161-47d0-5ebd-8c7c-51be0976d705/Grok__SS2__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/74/ac/dc74acfd-ac48-3857-c8d5-fabaec469eb2/Grok__SS3__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/80/69/6d8069b1-12e7-dd17-9a00-de1e2dfc3fdf/Grok__SS4__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/6c/51/2d6c5137-ee80-370f-f25f-86d612fa3250/Grok__SS5__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/ca/21/95ca21f2-494a-493e-0a38-e383949c2a1d/Grok__SS7__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/3d/f8/463df84c-f082-4328-3f9a-c75668ca4c47/Grok__SS8__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/45/0d/0a450d01-8961-37b2-3892-db9c332eccbc/Grok__SS10__U0028iPad_U0029.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>
