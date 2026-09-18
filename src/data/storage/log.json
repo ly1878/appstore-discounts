@@ -1,5 +1,46 @@
 [
   {
+    "timestamp": 1789696953132,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [
+        {
+          "trackId": 6503428327,
+          "trackName": "Raycast: AI, Notes and more",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6670324846,
+          "trackName": "Grok - AI 助理",
+          "inAppPurchasesTimes": 3
+        }
+      ],
+      "us": [
+        {
+          "trackId": 6670324846,
+          "trackName": "Grok AI",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "29.974s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 11,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1789686842917,
     "regionAppInfo": {
       "cn": [],
@@ -986,30 +1027,6 @@
       "pt": 7
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789091778694,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "8.565s",
-    "regionAppCount": {
-      "cn": 5,
-      "hk": 6,
-      "mo": 6,
-      "tw": 6,
-      "us": 6,
-      "tr": 6,
-      "pt": 6
-    },
-    "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
