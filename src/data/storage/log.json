@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1789717349455,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [
+        {
+          "trackId": 6503428327,
+          "trackName": "Raycast: AI, Notes and more",
+          "inAppPurchasesTimes": 3
+        }
+      ],
+      "tw": [],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": []
+    },
+    "duration": "23.658s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 11,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 3,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1789696953132,
     "regionAppInfo": {
       "cn": [],
@@ -932,101 +968,6 @@
       "pt": 4
     },
     "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789112065074,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "11.361s",
-    "regionAppCount": {
-      "cn": 3,
-      "hk": 4,
-      "mo": 4,
-      "tw": 4,
-      "us": 4,
-      "tr": 4,
-      "pt": 4
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789104900814,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "8.074s",
-    "regionAppCount": {
-      "cn": 3,
-      "hk": 4,
-      "mo": 4,
-      "tw": 4,
-      "us": 4,
-      "tr": 4,
-      "pt": 4
-    },
-    "limitCount": 4,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789096686298,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 應用程式免費",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [
-        {
-          "trackId": 6480058345,
-          "trackName": "Kaiju Attack 2",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "pt": [
-        {
-          "trackId": 6480058345,
-          "trackName": "Kaiju Attack 2",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 994157520,
-          "trackName": "1942 Pacific Front Premium",
-          "inAppPurchasesTimes": 3
-        }
-      ]
-    },
-    "duration": "17.003s",
-    "regionAppCount": {
-      "cn": 3,
-      "hk": 7,
-      "mo": 7,
-      "tw": 7,
-      "us": 7,
-      "tr": 7,
-      "pt": 7
-    },
-    "limitCount": 3,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]

@@ -302765,6 +302765,21 @@
     "history": [
       [
         {
+          "timestamp": 1789717349455,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SuperGrok": "$990.00",
+            "Extra Usage Credits 5 USD": "$150.00",
+            "SuperGrok Lite": "$320.00",
+            "Extra Usage Credits 20 USD": "$690.00",
+            "SuperGrok Heavy": "$9,990.00",
+            "SuperGrok Plus": "$2,990.00",
+            "Extra Usage Credits 50 USD": "$1,490.00",
+            "Extra Usage Credits 100 USD": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1789670440070,
           "price": 0,
           "formattedPrice": "免費",

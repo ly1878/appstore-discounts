@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-09-17T13:54:31.142Z</updated>
+    <updated>2026-09-18T07:42:51.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-17T13:54:31.143Z</updated>
+        <updated>2026-09-18T07:42:51.301Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwThu, 17 Sep 2026 13:54:31 GMT</id>
+        <id>rankingtwFri, 18 Sep 2026 07:42:51 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-17T13:54:31.143Z</updated>
+        <updated>2026-09-18T07:42:51.301Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -97,14 +97,20 @@ feedId:157008546980077568+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/549432607?lang=zh-CN">Townsmen Premium</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">Grok - AI 助理</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>SuperGrok</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -114,7 +120,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/549432607?lang=zh-CN">Townsmen Premium</a>
       </td>
       <td>
         <ul>
@@ -131,7 +137,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
       </td>
       <td>
         <ul>
@@ -148,7 +154,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -165,7 +171,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1477806063?lang=zh-CN">Football Agent</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
       </td>
       <td>
         <ul>
@@ -182,7 +188,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1477806063?lang=zh-CN">Football Agent</a>
       </td>
       <td>
         <ul>
@@ -199,7 +205,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1592505377?lang=zh-CN">Wreckfest</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
       </td>
       <td>
         <ul>
@@ -216,7 +222,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1642715290?lang=zh-CN">Little Big Workshop</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1592505377?lang=zh-CN">Wreckfest</a>
       </td>
       <td>
         <ul>
@@ -233,7 +239,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1642715290?lang=zh-CN">Little Big Workshop</a>
       </td>
       <td>
         <ul>
@@ -250,7 +256,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
       </td>
       <td>
         <ul>
@@ -267,7 +273,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
       </td>
       <td>
         <ul>
@@ -284,7 +290,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
       </td>
       <td>
         <ul>
@@ -301,7 +307,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6480058345?lang=zh-CN">怪獸大進擊 2</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
       </td>
       <td>
         <ul>
@@ -316,6 +322,23 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>
         <b>14</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tw/6480058345?lang=zh-CN">怪獸大進擊 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tw/6467822375?lang=zh-CN">Auto Redial - 自動重撥</a>
@@ -338,29 +361,6 @@ feedId:157008546980077568+userId:73658201673997312
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">Grok - AI 助理</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App內購買</span><ol>
-              <li>
-                <i>SuperGrok</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -372,6 +372,72 @@ feedId:157008546980077568+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok - AI 助理]]></title>
+        <id>Grok - AI 助理-tw-1789717349455</id>
+        <link href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN"/>
+        <updated>2026-09-18T07:42:29.455Z</updated>
+        <summary type="html"><![CDATA[SuperGrok: $9,990.00 → $990.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/45/bc/8b45bcdf-d7ef-d098-526b-3d35b94ac0e5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
+  <li>
+    <strong>SuperGrok：</strong><span>$9,990.00</span> → <b>
+  <strong>$990.00</strong>
+</b><span>[$990.00 ~ $9,990.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    SuperGrok：<b>$990.00</b>
+  </li><li>
+    Extra Usage Credits 5 USD：<b>$150.00</b>
+  </li><li>
+    SuperGrok Lite：<b>$320.00</b>
+  </li><li>
+    Extra Usage Credits 20 USD：<b>$690.00</b>
+  </li><li>
+    SuperGrok Heavy：<b>$9,990.00</b>
+  </li><li>
+    SuperGrok Plus：<b>$2,990.00</b>
+  </li><li>
+    Extra Usage Credits 50 USD：<b>$1,490.00</b>
+  </li><li>
+    Extra Usage Credits 100 USD：<b>$2,990.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Grok 是由 xAI 開發的強大人工智慧助手。它被設計為最大限度地真實、有用且富有好奇心，幫助你獲得更好的答案、更快地創作，並即時理解這個世界。無論你需要智慧對話、深度研究、程式協助，還是高品質的圖像與影片生成，Grok 都能做到。
+
+人工智慧助手
+隨便問，即可獲得快速、條理清晰的回覆。讓 Grok 在網路上進行深度研究，解決數學、科學和程式中的複雜問題，或在對話中分析文件、照片和連結。這款人工智慧助手能把複雜主題轉化為清晰、可執行的洞察，並以強大的推理能力處理多步驟任務。
+
+Grok Imagine – AI 圖像與影片生成
+體驗快速而強大的 AI 圖像和影片創作。根據文字生成令人驚豔的圖像，建立帶聲音的短影片，或把照片變成動態影片。你甚至可以只用聲音生成圖像。還可以編輯既有圖片：移除物件、更換背景，或套用藝術風格——全程精準可控、畫質出色。
+
+Grok 語音模式
+與 Grok 進行自然的語音對話。對著你的人工智慧助手說話，即可即時獲得接近真人的回覆。你還可以個人化互動方式，並選擇適合自己的對話風格。
+
+來自 X 的即時資訊
+獲得最新答案。憑藉對 X 和網路的直接存取，這款人工智慧助手能讓你隨時掌握最新新聞、趨勢和正在發生的討論。讓 Grok 在 X 上進行進階搜尋，看看人們真正在說什麼。
+
+輕鬆將內容脈絡轉移到 Grok
+已經在使用 ChatGPT、Claude、Gemini 或其他 AI 工具？可以把對話和內容脈絡輕鬆轉移到 Grok，繼續工作，不必從頭開始。
+
+真實使用情境
+學生用 Grok 學習並獲得清晰講解。職場人士用它做研究、寫作、分析並解決問題。內容創作者可在數秒內生成客製圖像和影片。開發者能獲得強而有力的程式協助與技術洞察。任何想要快速、真實、富有創造力的人工智慧助手的人，都能從 Grok 中受益。
+
+Grok 適合誰？
+Grok 為那些不滿足於基礎答案的好奇之人而打造。它非常適合學生、職場人士、創作者、研究者，以及所有希望同時擁有強大 AI 對話體驗與先進圖像、影片和智慧體能力的人。如果你看重求真、創造力和即時知識，Grok 就是為你準備的。
+
+有了 Grok 作為你的個人人工智慧助手，探索知識、激發創意、完成實際工作都會更快、更有趣。立即下載 Grok，體驗真正有幫助的人工智慧。
+
+服務條款：https://x.ai/legal/terms-of-service
+隱私權政策：https://x.ai/legal/privacy-policy
+
+Grok by xAI
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/7b/7c/cb7b7c6f-bba9-a34f-9fa0-a550eedf6758/Grok__SS1__U0028Google_Play_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/a3/96/31a3964a-ec84-bacf-10db-b821b0e8d344/Grok__SS2__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/36/c7/4c36c7e0-38e7-83bf-34b6-62f19c56082e/CPP__Grok_4.5_SS2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/3f/1c/9f3f1cc9-7158-4c48-e39a-3824ad07c3f6/Grok__SS4__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ef/56/dcef5641-9bbe-699b-4e4a-492177b38c85/Grok__SS5__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/03/ee/fd03eea0-1390-834f-d670-778e3de28727/Grok__SS7__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/df/1f/83df1f85-8743-a9be-058c-b525caef78fd/Grok__SS8__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/ad/50/59ad50ef-33fa-093a-34c3-9fa58f333719/Grok__SS10__U0028App_Store_U0029.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/0b/37/c00b37d8-97b5-329d-46e1-60bf391edd43/Grok__SS1__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/f7/01/97f70161-47d0-5ebd-8c7c-51be0976d705/Grok__SS2__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/74/ac/dc74acfd-ac48-3857-c8d5-fabaec469eb2/Grok__SS3__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/80/69/6d8069b1-12e7-dd17-9a00-de1e2dfc3fdf/Grok__SS4__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/6c/51/2d6c5137-ee80-370f-f25f-86d612fa3250/Grok__SS5__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/ca/21/95ca21f2-494a-493e-0a38-e383949c2a1d/Grok__SS7__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/3d/f8/463df84c-f082-4328-3f9a-c75668ca4c47/Grok__SS8__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/45/0d/0a450d01-8961-37b2-3892-db9c332eccbc/Grok__SS10__U0028iPad_U0029.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grok - AI 助理]]></title>
