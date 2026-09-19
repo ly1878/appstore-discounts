@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1789847058644,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "16.96s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 3,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1789839278918,
     "regionAppInfo": {
       "cn": [],
