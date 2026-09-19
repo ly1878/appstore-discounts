@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": 1789821936993,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 934850257,
+          "trackName": "OsmAnd Maps Travel & Navigate",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": []
+    },
+    "duration": "50.54s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1789803477786,
     "regionAppInfo": {
       "cn": [],
@@ -945,29 +980,5 @@
     },
     "limitCount": 3,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789216191870,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "18.836s",
-    "regionAppCount": {
-      "cn": 3,
-      "hk": 4,
-      "mo": 4,
-      "tw": 4,
-      "us": 4,
-      "tr": 4,
-      "pt": 4
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
