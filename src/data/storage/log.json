@@ -1,5 +1,70 @@
 [
   {
+    "timestamp": 1789870359399,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [
+        {
+          "trackId": 316133247,
+          "trackName": "朗文當代高級詞典 (第6版)",
+          "inAppPurchasesTimes": 5
+        },
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 5
+        },
+        {
+          "trackId": 6477843068,
+          "trackName": "貓鍵盤",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: 應用程式免費",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 934850257,
+          "trackName": "OsmAnd Maps Travel & Navigate",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1596063349,
+          "trackName": "Stash",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "16.436s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1789857225661,
     "regionAppInfo": {
       "cn": [
@@ -1033,54 +1098,6 @@
       "pt": 4
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789264507747,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "6.466s",
-    "regionAppCount": {
-      "cn": 3,
-      "hk": 4,
-      "mo": 4,
-      "tw": 4,
-      "us": 4,
-      "tr": 4,
-      "pt": 4
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789252950517,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "8.841s",
-    "regionAppCount": {
-      "cn": 3,
-      "hk": 4,
-      "mo": 4,
-      "tw": 4,
-      "us": 4,
-      "tr": 4,
-      "pt": 4
-    },
-    "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
