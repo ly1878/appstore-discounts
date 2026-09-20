@@ -337974,6 +337974,16 @@
     "history": [
       [
         {
+          "timestamp": 1789926434360,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "$96.00",
+            "Advanced AI": "$191.99",
+            "Max Plan": "$49.99"
+          }
+        },
+        {
           "timestamp": 1789910239697,
           "price": 0,
           "formattedPrice": "Free",
