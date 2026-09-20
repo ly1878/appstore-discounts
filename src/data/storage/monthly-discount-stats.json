@@ -374,6 +374,13 @@
         "7-Day Pass": 1,
         "24h Pass": 1
       }
+    },
+    "6503428327": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Pro": 1
+      }
     }
   },
   "tr": {
