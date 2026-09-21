@@ -342164,7 +342164,7 @@
       "formattedPrice": "Free",
       "Pro": "$96.00",
       "Advanced AI": "$191.99",
-      "Max Plan": "$49.99"
+      "Max Plan": "$479.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -342174,6 +342174,18 @@
       "Max Plan": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789978792913,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "$96.00",
+            "Advanced AI": "$191.99",
+            "Max Plan": "$479.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789926434360,
