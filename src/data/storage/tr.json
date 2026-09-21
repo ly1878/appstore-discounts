@@ -278245,11 +278245,23 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro": "₺3.699,00",
+      "Pro": "₺399,99",
       "Advanced AI": "₺7.399,99",
       "Max Plan": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790025690319,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Max Plan": "₺2.499,99",
+            "Advanced AI": "₺7.399,99",
+            "Pro": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379308013,
