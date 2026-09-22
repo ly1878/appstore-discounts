@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-09-11T03:18:19.237Z</updated>
+    <updated>2026-09-22T18:24:49.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.237Z</updated>
+        <updated>2026-09-22T18:24:49.824Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 11 Sep 2026 03:18:19 GMT</id>
+        <id>rankingptTue, 22 Sep 2026 18:24:49 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.237Z</updated>
+        <updated>2026-09-22T18:24:49.824Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,10 +51,10 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -376,6 +376,29 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>17</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en">Raycast: AI, Notes and more</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Pro</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -389,166 +412,44 @@ feedId:206907475259680768+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaiju Attack 2]]></title>
-        <id>Kaiju Attack 2-pt-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6480058345?lang=en"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6480058345?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  To wash away the shame of defeat two years ago, Chaos has gathered an alien coalition, attacking Earth once more, citing humanity's sins as justification.
-Even the once-defending superhero now turns against us. As the commander, how will you resolve this crisis? What lies ahead for humanity and Earth?
-
-Game Intro
-Kaiju Attack 2, the sequel to our critically acclaimed title released two years ago, builds upon the strengths of the first installment while addressing its shortcomings. We've introduced numerous new features and enhancements, including:
-- Faster-paced and more intense gameplay.
-- Introduction of currency tiles alongside the existing three types.
-- Ability to deploy multiple types of secret weapons simultaneously.
-- Nine new alien bosses with smarter, more cunning behavior AI for increased challenge.
-- Eight new secret weapons, including super robots capable of splitting into three separate units and combining.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
-        <id>1942 Pacific Front Premium-pt-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/994157520?lang=en"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/994157520?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/37/a4/6e37a4bc-1e74-ea85-f462-678a077bec82/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    700.000 ouro：<b>99,99 €</b>
-  </li><li>
-    60,000 Gold：<b>9,99 €</b>
-  </li><li>
-    325.000 ouro：<b>49,99 €</b>
-  </li><li>
-    25.000 ouro：<b>4,99 €</b>
-  </li><li>
-    125.000 ouro：<b>19,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  1942. Segunda Guerra Mundial. Tu e as tuas tropas estais em serviço no Pacífico – e só pode haver um vencedor…
-
-A batalha continua após "1941 Frozen Front" – e, desta vez, tudo gira em torno da guerra naval! Junta-te à marinha e luta para vencer a batalha da tua vida! Domina o campo de batalha e envia os teus soldados para a linha da frente. Combate militar no seu melhor!
-
-Escolhe as táticas certas e utiliza o teu comando para derrotar o inimigo! Lidera o Exército dos EUA na sua campanha ou comanda as forças japonesas na sua missão! Elimina alianças inimigas com infantaria, artilharia, tanques, aviões de guerra, couraçados e submarinos, e conquista as tuas divisas como um comandante genial na PACIFIC FRONT!
-
-BRIEFING DA MISSÃO
-
-- LUTA com armas poderosas como torpedos e bombas!
-- DESTRÓI posições inimigas com tanques e infantaria!
-- BOMBARDEIA quartéis-generais hostis com poderosas esquadras de bombardeiros!
-- SURPREENDE o inimigo com ataques do teu submarino!
-- POSICIONA a tua artilharia em terrenos acidentados!
-- LIMPA praias, lagoas e estreitos!
-- EMBOSCA o inimigo!
-- ABASTECE o teu exército com mercadorias e munições!
-- DEFENDE os teus porta-aviões e couraçados!
-
-Características:
-- Joga sem anúncios!
-- Ação estratégica por turnos ambientada na 2ª Guerra Mundial
-- Campanhas emocionantes e missões desafiantes
-- Unidades históricas dos EUA e do Japão
-- Infantaria, artilharia, tanques, aviões, couraçados e submarinos para ambas as fações
-- Reparação, camuflagem e fortificação de unidades durante as batalhas
-- Batalhas multijogador local (Hot-hand)
-- Grelha hexagonal para a melhor visão geral possível
-- Gráficos detalhados e sons super-realistas
-- Suporte total para tablets
-
-Obrigado por jogares ‘1942 Pacific Front’!
-
-© HandyGames 2026
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/e6/d7/e5/e6d7e595-e24e-b322-705b-028b166932ed/mzl.sxlozjgp.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/dc/bb/e7/dcbbe70c-e6a5-3840-de59-ef2a3c091956/mzl.zynapvlc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f8/a1/8f/f8a18f79-e4f0-c81f-fc39-d05acbf4ca32/mzl.ershnlxb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/30/26/19/3026196a-b5d7-ff9e-580a-f6a5c2803de0/mzl.svugzuuw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/27/61/e2/2761e264-3375-a30a-cada-d0427845983d/mzl.uwpvjqil.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/51/55/23/515523a2-220c-5cd9-0e9a-aed8d60aaf89/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/9b/79/36/9b793629-dfde-0cec-d1c7-d4275b096dde/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/bd/a9/cd/bda9cdbc-6f34-3a87-5940-d9640afdffc9/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/89/57/ee/8957ee17-c946-f2e3-1949-84f34e666cde/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/94/d2/31/94d23135-867e-5366-878e-2a55822b617a/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Redial - Rechamada Auto]]></title>
-        <id>Auto Redial - Rechamada Auto-pt-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6467822375?lang=en"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[7-Day Pass: 3,99 € → 2,99 €<br/>3-Day Pass: 1,49 € → 0,99 €<br/>Passe de 24 horas: 0,99 € → 0,49 €<br/>Premium Lifetime: 19,99 € → 6,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6467822375?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a1/cc2ea1d5-0045-c8eb-6697-feb35cd6d97f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Raycast: AI, Notes and more]]></title>
+        <id>Raycast: AI, Notes and more-pt-1790101473620</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en"/>
+        <updated>2026-09-22T18:24:33.620Z</updated>
+        <summary type="html"><![CDATA[Pro: 88,99 € → 9,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6f/f4/be6ff410-6100-ccbf-67b9-7844e77bc6e2/AppIcon-Release-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
   <li>
-    <strong>7-Day Pass：</strong><span>3,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 5,99 €]</span>
-  </li><li>
-    <strong>3-Day Pass：</strong><span>1,49 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 1,49 €]</span>
-  </li><li>
-    <strong>Passe de 24 horas：</strong><span>0,99 €</span> → <b>
-  <strong>0,49 €</strong>
-</b><span>[0,49 € ~ 0,99 €]</span>
-  </li><li>
-    <strong>Premium Lifetime：</strong><span>19,99 €</span> → <b>
-  <strong>6,99 €</strong>
-</b><span>[6,99 € ~ 34,99 €]</span>
+    <strong>Pro：</strong><span>88,99 €</span> → <b>
+  <strong>9,99 €</strong>
+</b><span>[9,99 € ~ 88,99 €]</span>
   </li>
 </ul><h2>All Price Information</h2><p>
   Price：<b>Gratuito</b>
 </p><h3>Compras integradas</h3><ul>
   <li>
-    Assinatura semanal：<b>1,99 €</b>
+    Max Plan：<b>59,99 €</b>
   </li><li>
-    7-Day Pass：<b>2,99 €</b>
+    Advanced AI：<b>177,99 €</b>
   </li><li>
-    3-Day Pass：<b>0,99 €</b>
-  </li><li>
-    Passe de 24 horas：<b>0,49 €</b>
-  </li><li>
-    Premium Lifetime：<b>6,99 €</b>
-  </li><li>
-    Pro – Lifetime：<b>0,00 €</b>
-  </li><li>
-    Assinatura anual：<b>9,99 €</b>
+    Pro：<b>9,99 €</b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Com esta aplicação, pode fazer chamadas automáticas para os números que desejar de forma eficiente e personalizada. Pode definir o número de repetições, o intervalo entre chamadas, adicionar um posto, ativar a vibração antes de marcar e até mesmo agendar as suas chamadas utilizando um calendário integrado. A Auto Redial App oferece ainda uma interface simples e intuitiva, um histórico de chamadas detalhado e várias opções de personalização para se adequar às suas necessidades.
+  Introducing Raycast for iOS: Your all-in-one productivity toolkit with AI, notes, and more – now on mobile as the perfect companion to the macOS app.
 
-Esta aplicação é ideal para quem precisa de fazer chamadas repetitivas automaticamente — como uma chamada para uma consulta, uma nova tentativa de chamada quando o número está ocupado ou contactar serviços onde a linha está ocupada.
+The app brings your favorite productivity tools from the Mac into your pocket. With Raycast for iOS, you can:
+• Chat with dozens of AI models from leading providers to get the perfect answers for any task
+• Capture, organize, and access your thoughts to never lose an important idea again
+• Save and open Quicklinks for instant access to your most important resources
+• Store and reuse code snippets and templates to save time on repetitive workflows
+• Enjoy seamless cloud sync to keep all your content updated across devices
 
-Principais características:
-- Redisque automaticamente as chamadas ocupadas ou não atendidas.
-- Defina o número de tentativas e os intervalos de tempo.
-- Agende chamadas com antecedência via calendário.
-- Adicione os ramais automaticamente após a marcação.
-- Ative a vibração antes de cada rediscagem.
-- Histórico de chamadas e estatísticas de novas tentativas.
+Whether you're a long-time Mac user or just discovering Raycast on iOS, you'll have your essential productivity tools always at hand. Raycast for iOS seamlessly extends your desktop workflow to mobile, ensuring you stay productive and organized wherever life takes you.
 
-Perfeito para:
-- Marcação de consultas (médicas, embaixadas, etc.)
-- Atendimento ao cliente ou suporte técnico
-- Telefonar para repartições públicas
-- Freelancers e empresários a acompanhar clientes
+Please note: Raycast for iOS requires a free Raycast account. Premium features available with a Raycast Pro subscription.
 
-Quer esteja a ligar para marcar uma consulta médica, falar com o serviço de apoio ao cliente ou apenas a tentar ligar-se quando a linha está ocupada, esta aplicação poupa tempo e frustração.
-
-
-Política de Privacidade:
-https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
-
-Termos de Uso (EULA):
-Apple App Store
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/5e/64/d25e640d-9179-5372-ef28-a2b311c8ff90/7ae05f33-29d4-475c-9db4-f938acdc697a_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/ba/37/84ba373b-7e9c-f9f9-ba2c-dd954b51da40/fb893d89-7c26-4427-bdaa-42d753b796d2_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/40/2a/59402a5f-5130-68b9-17d1-4832ab11e523/8e49ed3d-2849-4690-ae83-e878acb7e893_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.25.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/b9/91/cdb99105-041b-1964-0011-78ffbe88bda0/103c44c7-203d-43c5-9bf0-31a9691da6af_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.19.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b9/ed/d5b9ed24-9a1b-b217-7075-79dd40fa198d/83089997-797f-4c68-aa7d-71aef1edee6d_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-11_at_17.26.11.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/7d/f6/7a7df65d-61e0-1a79-2fe0-67d83659ec7c/ee82c541-d772-4c58-a1a6-af5a5f599f48_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_21.07.09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/f9/9c/77f99c6e-7293-49e7-ac67-8a29bf8a55bc/02594870-087c-4388-9632-a9ee90b98ea2_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_21.07.14.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/77/1c/3d771c3c-97b6-adfa-06cb-f7747638156f/9a6f9504-885a-4582-8718-28a6376529e4_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_21.07.21.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/59/bd/cc59bd16-985d-1883-12b3-f38934bc3d08/64ab1178-ab72-424c-a5d9-96660e56a059_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_21.07.03.png/360x480bb.jpg" />]]></content>
+Terms of Service: https://www.raycast.com/terms-of-service
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/17/76/261776fd-3eca-2003-3c90-b8d56b6124ba/iphone-screenshot-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/ea/d8/d7ead813-0c9c-3030-ce1f-6ec913c2acc0/iphone-screenshot-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/4f/f8/574ff8e1-457b-8ab5-73fe-03944714b149/iphone-screenshot-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/3c/36/693c36e6-b167-9406-f0b4-6df26bb979cc/iphone-screenshot-4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/c1/01/06c101dc-e5c7-eb7f-f77f-b1cbe4856354/iphone-screenshot-6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/0b/40/000b401c-2575-89c0-be83-e496e42b9051/iphone-screenshot-5.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/bd/19/febd1940-d4c2-ba0e-b1c9-c509b0156221/ipad-screenshot-1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/9f/8b/8f9f8bff-929a-c4cc-7fa6-35a46dd39737/ipad-screenshot-3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/06/42/c0064200-10b0-b76d-b63a-e665f6fb56bf/ipad-screenshot-2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/3c/a2/913ca222-e5a0-c989-d223-c456fb99f7a7/ipad-screenshot-4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/53/da/c853dac6-964c-e13e-b405-56d056bc3bb5/ipad-screenshot-5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/32/8c/b3328c81-50a7-01df-610e-872fdefefebb/ipad-screenshot-6.jpg/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

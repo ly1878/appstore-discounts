@@ -137703,10 +137703,22 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "Advanced AI": "177,99 €",
-      "Pro": "88,99 €",
+      "Pro": "9,99 €",
       "Max Plan": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790101473620,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Max Plan": "59,99 €",
+            "Advanced AI": "177,99 €",
+            "Pro": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379308013,
