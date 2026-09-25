@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1790324303168,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "24.51s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 11,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 5,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1790302922020,
     "regionAppInfo": {
       "cn": [],
@@ -1009,42 +1033,6 @@
       "pt": []
     },
     "duration": "19.691s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789717349455,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [
-        {
-          "trackId": 6503428327,
-          "trackName": "Raycast: AI, Notes and more",
-          "inAppPurchasesTimes": 3
-        }
-      ],
-      "tw": [],
-      "us": [],
-      "tr": [
-        {
-          "trackId": 373493387,
-          "trackName": "AnkiMobile Flashcards",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "pt": []
-    },
-    "duration": "23.658s",
     "regionAppCount": {
       "cn": 8,
       "hk": 12,

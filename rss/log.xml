@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/log.xml</id>
     <title>日志信息</title>
-    <updated>2026-09-25T02:22:02.020Z</updated>
+    <updated>2026-09-25T08:18:23.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -10,6 +10,168 @@
         <uri>https://github.com/eyelly-wu</uri>
     </author>
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[2026-09-25 16:18:23 - playwright - 5]]></title>
+        <id>1790324303168</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-09-25T08:18:23.168Z</updated>
+        <summary type="html"><![CDATA[总耗时：24.51s；重新获取应用数占比：0%；单个应用重新获取平均次数：0；重新获取总次数：0；获取失败总应用数：0；获取失败应用数占比：-%]]></summary>
+        <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
+  <li>总耗时：24.51s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：0</li><li>重新获取总次数：0</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：-%</li>
+</ul><h2>统计信息</h2><table>
+  <thead>
+    <tr>
+      <th>区域</th>
+      <th>应用总数</th>
+      <th>重新获取应用数</th>
+      <th>重试总次数</th>
+      <th>获取失败数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>中国大陆（CN）</td>
+      <td>8</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>中国香港（HK）</td>
+      <td>12</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>中国澳门（MO）</td>
+      <td>11</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>中国台湾（TW）</td>
+      <td>12</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>美国（US）</td>
+      <td>11</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>土耳其（TR）</td>
+      <td>12</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>葡萄牙（PT）</td>
+      <td>12</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+  </tbody>
+</table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>中国香港（HK）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>中国澳门（MO）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>中国台湾（TW）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>美国（US）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>土耳其（TR）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>葡萄牙（PT）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-09-25 10:22:02 - fetch - 5]]></title>
         <id>1790302922020</id>
@@ -6289,200 +6451,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026-09-18 15:42:29 - fetch - 3]]></title>
-        <id>1789717349455</id>
-        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-18T07:42:29.455Z</updated>
-        <summary type="html"><![CDATA[总耗时：23.658s；重新获取应用数占比：3%；单个应用重新获取平均次数：2；重新获取总次数：3；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
-        <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
-  <li>总耗时：23.658s</li><li>重新获取应用数占比：3%</li><li>单个应用重新获取平均次数：2</li><li>重新获取总次数：3</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
-</ul><h2>统计信息</h2><table>
-  <thead>
-    <tr>
-      <th>区域</th>
-      <th>应用总数</th>
-      <th>重新获取应用数</th>
-      <th>重试总次数</th>
-      <th>获取失败数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>中国大陆（CN）</td>
-      <td>8</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>11</td>
-      <td>1（9%）</td>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>美国（US）</td>
-      <td>11</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>1（8%）</td>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>葡萄牙（PT）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>6503428327</li><li>
-            <a href="https://appstore-discounts.eyelly.me/mo/6503428327?lang=zh-CN">Raycast: AI, Notes and more</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>3</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>美国（US）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>373493387</li><li>
-            <a href="https://appstore-discounts.eyelly.me/tr/373493387?lang=en">AnkiMobile Flashcards</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-  </tbody>
 </table><h2>葡萄牙（PT）</h2><table>
   <thead>
     <tr>
