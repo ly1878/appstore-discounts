@@ -477,10 +477,10 @@
       "inAppPurchase": {}
     },
     "6503428327": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Pro": 1
+        "Pro": 2
       }
     }
   },

@@ -278252,6 +278252,18 @@
     "history": [
       [
         {
+          "timestamp": 1790446172187,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Max Plan": "₺2.499,99",
+            "Advanced AI": "₺7.399,99",
+            "Pro": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790043458458,
           "price": 0,
           "formattedPrice": "Free",

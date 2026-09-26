@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-09-21T21:21:44.600Z</updated>
+    <updated>2026-09-26T18:09:48.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-21T21:21:44.602Z</updated>
+        <updated>2026-09-26T18:09:48.093Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 21 Sep 2026 21:21:44 GMT</id>
+        <id>rankingtrSat, 26 Sep 2026 18:09:48 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-21T21:21:44.602Z</updated>
+        <updated>2026-09-26T18:09:48.093Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -149,14 +149,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/549432607?lang=en">Townsmen Premium</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6503428327?lang=en">Raycast: AI, Notes and more</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Pro</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -166,7 +172,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/982457990?lang=en">Cross Infinity: Eschaton Rifts</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/549432607?lang=en">Townsmen Premium</a>
       </td>
       <td>
         <ul>
@@ -183,7 +189,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/994157520?lang=en">1942 Pacific Front Premium</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/982457990?lang=en">Cross Infinity: Eschaton Rifts</a>
       </td>
       <td>
         <ul>
@@ -200,7 +206,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1020541183?lang=en">MovieSpirit - Movie Maker Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/994157520?lang=en">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -217,7 +223,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1435752659?lang=en">駕考王 - 澳門駕考駕照筆試模擬考試題庫</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1020541183?lang=en">MovieSpirit - Movie Maker Pro</a>
       </td>
       <td>
         <ul>
@@ -234,7 +240,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1477806063?lang=en">Football Agent</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1435752659?lang=en">駕考王 - 澳門駕考駕照筆試模擬考試題庫</a>
       </td>
       <td>
         <ul>
@@ -251,7 +257,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1477806063?lang=en">Football Agent</a>
       </td>
       <td>
         <ul>
@@ -268,7 +274,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1592505377?lang=en">Wreckfest</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
       </td>
       <td>
         <ul>
@@ -285,7 +291,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1642715290?lang=en">Little Big Workshop</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1592505377?lang=en">Wreckfest</a>
       </td>
       <td>
         <ul>
@@ -302,7 +308,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6747307749?lang=en">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1642715290?lang=en">Little Big Workshop</a>
       </td>
       <td>
         <ul>
@@ -319,7 +325,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6747307749?lang=en">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
       </td>
       <td>
         <ul>
@@ -336,7 +342,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en">Dungeon Merge!</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
       </td>
       <td>
         <ul>
@@ -353,7 +359,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en">Dungeon Merge!</a>
       </td>
       <td>
         <ul>
@@ -370,7 +376,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
       </td>
       <td>
         <ul>
@@ -387,7 +393,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6480058345?lang=en">Kaiju Attack 2</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
       </td>
       <td>
         <ul>
@@ -404,20 +410,14 @@ feedId:157008924688563200+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6503428327?lang=en">Raycast: AI, Notes and more</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6480058345?lang=en">Kaiju Attack 2</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Pro</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -436,9 +436,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Raycast: AI, Notes and more]]></title>
-        <id>Raycast: AI, Notes and more-tr-1790025690319</id>
+        <id>Raycast: AI, Notes and more-tr-1790446172187</id>
         <link href="https://appstore-discounts.eyelly.me/tr/6503428327?lang=en"/>
-        <updated>2026-09-21T21:21:30.319Z</updated>
+        <updated>2026-09-26T18:09:32.187Z</updated>
         <summary type="html"><![CDATA[Pro: ₺3.699,00 → ₺399,99]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6503428327?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6f/f4/be6ff410-6100-ccbf-67b9-7844e77bc6e2/AppIcon-Release-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
