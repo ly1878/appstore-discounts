@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1790551719958,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "19.036s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790534741154,
     "regionAppInfo": {
       "cn": [],
@@ -924,60 +948,6 @@
       "pt": 12
     },
     "limitCount": 2,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789944440432,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 應用程式免費",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "15.974s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 4,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789934167347,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "13.186s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 4,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
