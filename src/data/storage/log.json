@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": 1790519027708,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 4
+        },
+        {
+          "trackId": 1189158497,
+          "trackName": "照片標記助手 PhotosMeasure",
+          "inAppPurchasesTimes": 3
+        }
+      ],
+      "mo": [],
+      "tw": [
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1596063349,
+          "trackName": "Stash",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 316133247,
+          "trackName": "LDOCE",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "26.177s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790498472143,
     "regionAppInfo": {
       "cn": [],
@@ -911,30 +968,6 @@
       "pt": []
     },
     "duration": "11.891s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1789910239697,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "14.643s",
     "regionAppCount": {
       "cn": 8,
       "hk": 12,
