@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1790621695028,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 6477843068,
+          "trackName": "猫键盘",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: 免费应用程序",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 316133247,
+          "trackName": "朗文当代高级词典（第6版）",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "21.961s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 3,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790586304763,
     "regionAppInfo": {
       "cn": [],
@@ -924,30 +964,6 @@
       "pt": 12
     },
     "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790004440278,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "16.26s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 4,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
