@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1790642619912,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [
+        {
+          "trackId": 6670324846,
+          "trackName": "Grok - AI 助理",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 316133247,
+          "trackName": "LDOCE",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "37.327s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1790621695028,
     "regionAppInfo": {
       "cn": [
@@ -940,30 +976,6 @@
       "pt": 12
     },
     "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790025690319,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "15.801s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
