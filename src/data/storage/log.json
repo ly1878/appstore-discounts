@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1790673230287,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "12.499s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 12,
+      "mo": 11,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790642619912,
     "regionAppInfo": {
       "cn": [],
@@ -906,76 +930,6 @@
       "pt": 12
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790064143598,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 1189158497,
-          "trackName": "图片标记助手 - 注记和量尺大师",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1202642773,
-          "trackName": "Ever Play - HiFi 高清网盘音乐播放器",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "hk": [
-        {
-          "trackId": 1336634154,
-          "trackName": "SSH Client - Secure ShellFish",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 應用程式免費",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "22.497s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1790043458458,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "12.767s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]

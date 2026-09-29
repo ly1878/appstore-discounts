@@ -18993,7 +18993,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6670324846",
     "trackName": "Grok - Assistente de IA",
-    "firstRecordedAt": 1789379308013
+    "firstRecordedAt": 1789379308013,
+    "notificationDisabled": true
   },
   {
     "trackId": 6670402289,

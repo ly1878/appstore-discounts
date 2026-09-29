@@ -17,7 +17,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6670324846",
     "trackName": "Grok - AI 助理",
-    "firstRecordedAt": 1789379308013
+    "firstRecordedAt": 1789379308013,
+    "notificationDisabled": true
   },
   {
     "trackId": 6670324846,
@@ -37,7 +38,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6670324846",
     "trackName": "Grok - AI 助理",
-    "firstRecordedAt": 1789379308013
+    "firstRecordedAt": 1789379308013,
+    "notificationDisabled": true
   },
   {
     "trackId": 994157520,

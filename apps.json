@@ -103,7 +103,8 @@
         "us": "Grok AI",
         "tr": "Grok - AI Assistant"
       },
-      "addType": "manual"
+      "addType": "manual",
+      "allowNotification": false
     }
   ]
 }

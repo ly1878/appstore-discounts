@@ -20618,14 +20618,15 @@
   {
     "trackId": 6670324846,
     "region": "tw",
-    "timestamp": 1790621695028,
+    "timestamp": 1790673230287,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6670324846",
     "trackName": "Grok - AI 助理",
-    "firstRecordedAt": 1789379308013
+    "firstRecordedAt": 1789379308013,
+    "notificationDisabled": true
   },
   {
     "trackId": 6670338827,
