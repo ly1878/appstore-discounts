@@ -124,6 +124,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "934850257": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "OsmAnd Maps+": 1
+      }
+    },
     "982457990": {
       "all": 1,
       "price": 1,
@@ -203,6 +210,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "934850257": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "OsmAnd Maps+": 1
+      }
     },
     "982457990": {
       "all": 1,

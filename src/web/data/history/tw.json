@@ -75901,7 +75901,7 @@
       "OsmAnd Pro Monthly": "$150.00",
       "All World Maps": "$690.00",
       "Asia": "$150.00",
-      "OsmAnd Maps+": "$1,990.00",
+      "OsmAnd Maps+": "$990.00",
       "OsmAnd Maps+ Annual": "$320.00",
       "Nautical Map": "$60.00",
       "OsmAnd Pro Annual": "$1,190.00",
@@ -75910,6 +75910,25 @@
       "OsmAnd: All inclusive 3 months": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790701976685,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Wikipedia": "$0.00",
+            "Contour lines": "$290.00",
+            "OsmAnd Pro Monthly": "$150.00",
+            "OsmAnd: All inclusive Annual": "$280.00",
+            "All World Maps": "$690.00",
+            "Asia": "$150.00",
+            "OsmAnd Maps+": "$990.00",
+            "OsmAnd Maps+ Annual": "$320.00",
+            "OsmAnd Pro Annual": "$1,190.00",
+            "Nautical Map": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790205501427,

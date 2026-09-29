@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-09-11T03:18:19.229Z</updated>
+    <updated>2026-09-29T17:13:09.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.229Z</updated>
+        <updated>2026-09-29T17:13:09.113Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoFri, 11 Sep 2026 03:18:19 GMT</id>
+        <id>rankingmoTue, 29 Sep 2026 17:13:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.229Z</updated>
+        <updated>2026-09-29T17:13:09.114Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,16 +51,16 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>7</b>
+        <b>12</b>
       </td>
       <td>
-        <b>7</b>
-      </td>
-      <td>
-        <b></b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
+      </td>
+      <td>
+        <b>1</b>
       </td>
     </tr>
     <tr>
@@ -68,10 +68,10 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>7</b>
+        <b>11</b>
       </td>
       <td>
-        <b>7</b>
+        <b>11</b>
       </td>
       <td>
         <b></b>
@@ -114,14 +114,20 @@ feedId:157008389768002560+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/934850257?lang=zh-CN">OsmAnd Maps Travel & Navigate</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>OsmAnd Maps+</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -131,7 +137,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
       </td>
       <td>
         <ul>
@@ -148,7 +154,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -165,7 +171,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1477806063?lang=zh-CN">Football Agent</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
       </td>
       <td>
         <ul>
@@ -182,7 +188,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/1477806063?lang=zh-CN">Football Agent</a>
       </td>
       <td>
         <ul>
@@ -199,7 +205,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1592505377?lang=zh-CN">Wreckfest</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
       </td>
       <td>
         <ul>
@@ -216,7 +222,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1642715290?lang=zh-CN">Little Big Workshop</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/1592505377?lang=zh-CN">Wreckfest</a>
       </td>
       <td>
         <ul>
@@ -233,7 +239,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/1642715290?lang=zh-CN">Little Big Workshop</a>
       </td>
       <td>
         <ul>
@@ -250,7 +256,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
       </td>
       <td>
         <ul>
@@ -267,7 +273,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6759970821?lang=zh-CN">地牢合併!（Dungeon Merge!）</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
       </td>
       <td>
         <ul>
@@ -284,7 +290,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/6759970821?lang=zh-CN">地牢合併!（Dungeon Merge!）</a>
       </td>
       <td>
         <ul>
@@ -301,7 +307,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
       </td>
       <td>
         <ul>
@@ -318,7 +324,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6480058345?lang=zh-CN">怪獸大進擊 2</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
       </td>
       <td>
         <ul>
@@ -333,6 +339,23 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>15</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/mo/6480058345?lang=zh-CN">怪獸大進擊 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6467822375?lang=zh-CN">Auto Redial - 自動重撥</a>
@@ -368,156 +391,63 @@ feedId:157008389768002560+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怪獸大進擊 2]]></title>
-        <id>怪獸大進擊 2-mo-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/6480058345?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[价格: USD 2.99 → USD 1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/6480058345?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 2.99</span> → <b>
-  <strong>USD 1.99</strong>
-</b><span>[USD 1.99 ~ USD 2.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 1.99</b>
-</p><h2>应用描述</h2><p>
-  為了洗雪兩年前敗北的恥辱，混沌這次集結了異星的聯軍，以人類的罪孽為理由，再次襲擊地球。
-就連一直捍衛人類的那位超級英雄，也決定倒戈相向。身為指揮官的你，要如何解決這個危機？人類和地球的明天，又會是如何？
-
-遊戲介紹與特點
-怪獸大進擊2，是我們在兩年前發售的好評作品，怪獸大進擊的續作。我們在保留一代的優點上，修改了缺點，並加入了許多新的特點和樂趣如下：
-- 遊戲節奏更快速、更緊湊。
-- 在原有的三種方塊外，新增資金方塊的蒐集使用。
-- 秘密武器的部署不限一種，可部署複數種類在戰場上。
-- 全新九種外星敵人，更聰明刁鑽的行為AI，提升挑戰性。
-- 全新八種秘密武器，包含可三機分離、合體的超級機器人。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
-        <id>1942 Pacific Front Premium-mo-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/994157520?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[价格: USD 2.49 → USD 0.79]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/994157520?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/37/a4/6e37a4bc-1e74-ea85-f462-678a077bec82/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 2.49</span> → <b>
-  <strong>USD 0.79</strong>
-</b><span>[USD 0.79 ~ USD 2.49]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 0.79</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    700,000資金：<b>USD 89.99</b>
-  </li><li>
-    60,000資金：<b>USD 8.99</b>
-  </li><li>
-    325,000資金：<b>USD 44.99</b>
-  </li><li>
-    25,000資金：<b>USD 3.99</b>
-  </li><li>
-    125,000資金：<b>USD 17.99</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  延續「1941 Frozen Front」的戰鬥，惟這一次，打的是海戰。加入海軍，打贏生死存亡之戰！稱雄戰場，派遣戰士奔赴前線。最真實的軍事作戰！
-選擇正確戰術，運用突擊隊，擊潰頑敵！既可以在戰役中指揮美軍，也可以在戰鬥中統領日軍。步兵、炮兵、坦克、飛機、戰艦、潛艇，多兵種協同作戰，消滅敵軍幫兇；PACIFIC FRONT，以靈活的指揮技巧獲得晉升！
-
-*** 任務簡報 ***
-
-魚雷、炸彈，強大武器上陣作戰！
-坦克、步兵，攻克敵人陣地！
-轟炸機群，搗毀敵軍指揮部！
-潛艇偷襲，令敵軍防不勝防！
-在惡劣地形中佈置你的炮兵部隊！
-清除灘頭、湖泊、海峽的各種障礙！
-伏擊敵人！ 
-為部隊提供物資和彈藥！
-護衛航母及戰艦群！
-
-特色：
-- 去除廣告！
-- 以二戰為背景的回合制戰略行動遊戲
-- 激動人心的戰役和充滿挑戰的任務
-- 符合史實的美、日軍隊建制
-- 美日雙方步兵、炮兵、坦克、飛機、戰艦、潛艇，多兵種一應俱全
-- 戰鬥中可修理，偽裝，構築各種人員和建物
--白熱化的多人戰鬥
-- 六角網格可一覽無餘
-- 細膩的圖片和極為真實的聲效
-- 高難的搖滾配樂
-
-感謝您選擇 '1942 Pacific Front'！
-
-© HandyGames 2026
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/d6/77/ec/d677ecc3-3ea4-bee1-4dc2-1ac12dae7047/mzl.vuhhnqtt.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/74/68/a5/7468a582-3ea6-0c6c-1d8e-ff2ff6fe5029/mzl.thuqkdyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/7c/74/5e/7c745ebc-d631-bbd9-5bde-1fd2a809d38d/mzl.pxivotic.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/77/f3/9f/77f39fcb-847d-d023-2fde-d495ab165831/mzl.iyxudhfq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/4d/ff/79/4dff79ff-86ad-c535-f82e-1b9b65ebb739/mzl.rzcpmhkv.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/2e/79/1d/2e791d7e-3954-eef1-d6e6-99bf9063ffb6/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/dc/c6/af/dcc6afb2-45ab-77ef-97f0-c1b1cd0dadcd/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/43/d2/25/43d22595-8fc8-69d6-f95e-d476b7784e2d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/97/fc/d3/97fcd3e7-ed79-9889-4c46-775c3fb20c69/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/aa/14/0d/aa140d68-732c-94d1-18af-ca77384f2562/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Redial - 自動重撥]]></title>
-        <id>Auto Redial - 自動重撥-mo-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/6467822375?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[24小時通行證: USD 0.69 → USD 0.59<br/>高級終身會員: USD 12.99 → USD 5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/6467822375?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a1/cc2ea1d5-0045-c8eb-6697-feb35cd6d97f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[OsmAnd Maps Travel & Navigate]]></title>
+        <id>OsmAnd Maps Travel &amp; Navigate-mo-1790701976685</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/934850257?lang=zh-CN"/>
+        <updated>2026-09-29T17:12:56.685Z</updated>
+        <summary type="html"><![CDATA[OsmAnd Maps+: USD 59.99 → USD 29.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/934850257?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5e/07/6f5e0743-ab65-5760-49dc-e757eebb5503/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
   <li>
-    <strong>24小時通行證：</strong><span>USD 0.69</span> → <b>
-  <strong>USD 0.59</strong>
-</b><span>[USD 0.59 ~ USD 0.69]</span>
-  </li><li>
-    <strong>高級終身會員：</strong><span>USD 12.99</span> → <b>
-  <strong>USD 5.99</strong>
-</b><span>[USD 5.99 ~ USD 29.99]</span>
+    <strong>OsmAnd Maps+：</strong><span>USD 59.99</span> → <b>
+  <strong>USD 29.99</strong>
+</b><span>[USD 29.99 ~ USD 59.99]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免費</b>
 </p><h3>App 內購買</h3><ul>
   <li>
-    7-Day Pass：<b>USD 2.99</b>
+    OsmAnd Maps+ Annual：<b>USD 9.99</b>
   </li><li>
-    3-Day Pass：<b>USD 0.99</b>
+    Wikipedia：<b>USD 0.00</b>
   </li><li>
-    24小時通行證：<b>USD 0.59</b>
+    OsmAnd Maps+：<b>USD 29.99</b>
   </li><li>
-    高級終身會員：<b>USD 5.99</b>
+    Contour lines：<b>USD 8.99</b>
   </li><li>
-    Pro – Lifetime：<b>USD 0.00</b>
+    All World Maps：<b>USD 19.99</b>
   </li><li>
-    每週訂閱：<b>USD 1.49</b>
+    Nautical Map：<b>USD 1.99</b>
   </li><li>
-    年度訂閱：<b>USD 8.99</b>
+    OsmAnd Pro Monthly：<b>USD 4.99</b>
+  </li><li>
+    OsmAnd Pro Annual：<b>USD 34.99</b>
+  </li><li>
+    Antarctica：<b>USD 1.99</b>
+  </li><li>
+    OsmAnd: All Inclusive Monthly：<b>USD 1.99</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  透過此應用程序，您可以有效率且個人化地自動撥打您想要的號碼。您可以定義重複次數、通話間隔、新增分機號碼、撥號前啟動震動，甚至使用內建行事曆安排通話。 「自動重撥應用程式」還提供簡單直覺的介面、詳細的通話記錄和多種自訂選項，以滿足您的需求。
+  OsmAnd is an offline maps and navigation app for people who want reliable guidance, detailed maps, and full control over their routes. Download complete maps by country or region, search by address, place, or coordinates, and navigate with turn-by-turn voice guidance — even without internet access.
 
-此應用程式非常適合需要自動重複撥打電話的任何人 - 例如預約電話、忙線重試或聯絡線路繁忙的服務。
+With OsmAnd, you can:
 
-主要特點：
-- 自動重撥佔線或未接來電。
-- 設定重試次數和時間間隔。
-- 透過行事曆提前安排通話。
-- 撥號後自動新增分機號碼。
-- 每次重撥前啟用振動。
-- 通話記錄和重試統計。
+· Navigate offline for driving, cycling, walking, hiking, and more
+· Plan routes with intermediate stops and automatic rerouting
+· Use detailed OpenStreetMap-based maps with POIs, Favorites, and customizable overlays
+· Display, record, import, and navigate GPX tracks
+· Explore foot, hiking, and bike paths included in offline maps
+· Add contour lines and hillshading for better terrain awareness
+· Get lane guidance, street names, ETA, and optional screen alerts
+· Keep maps on your device for dependable use at home, abroad, and in remote areas
 
-適合：
-- 預約（醫生、大使館等）
-- 客戶服務或技術支援
-- 致電公共辦公室
-- 自由工作者和企業主跟進客戶
+OsmAnd is built for everyday navigation, travel, and outdoor exploration. It combines offline reliability with powerful route planning, detailed map data, and advanced tools for users who want more than a basic navigation app.
 
-無論您是打電話預約醫生、聯繫客戶服務，還是在線路繁忙時嘗試連接，此應用程式都可以節省時間和避免煩惱。
+Built on OpenStreetMap and developed as an open-source project, OsmAnd is privacy-friendly and gives you control over your data and app access. Maps are available worldwide and updated regularly, with optional hourly updates through Live Updates feature.
 
-
-隱私權政策：
-
-https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
-
-使用條款（最終使用者許可協議）：
-
-Apple App Store：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/fd/36/2efd3677-7ead-dd11-3cac-c3765a026ab8/22c32242-b4e4-4f3f-b545-1f8d9ad67837_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.54.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/df/f9/05dff9b3-0a8c-4c3f-bf3c-d710badf4240/5f13a017-e208-4e09-995e-f5e808a97343_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.59.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/a3/4c/72a34cfe-c6be-4acd-6a2b-6aec1e82fc5a/d9356034-0c59-4171-ae49-8bf37adc0536_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.22.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/8b/03/698b03a1-4961-be08-47bc-386e97f9d681/d23b5ab8-3f9e-4719-9944-623dbc266d3a_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.11.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/06/d6/c106d6f6-6229-9077-00d3-b9f662024f0e/86793243-8ddb-4564-9a9a-c26b763a0c1d_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/4d/b9/624db940-88b3-521f-24e4-e2ab5a3f826a/850ff7e2-ec4b-4647-a374-150d088da5ee_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.48.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/d6/26/3cd6267f-4ad7-ee74-aea6-12634c832dac/658171ac-a346-42ad-af3c-87155b697ccd_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.50.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/05/d3/0c05d30e-d096-34b6-4c37-31135417df7e/34f06e56-f582-4b07-ac91-6e31c005c8b9_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.54.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/92/8a/ad928a8a-5990-a35c-acc4-f32a9fb7a9e9/5de6bba2-ff9d-41d7-9c10-f039d744a745_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.37.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/a1/af/29a1af08-aee0-d2b0-0152-0c399aec019c/edbac840-7238-4ffe-91ef-e23d95f0471a_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.31.png/360x480bb.jpg" />]]></content>
+Terms of Use: https://osmand.net/docs/legal/terms-of-use
+Privacy Policy: https://osmand.net/docs/legal/privacy-policy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/41/6d/af/416daf00-0429-f14e-6062-6e01c8ea3f11/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/66/cd/7a66cdf0-d44c-9695-6606-39dce60f64c6/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/cd/b1/58cdb12f-296e-013a-0fb2-a48120600400/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c1/72/9fc17245-3711-69ec-a7f1-41f783e95f42/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/3e/a1/4a3ea186-98f3-02ec-ee31-08caa65d92d9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/ef/c6/d3efc6ad-de45-42f8-4ab6-3c022cf5b2e8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/7b/8b/a67b8b83-2460-362b-b08e-7acc8ffef016/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/e8/1b/33e81b28-a2e3-6632-8eab-dde95e1f59ca/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/72/1a/94721a3d-2a3f-8540-70cc-0a7af4add339/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/84/f9/6984f95d-f2e9-3bb1-4592-c82c17b6a8ca/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/ea/27/07ea27df-088f-6759-833e-57317a3cdbc7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/5b/e1/6e5be18c-8a6b-b2aa-8182-4ccd7d218c46/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ee/df/94/eedf94db-e1e2-6e66-e8b3-a8d702160064/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/33/46/ef3346f4-0a50-3c84-dddb-fb6542dd4a7b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/c7/c8/b6c7c88e-236a-6e1b-1846-e510521c6dc3/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/5c/0b/e35c0be2-219a-6d86-61f4-2dc74475decc/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/a6/4e/80a64e5e-88d6-5d16-63bb-e1ee2c97fab0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/55/ea/be55ea61-e960-d157-3d25-541b63722589/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/fb/49/75fb4969-1bda-17ee-da02-f427b995c091/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/71/31/4a7131fe-f97c-c13f-be2a-7b1737dd4de3/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
