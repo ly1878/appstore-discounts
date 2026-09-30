@@ -1,5 +1,76 @@
 [
   {
+    "timestamp": 1790759247458,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [
+        {
+          "trackId": 1189158497,
+          "trackName": "Photos Measure - Image meter",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6503428327,
+          "trackName": "Raycast: AI, Notes and more",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [
+        {
+          "trackId": 934850257,
+          "trackName": "OsmAnd Maps Travel & Navigate",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6477843068,
+          "trackName": "Cat Keyboard - Easy Paste",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: Apps Gone Free",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 316133247,
+          "trackName": "LDOCE",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6503428327,
+          "trackName": "Raycast: AI, Notes and more",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": []
+    },
+    "duration": "16.412s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790736711803,
     "regionAppInfo": {
       "cn": [],
@@ -883,29 +954,5 @@
     },
     "limitCount": 2,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790150691976,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "37.331s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 3,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
