@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 934850257,
+    "region": "pt",
+    "timestamp": 1790736711803,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "OsmAnd Maps+",
+        "from": "69,99 €",
+        "to": "34,99 €",
+        "range": "[34,99 € ~ 69,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id934850257",
+    "trackName": "OsmAnd — Mapas e GPS Offline",
+    "firstRecordedAt": 1788489063218
+  },
+  {
     "trackId": 6503428327,
     "region": "pt",
     "timestamp": 1790101473620,

@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 934850257,
+    "region": "tr",
+    "timestamp": 1790736711803,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "OsmAnd Maps+",
+        "from": "₺2.999,99",
+        "to": "₺1.499,99",
+        "range": "[₺1.499,99 ~ ₺2.999,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id934850257",
+    "trackName": "OsmAnd Maps Travel & Navigate",
+    "firstRecordedAt": 1788489063218
+  },
+  {
     "trackId": 6503428327,
     "region": "tr",
     "timestamp": 1790464475807,

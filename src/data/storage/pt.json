@@ -37678,12 +37678,31 @@
       "OsmAnd: Anual Tudo Incluído": "9,99 €",
       "Wikipedia": "0,00 €",
       "Contour lines": "9,99 €",
-      "OsmAnd Maps+": "69,99 €",
+      "OsmAnd Maps+": "34,99 €",
       "Todos os mapas do mundo": "22,99 €",
       "OsmAnd: Tudo Incluído Mensal": "1,99 €",
       "Europa": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790736711803,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "OsmAnd Pro Mensal": "5,99 €",
+            "OsmAnd Maps+ Anual": "14,99 €",
+            "OsmAnd Pro Anual": "39,99 €",
+            "OsmAnd: Anual Tudo Incluído": "9,99 €",
+            "Wikipedia": "0,00 €",
+            "Contour lines": "9,99 €",
+            "OsmAnd Maps+": "34,99 €",
+            "Todos os mapas do mundo": "22,99 €",
+            "OsmAnd: Tudo Incluído Mensal": "1,99 €",
+            "Europa": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,

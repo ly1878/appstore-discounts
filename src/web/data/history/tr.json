@@ -78797,12 +78797,31 @@
       "OsmAnd Pro Annual": "₺1.999,99",
       "OsmAnd: All inclusive Annual": "₺169,99",
       "Contour lines": "₺499,99",
-      "OsmAnd Maps+": "₺2.999,99",
+      "OsmAnd Maps+": "₺1.499,99",
       "OsmAnd: All inclusive 3 months": "₺22,99",
       "All World Maps": "₺999,99",
       "Europe": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790736711803,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "OsmAnd Pro Monthly": "₺249,99",
+            "OsmAnd Maps+ Annual": "₺699,99",
+            "Wikipedia": "₺0,00",
+            "OsmAnd Maps+": "₺1.499,99",
+            "OsmAnd Pro Annual": "₺1.999,99",
+            "Contour lines": "₺499,99",
+            "OsmAnd: All inclusive Annual": "₺169,99",
+            "OsmAnd: All inclusive 3 months": "₺22,99",
+            "All World Maps": "₺999,99",
+            "Europe": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,
