@@ -2,7 +2,7 @@
   {
     "trackId": 934850257,
     "region": "pt",
-    "timestamp": 1790736711803,
+    "timestamp": 1790804314023,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -13,7 +13,7 @@
       }
     ],
     "price": 0,
-    "formattedPrice": "Gratuito",
+    "formattedPrice": "Free",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id934850257",
     "trackName": "OsmAnd — Mapas e GPS Offline",

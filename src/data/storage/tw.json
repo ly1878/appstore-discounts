@@ -74882,6 +74882,25 @@
     "history": [
       [
         {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Wikipedia": "$0.00",
+            "Contour lines": "$290.00",
+            "OsmAnd Pro Monthly": "$150.00",
+            "OsmAnd: All inclusive Annual": "$280.00",
+            "All World Maps": "$690.00",
+            "Asia": "$150.00",
+            "OsmAnd Maps+": "$990.00",
+            "OsmAnd Maps+ Annual": "$320.00",
+            "Nautical Map": "$60.00",
+            "OsmAnd Pro Annual": "$1,190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790701976685,
           "price": 0,
           "formattedPrice": "免費",
@@ -98990,6 +99009,23 @@
     "history": [
       [
         {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Features": "$320.00",
+            "All Text Styles & Fonts": "$60.00",
+            "Loupe Tool": "$60.00",
+            "Text Highlighter & Redaction Tool": "$60.00",
+            "Spotlight Tool": "$60.00",
+            "Color Customization": "$60.00",
+            "All Obscuration Styles": "$60.00",
+            "Blur Tool": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789379052513,
           "price": 0,
           "formattedPrice": "免費",
@@ -111497,6 +111533,18 @@
     "history": [
       [
         {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "升級到終身VIP": "$790.00",
+            "Autorenew monthly VIP": "$90.00",
+            "Autorenew yearly VIP": "$390.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789379052513,
           "price": 0,
           "formattedPrice": "免費",
@@ -115228,6 +115276,19 @@
       "實時DSD轉換": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Hi-Res & DSD & 音樂可視化": "$230.00",
+            "Hi-Res & DSD & 音樂可視化(永久購買)": "$1,290.00",
+            "Full Function Pack": "$120.00",
+            "實時DSD轉換": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379052513,
@@ -131273,6 +131334,18 @@
       "ShellFish Annual subscription": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "$90.00",
+            "ShellFish Lifetime Pro Unlock": "$790.00",
+            "ShellFish Annual subscription": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,
@@ -176485,6 +176558,23 @@
       "Generous Tip": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "AppRaven Lifetime": "$990.00",
+            "Monthly Supporter": "$70.00",
+            "Yearly Supporter": "$400.00",
+            "Amazing Tip": "$90.00",
+            "Enormous Tip": "$320.00",
+            "Fearless Tip": "$690.00",
+            "Nice Tip": "$30.00",
+            "Generous Tip": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788520967639,
@@ -298489,6 +298579,19 @@
     "history": [
       [
         {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Cat Pro": "$790.00",
+            "Premium (1 Month)": "$90.00",
+            "Premium (3 Month)": "$290.00",
+            "Premium (12 Month)": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788489063218,
           "price": 0,
           "formattedPrice": "免費",
@@ -298519,6 +298622,18 @@
       "Max Plan": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790804314023,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "$3,100.00",
+            "Advanced AI": "$6,200.00",
+            "Max Plan": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379308013,
