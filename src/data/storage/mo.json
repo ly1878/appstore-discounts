@@ -200386,16 +200386,50 @@
       "formattedPrice": "免費",
       "Max Plan": "USD 49.99",
       "Advanced AI": "USD 191.99",
-      "Pro": "USD 9.99"
+      "Pro": "USD 9.99",
+      "10,000 Team AI Credits": "USD 116.99",
+      "5,000 Team AI Credits": "USD 60.00",
+      "5,000 AI Credits": "USD 46.49",
+      "2,500 Team AI Credits": "USD 30.90",
+      "500 Team AI Credits": "USD 6.49",
+      "10,000 AI Credits": "USD 90.00",
+      "2,500 AI Credits": "USD 23.90",
+      "500 AI Credits": "USD 5.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Max Plan": "USD 49.99",
       "Advanced AI": "USD 191.99",
-      "Pro": "USD 9.99"
+      "Pro": "USD 9.99",
+      "10,000 Team AI Credits": "USD 116.99",
+      "5,000 Team AI Credits": "USD 60.00",
+      "5,000 AI Credits": "USD 46.49",
+      "2,500 Team AI Credits": "USD 30.90",
+      "500 Team AI Credits": "USD 6.49",
+      "10,000 AI Credits": "USD 90.00",
+      "2,500 AI Credits": "USD 23.90",
+      "500 AI Credits": "USD 5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790892376081,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "10,000 Team AI Credits": "USD 116.99",
+            "5,000 Team AI Credits": "USD 60.00",
+            "5,000 AI Credits": "USD 46.49",
+            "2,500 Team AI Credits": "USD 30.90",
+            "500 Team AI Credits": "USD 6.49",
+            "10,000 AI Credits": "USD 90.00",
+            "2,500 AI Credits": "USD 23.90",
+            "500 AI Credits": "USD 5.00",
+            "Max Plan": "USD 49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379308013,

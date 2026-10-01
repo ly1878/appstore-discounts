@@ -291762,16 +291762,45 @@
       "formattedPrice": "免費",
       "Pro": "HK$ 748.00",
       "Advanced AI": "HK$ 1,498.00",
-      "Max Plan": "HK$ 388.00"
+      "Max Plan": "HK$ 388.00",
+      "10,000 Team AI Credits": "HK$ 888.00",
+      "5,000 Team AI Credits": "HK$ 488.00",
+      "5,000 AI Credits": "HK$ 368.00",
+      "2,500 Team AI Credits": "HK$ 228.00",
+      "500 Team AI Credits": "HK$ 48.00",
+      "10,000 AI Credits": "HK$ 688.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Pro": "HK$ 748.00",
       "Advanced AI": "HK$ 1,498.00",
-      "Max Plan": "HK$ 388.00"
+      "Max Plan": "HK$ 388.00",
+      "10,000 Team AI Credits": "HK$ 888.00",
+      "5,000 Team AI Credits": "HK$ 488.00",
+      "5,000 AI Credits": "HK$ 368.00",
+      "2,500 Team AI Credits": "HK$ 228.00",
+      "500 Team AI Credits": "HK$ 48.00",
+      "10,000 AI Credits": "HK$ 688.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790892376081,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Advanced AI": "HK$ 1,498.00",
+            "Pro": "HK$ 748.00",
+            "10,000 Team AI Credits": "HK$ 888.00",
+            "5,000 Team AI Credits": "HK$ 488.00",
+            "5,000 AI Credits": "HK$ 368.00",
+            "2,500 Team AI Credits": "HK$ 228.00",
+            "500 Team AI Credits": "HK$ 48.00",
+            "10,000 AI Credits": "HK$ 688.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379308013,

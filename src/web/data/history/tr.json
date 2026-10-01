@@ -282459,16 +282459,45 @@
       "formattedPrice": "Free",
       "Pro": "₺3.699,00",
       "Advanced AI": "₺7.399,99",
-      "Max Plan": "₺2.499,99"
+      "Max Plan": "₺2.499,99",
+      "10,000 Team AI Credits": "₺5.999,99",
+      "5,000 Team AI Credits": "₺2.999,99",
+      "5,000 AI Credits": "₺2.499,99",
+      "2,500 Team AI Credits": "₺1.799,99",
+      "500 Team AI Credits": "₺349,99",
+      "10,000 AI Credits": "₺4.999,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Pro": "₺399,99",
       "Advanced AI": "₺7.399,99",
-      "Max Plan": "₺2.499,99"
+      "Max Plan": "₺2.499,99",
+      "10,000 Team AI Credits": "₺5.999,99",
+      "5,000 Team AI Credits": "₺2.999,99",
+      "5,000 AI Credits": "₺2.499,99",
+      "2,500 Team AI Credits": "₺1.799,99",
+      "500 Team AI Credits": "₺349,99",
+      "10,000 AI Credits": "₺4.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790892376081,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "₺3.699,00",
+            "Advanced AI": "₺7.399,99",
+            "10,000 Team AI Credits": "₺5.999,99",
+            "5,000 Team AI Credits": "₺2.999,99",
+            "5,000 AI Credits": "₺2.499,99",
+            "2,500 Team AI Credits": "₺1.799,99",
+            "500 Team AI Credits": "₺349,99",
+            "10,000 AI Credits": "₺4.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790464475807,

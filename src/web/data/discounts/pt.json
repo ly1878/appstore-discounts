@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6503428327,
+    "region": "pt",
+    "timestamp": 1790892376081,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Advanced AI",
+        "from": "177,99 €",
+        "to": "19,99 €",
+        "range": "[19,99 € ~ 177,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Pro",
+        "from": "88,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 88,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6503428327",
+    "trackName": "Raycast: AI, Notes and more",
+    "firstRecordedAt": 1789379308013
+  },
+  {
     "trackId": 934850257,
     "region": "pt",
     "timestamp": 1790804314023,

@@ -4,7 +4,24 @@
   "hk": {},
   "mo": {},
   "tw": {},
-  "us": {},
+  "us": {
+    "6503428327": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Max Plan": 1
+      }
+    }
+  },
   "tr": {},
-  "pt": {}
+  "pt": {
+    "6503428327": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Advanced AI": 1,
+        "Pro": 1
+      }
+    }
+  }
 }

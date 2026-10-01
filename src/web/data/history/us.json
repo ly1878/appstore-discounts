@@ -342183,16 +342183,43 @@
       "formattedPrice": "Free",
       "Pro": "$96.00",
       "Advanced AI": "$191.99",
-      "Max Plan": "$479.99"
+      "Max Plan": "$479.99",
+      "10,000 Team AI Credits": "$116.99",
+      "5,000 Team AI Credits": "$60.00",
+      "5,000 AI Credits": "$46.49",
+      "2,500 Team AI Credits": "$30.90",
+      "500 Team AI Credits": "$6.49"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Pro": "$9.99",
       "Advanced AI": "$191.99",
-      "Max Plan": "$49.99"
+      "Max Plan": "$49.99",
+      "10,000 Team AI Credits": "$116.99",
+      "5,000 Team AI Credits": "$60.00",
+      "5,000 AI Credits": "$46.49",
+      "2,500 Team AI Credits": "$30.90",
+      "500 Team AI Credits": "$6.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790892376081,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro": "$96.00",
+            "Advanced AI": "$191.99",
+            "Max Plan": "$49.99",
+            "10,000 Team AI Credits": "$116.99",
+            "5,000 Team AI Credits": "$60.00",
+            "5,000 AI Credits": "$46.49",
+            "2,500 Team AI Credits": "$30.90",
+            "500 Team AI Credits": "$6.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789978792913,

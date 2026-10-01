@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-09-30T02:52:07.513Z</updated>
+    <updated>2026-10-01T22:06:28.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-30T02:52:07.514Z</updated>
+        <updated>2026-10-01T22:06:28.933Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptWed, 30 Sep 2026 02:52:07 GMT</id>
+        <id>rankingptThu, 01 Oct 2026 22:06:28 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-30T02:52:07.514Z</updated>
+        <updated>2026-10-01T22:06:28.933Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -97,313 +97,6 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6467822375?lang=en">Auto Redial - Rechamada Auto</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>Compras integradas</span><ol>
-              <li>
-                <i>7-Day Pass</i>：<b>2</b>
-              </li><li>
-                <i>Premium Lifetime</i>：<b>2</b>
-              </li><li>
-                <i>3-Day Pass</i>：<b>1</b>
-              </li><li>
-                <i>Passe de 24 horas</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/549432607?lang=en">Townsmen Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/934850257?lang=en">OsmAnd — Mapas e GPS Offline</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>Compras integradas</span><ol>
-              <li>
-                <i>OsmAnd Maps+</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/982457990?lang=en">求生无限 - 单机经典无限流大冒险</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/994157520?lang=en">1942 Pacific Front Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1298544927?lang=en">My Child Lebensborn</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1435752659?lang=en">駕考王 - 澳門駕考駕照筆試模擬考試題庫</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1477806063?lang=en">Agente de Futebol</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1592505377?lang=en">Wreckfest</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1642715290?lang=en">Little Big Workshop</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6747307749?lang=en">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">Dungeon Merge!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>17</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6480058345?lang=en">Kaiju Attack 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en">Raycast: AI, Notes and more</a>
       </td>
       <td>
@@ -415,6 +108,8 @@ feedId:206907475259680768+userId:73658201673997312
           </li><li>
             <span>Compras integradas</span><ol>
               <li>
+                <i>Advanced AI</i>：<b>1</b>
+              </li><li>
                 <i>Pro</i>：<b>1</b>
               </li>
             </ol>
@@ -443,6 +138,65 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raycast: AI, Notes and more]]></title>
+        <id>Raycast: AI, Notes and more-pt-1790892376081</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en"/>
+        <updated>2026-10-01T22:06:16.081Z</updated>
+        <summary type="html"><![CDATA[Advanced AI: 177,99 € → 19,99 €<br/>Pro: 88,99 € → 9,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6f/f4/be6ff410-6100-ccbf-67b9-7844e77bc6e2/AppIcon-Release-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Advanced AI：</strong><span>177,99 €</span> → <b>
+  <strong>19,99 €</strong>
+</b><span>[19,99 € ~ 177,99 €]</span>
+  </li><li>
+    <strong>Pro：</strong><span>88,99 €</span> → <b>
+  <strong>9,99 €</strong>
+</b><span>[9,99 € ~ 88,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Advanced AI：<b>19,99 €</b>
+  </li><li>
+    Pro：<b>9,99 €</b>
+  </li><li>
+    10,000 Team AI Credits：<b>129,99 €</b>
+  </li><li>
+    5,000 Team AI Credits：<b>70,00 €</b>
+  </li><li>
+    5,000 AI Credits：<b>49,99 €</b>
+  </li><li>
+    2,500 Team AI Credits：<b>34,90 €</b>
+  </li><li>
+    500 Team AI Credits：<b>6,99 €</b>
+  </li><li>
+    10,000 AI Credits：<b>100,00 €</b>
+  </li><li>
+    2,500 AI Credits：<b>24,90 €</b>
+  </li><li>
+    500 AI Credits：<b>6,00 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Introducing Raycast for iOS: Your all-in-one productivity toolkit with AI, notes, and more – now on mobile as the perfect companion to the macOS app.
+
+The app brings your favorite productivity tools from the Mac into your pocket. With Raycast for iOS, you can:
+• Chat with dozens of AI models from leading providers to get the perfect answers for any task
+• Capture, organize, and access your thoughts to never lose an important idea again
+• Save and open Quicklinks for instant access to your most important resources
+• Store and reuse code snippets and templates to save time on repetitive workflows
+• Enjoy seamless cloud sync to keep all your content updated across devices
+
+Whether you're a long-time Mac user or just discovering Raycast on iOS, you'll have your essential productivity tools always at hand. Raycast for iOS seamlessly extends your desktop workflow to mobile, ensuring you stay productive and organized wherever life takes you.
+
+Please note: Raycast for iOS requires a free Raycast account. Premium features available with a Raycast Pro subscription.
+
+Terms of Service: https://www.raycast.com/terms-of-service
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/17/76/261776fd-3eca-2003-3c90-b8d56b6124ba/iphone-screenshot-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/ea/d8/d7ead813-0c9c-3030-ce1f-6ec913c2acc0/iphone-screenshot-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/4f/f8/574ff8e1-457b-8ab5-73fe-03944714b149/iphone-screenshot-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/3c/36/693c36e6-b167-9406-f0b4-6df26bb979cc/iphone-screenshot-4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/c1/01/06c101dc-e5c7-eb7f-f77f-b1cbe4856354/iphone-screenshot-6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/0b/40/000b401c-2575-89c0-be83-e496e42b9051/iphone-screenshot-5.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/bd/19/febd1940-d4c2-ba0e-b1c9-c509b0156221/ipad-screenshot-1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/9f/8b/8f9f8bff-929a-c4cc-7fa6-35a46dd39737/ipad-screenshot-3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/06/42/c0064200-10b0-b76d-b63a-e665f6fb56bf/ipad-screenshot-2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/3c/a2/913ca222-e5a0-c989-d223-c456fb99f7a7/ipad-screenshot-4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/53/da/c853dac6-964c-e13e-b405-56d056bc3bb5/ipad-screenshot-5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/32/8c/b3328c81-50a7-01df-610e-872fdefefebb/ipad-screenshot-6.jpg/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OsmAnd — Mapas e GPS Offline]]></title>
