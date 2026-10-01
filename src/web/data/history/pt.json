@@ -38634,6 +38634,25 @@
     "history": [
       [
         {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "OsmAnd Pro Mensal": "5,99 €",
+            "OsmAnd Maps+ Anual": "14,99 €",
+            "OsmAnd Pro Anual": "39,99 €",
+            "OsmAnd: Anual Tudo Incluído": "9,99 €",
+            "Wikipedia": "0,00 €",
+            "Contour lines": "9,99 €",
+            "OsmAnd Maps+": "34,99 €",
+            "Todos os mapas do mundo": "22,99 €",
+            "OsmAnd: Tudo Incluído Mensal": "1,99 €",
+            "Europa": "17,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790804314023,
           "price": 0,
           "formattedPrice": "Free",
@@ -47357,6 +47376,23 @@
     "history": [
       [
         {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Todas funcionalidades": "9,99 €",
+            "Todos Estilos de Texto & Fontes": "1,99 €",
+            "Ferramenta Marcação de Texto & Censura de Texto": "1,99 €",
+            "Ferramenta Destaque": "1,99 €",
+            "Ferramenta Lupa": "1,99 €",
+            "Ferramenta Desfoque": "1,99 €",
+            "Todos estilos de Obscurecimento": "1,99 €",
+            "Customização de Cor": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790804314023,
           "price": 0,
           "formattedPrice": "Free",
@@ -55769,6 +55805,18 @@
     "history": [
       [
         {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Autorenew yearly VIP": "14,99 €",
+            "Autorenew monthly VIP": "2,99 €",
+            "Upgrade to VIP for life time": "59,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790804314023,
           "price": 0,
           "formattedPrice": "Free",
@@ -56244,6 +56292,18 @@
       "Real-time DSD Conversion": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Hi-Res & DSD & Visualizer": "44,99 €",
+            "Full Function Pack": "4,49 €",
+            "Real-time DSD Conversion": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790804314023,
@@ -64573,6 +64633,18 @@
       "ShellFish Annual subscription": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "2,99 €",
+            "ShellFish Lifetime Pro Unlock": "29,99 €",
+            "ShellFish Annual subscription": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790804314023,
@@ -79135,6 +79207,23 @@
       "Generous Tip": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Monthly Supporter": "1,99 €",
+            "Yearly Supporter": "12,99 €",
+            "AppRaven Lifetime": "24,99 €",
+            "Amazing Tip": "2,99 €",
+            "Enormous Tip": "9,99 €",
+            "Fearless Tip": "22,99 €",
+            "Nice Tip": "0,99 €",
+            "Generous Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790804314023,
@@ -137781,6 +137870,19 @@
     "history": [
       [
         {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Cat Pro": "29,99 €",
+            "Premium (3 Month)": "8,99 €",
+            "Premium (12 Month)": "22,99 €",
+            "Premium (1 Month)": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790804314023,
           "price": 0,
           "formattedPrice": "Free",
@@ -137826,6 +137928,18 @@
       "Max Plan": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro": "88,99 €",
+            "Advanced AI": "177,99 €",
+            "Max Plan": "59,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790804314023,

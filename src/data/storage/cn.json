@@ -62872,6 +62872,21 @@
     "history": [
       [
         {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "所有功能": "¥68.00",
+            "文字高亮和遮盖工具": "¥15.00",
+            "放大镜工具": "¥15.00",
+            "聚光灯工具": "¥15.00",
+            "所有遮挡样式": "¥15.00",
+            "颜色定制化": "¥15.00",
+            "所有文字样式和字体": "¥15.00",
+            "模糊工具": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1790804314023,
           "price": 0,
           "formattedPrice": "Free",
@@ -81197,6 +81212,16 @@
     "history": [
       [
         {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包月VIP": "¥18.00",
+            "连续包年VIP": "¥68.00",
+            "升级到终身VIP": "¥168.00"
+          }
+        },
+        {
           "timestamp": 1790804314023,
           "price": 0,
           "formattedPrice": "Free",
@@ -81762,6 +81787,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Hi-Res & DSD & 音乐可视化": "¥48.00",
+            "完整功能": "¥10.00",
+            "Hi-Res & DSD & 音乐可视化(永久购买)": "¥298.00",
+            "实时DSD转换": "¥15.00"
+          }
+        },
         {
           "timestamp": 1790804314023,
           "price": 0,
@@ -95691,6 +95727,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "ShellFish Lifetime Pro Unlock": "¥168.00",
+            "ShellFish Monthly subscription": "¥22.00",
+            "ShellFish Annual subscription": "¥88.00"
+          }
+        },
         {
           "timestamp": 1790804314023,
           "price": 0,
@@ -120898,6 +120944,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "每月支持者": "¥15.00",
+            "AppRaven Lifetime": "¥198.00",
+            "Yearly Supporter": "¥88.00",
+            "Nice Tip": "¥8.00",
+            "Amazing Tip": "¥22.00",
+            "Enormous Tip": "¥68.00",
+            "Fearless Tip": "¥148.00",
+            "Generous Tip": "¥38.00"
+          }
+        },
         {
           "timestamp": 1790804314023,
           "price": 0,
@@ -223544,6 +223605,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790823485391,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Cat Pro": "¥168.00",
+            "Premium (1 Month)": "¥22.00",
+            "Premium (3 Month)": "¥58.00",
+            "Premium (12 Month)": "¥148.00"
+          }
+        },
         {
           "timestamp": 1790804314023,
           "price": 0,
