@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1790910040334,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 1189158497,
+          "trackName": "Photos Measure - Image meter",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1596063349,
+          "trackName": "Stash - Rule Based Proxy",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6503428327,
+          "trackName": "Raycast: AI, Notes and more",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": []
+    },
+    "duration": "12.354s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 10,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790892376081,
     "regionAppInfo": {
       "cn": [],
@@ -888,53 +933,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1790302922020,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "12.7s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790293152889,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "14.96s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
   }
 ]

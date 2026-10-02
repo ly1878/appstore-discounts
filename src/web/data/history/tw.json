@@ -302991,6 +302991,21 @@
     "history": [
       [
         {
+          "timestamp": 1790910040334,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "$3,100.00",
+            "Advanced AI": "$6,200.00",
+            "10,000 Team AI Credits": "$3,990.00",
+            "5,000 Team AI Credits": "$1,990.00",
+            "5,000 AI Credits": "$1,490.00",
+            "2,500 Team AI Credits": "$990.00",
+            "500 Team AI Credits": "$220.00",
+            "10,000 AI Credits": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1790892376081,
           "price": 0,
           "formattedPrice": "免費",
