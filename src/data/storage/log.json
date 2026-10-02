@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": 1790940740503,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1189158497,
+          "trackName": "图片标记助手 - 注记和量尺大师",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi 高清网盘音乐播放器",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "hk": [
+        {
+          "trackId": 6477843068,
+          "trackName": "貓鍵盤",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: 應用程式免費",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [],
+      "tw": [],
+      "us": [
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: Apps Gone Free",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 1099850421,
+          "trackName": "Annotable — Anotar & Marcar",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "14.944s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 10,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1790910040334,
     "regionAppInfo": {
       "cn": [],
@@ -909,29 +977,5 @@
     },
     "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790324303168,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "24.51s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
