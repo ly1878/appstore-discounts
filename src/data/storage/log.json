@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1791069959400,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "10.977s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1791051937790,
     "regionAppInfo": {
       "cn": [],
@@ -848,68 +872,6 @@
       "pt": 12
     },
     "limitCount": 2,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790464475807,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [
-        {
-          "trackId": 934850257,
-          "trackName": "OsmAnd Maps Travel & Navigate",
-          "inAppPurchasesTimes": 5
-        },
-        {
-          "trackId": 1596063349,
-          "trackName": "Stash",
-          "inAppPurchasesTimes": 5
-        },
-        {
-          "trackId": 6503428327,
-          "trackName": "Raycast: AI, Notes and more",
-          "inAppPurchasesTimes": 4
-        }
-      ],
-      "tw": [
-        {
-          "trackId": 934850257,
-          "trackName": "OsmAnd Maps Travel & Navigate",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 316133247,
-          "trackName": "朗文當代高級詞典 (第6版)",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "us": [],
-      "tr": [
-        {
-          "trackId": 6503428327,
-          "trackName": "Raycast: AI, Notes and more",
-          "inAppPurchasesTimes": 4
-        },
-        {
-          "trackId": 6670324846,
-          "trackName": "Grok - AI Assistant",
-          "inAppPurchasesTimes": 4
-        }
-      ],
-      "pt": []
-    },
-    "duration": "21.25s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
