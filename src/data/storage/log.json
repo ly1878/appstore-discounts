@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1791016909253,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "26.272s",
+    "regionAppCount": {
+      "cn": 8,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1790995600920,
     "regionAppInfo": {
       "cn": [],
@@ -887,71 +911,5 @@
     },
     "limitCount": 3,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790409923710,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 6477843068,
-          "trackName": "猫键盘",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1336634154,
-          "trackName": "SSH Client - Secure ShellFish",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 免费应用程序",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 373493387,
-          "trackName": "AnkiMobile Flashcards",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "hk": [],
-      "mo": [
-        {
-          "trackId": 934850257,
-          "trackName": "OsmAnd Maps Travel & Navigate",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 1596063349,
-          "trackName": "Stash",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 373493387,
-          "trackName": "AnkiMobile Flashcards",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1099850421,
-          "trackName": "Annotable: Annotation & Markup",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "31.774s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 12,
-      "mo": 11,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
