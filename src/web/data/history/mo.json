@@ -60412,6 +60412,25 @@
     "history": [
       [
         {
+          "timestamp": 1791130034946,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "OsmAnd Maps+ Annual": "USD 9.99",
+            "Wikipedia": "USD 0.00",
+            "OsmAnd Maps+": "USD 59.99",
+            "Contour lines": "USD 8.99",
+            "All World Maps": "USD 19.99",
+            "Nautical Map": "USD 1.99",
+            "OsmAnd Pro Monthly": "USD 4.99",
+            "OsmAnd Pro Annual": "USD 34.99",
+            "Antarctica": "USD 1.99",
+            "OsmAnd: All Inclusive Monthly": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790701976685,
           "price": 0,
           "formattedPrice": "免費",
