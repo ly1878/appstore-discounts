@@ -59371,7 +59371,9 @@
       "OsmAnd Pro Monthly": "USD 4.99",
       "OsmAnd Pro Annual": "USD 34.99",
       "Antarctica": "USD 1.99",
-      "OsmAnd: All Inclusive Monthly": "USD 1.99"
+      "OsmAnd: All Inclusive Monthly": "USD 1.99",
+      "OsmAnd: All inclusive 3 months": "USD 3.99",
+      "OsmAnd: All inclusive Annual": "USD 8.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -59385,9 +59387,30 @@
       "OsmAnd Pro Monthly": "USD 4.99",
       "OsmAnd Pro Annual": "USD 34.99",
       "Antarctica": "USD 1.99",
-      "OsmAnd: All Inclusive Monthly": "USD 1.99"
+      "OsmAnd: All Inclusive Monthly": "USD 1.99",
+      "OsmAnd: All inclusive 3 months": "USD 3.99",
+      "OsmAnd: All inclusive Annual": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791323958150,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "OsmAnd Maps+": "USD 59.99",
+            "OsmAnd Maps+ Annual": "USD 9.99",
+            "OsmAnd Pro Monthly": "USD 4.99",
+            "OsmAnd Pro Annual": "USD 34.99",
+            "Antarctica": "USD 1.99",
+            "OsmAnd: All Inclusive Monthly": "USD 1.99",
+            "OsmAnd: All inclusive 3 months": "USD 3.99",
+            "OsmAnd: All inclusive Annual": "USD 8.99",
+            "Contour lines": "USD 8.99",
+            "Wikipedia": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791130034946,
