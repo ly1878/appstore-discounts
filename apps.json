@@ -2,9 +2,22 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
-      "id": 934850257,
+      "id": 1481853033,
       "name": {
-        "us": "OsmAnd Maps Travel & Navigate"
+        "cn": "Strongbox Pro",
+        "hk": "Strongbox Pro",
+        "us": "Strongbox Pro",
+        "tr": "Strongbox Pro"
+      },
+      "addType": "manual"
+    },
+    {
+      "id": 897283731,
+      "name": {
+        "cn": "Strongbox - Password Manager",
+        "hk": "Strongbox - Password Manager",
+        "us": "Strongbox - Password Manager",
+        "tr": "Strongbox - Password Manager"
       },
       "addType": "manual"
     },
@@ -84,15 +97,6 @@
         "hk": "Stash",
         "us": "Stash - Rule Based Proxy",
         "tr": "Stash - Rule Based Proxy"
-      },
-      "addType": "manual"
-    },
-    {
-      "id": 6503428327,
-      "name": {
-        "hk": "Raycast: AI, Notes and more",
-        "us": "Raycast: AI, Notes and more",
-        "tr": "Raycast: AI, Notes and more"
       },
       "addType": "manual"
     },
