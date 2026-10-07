@@ -129026,7 +129026,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Hi-Res & DSD & Visualizer": "$39.99",
-      "Full Function Pack": "$1.49",
+      "Full Function Pack": "$1.99",
       "Real-time DSD Conversion": "$1.99"
     },
     "minPriceInfo": {
@@ -129037,6 +129037,18 @@
       "Real-time DSD Conversion": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791404248849,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Hi-Res & DSD & Visualizer": "$39.99",
+            "Full Function Pack": "$1.99",
+            "Real-time DSD Conversion": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789379052513,
