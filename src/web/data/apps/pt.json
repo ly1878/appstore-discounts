@@ -5232,6 +5232,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 897283731,
+    "region": "pt",
+    "timestamp": 1791337721979,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id897283731",
+    "trackName": "Strongbox - Password Manager",
+    "firstRecordedAt": 1791337721979
+  },
+  {
     "trackId": 898188878,
     "region": "pt",
     "timestamp": 1780566948389,

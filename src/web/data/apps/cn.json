@@ -3648,6 +3648,18 @@
     "firstRecordedAt": 1745839136197
   },
   {
+    "trackId": 897283731,
+    "region": "cn",
+    "timestamp": 1791337721979,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id897283731",
+    "trackName": "Strongbox - Password Manager",
+    "firstRecordedAt": 1791337721979
+  },
+  {
     "trackId": 898188878,
     "region": "cn",
     "timestamp": 1780566948389,

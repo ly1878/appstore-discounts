@@ -72183,6 +72183,37 @@
       ]
     ]
   },
+  "897283731": {
+    "name": "Strongbox - Password Manager",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Strongbox Pro (Yearly)": "₺1.299,99",
+      "Strongbox Pro (Monthly)": "₺149,99",
+      "Strongbox Pro (Lifetime)": "₺3.999,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Strongbox Pro (Yearly)": "₺1.299,99",
+      "Strongbox Pro (Monthly)": "₺149,99",
+      "Strongbox Pro (Lifetime)": "₺3.999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791337721979,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "₺1.299,99",
+            "Strongbox Pro (Monthly)": "₺149,99",
+            "Strongbox Pro (Lifetime)": "₺3.999,99"
+          }
+        }
+      ]
+    ]
+  },
   "898188878": {
     "name": "UrKeyboard輸入法",
     "maxPriceInfo": {

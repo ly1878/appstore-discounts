@@ -34684,6 +34684,37 @@
       ]
     ]
   },
+  "897283731": {
+    "name": "Strongbox - Password Manager",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Strongbox Pro (Yearly)": "29,99 €",
+      "Strongbox Pro (Monthly)": "2,99 €",
+      "Strongbox Pro (Lifetime)": "79,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Strongbox Pro (Yearly)": "29,99 €",
+      "Strongbox Pro (Monthly)": "2,99 €",
+      "Strongbox Pro (Lifetime)": "79,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791337721979,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "29,99 €",
+            "Strongbox Pro (Monthly)": "2,99 €",
+            "Strongbox Pro (Lifetime)": "79,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "898188878": {
     "name": "UrKeyboard輸入法",
     "maxPriceInfo": {

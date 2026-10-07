@@ -5640,6 +5640,18 @@
     "firstRecordedAt": 1745839136197
   },
   {
+    "trackId": 897283731,
+    "region": "mo",
+    "timestamp": 1791337721979,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id897283731",
+    "trackName": "Strongbox - Password Manager",
+    "firstRecordedAt": 1791337721979
+  },
+  {
     "trackId": 898188878,
     "region": "mo",
     "timestamp": 1780566948389,

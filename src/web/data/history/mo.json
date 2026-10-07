@@ -55987,6 +55987,45 @@
       ]
     ]
   },
+  "897283731": {
+    "trackId": 897283731,
+    "trackName": "Strongbox - Password Manager",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Strongbox Pro (Yearly)": "USD 24.99",
+      "Strongbox Pro (Lifetime)": "USD 74.99",
+      "Strongbox Pro (Monthly)": "USD 2.99",
+      "Yearly Tip": "USD 19.99",
+      "Huge Tip": "USD 199.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Strongbox Pro (Yearly)": "USD 24.99",
+      "Strongbox Pro (Lifetime)": "USD 74.99",
+      "Strongbox Pro (Monthly)": "USD 2.99",
+      "Yearly Tip": "USD 19.99",
+      "Huge Tip": "USD 199.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791337721979,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "USD 24.99",
+            "Strongbox Pro (Lifetime)": "USD 74.99",
+            "Strongbox Pro (Monthly)": "USD 2.99",
+            "Yearly Tip": "USD 19.99",
+            "Huge Tip": "USD 199.99"
+          }
+        }
+      ]
+    ]
+  },
   "898188878": {
     "trackId": 898188878,
     "trackName": "UrKeyboard輸入法",
