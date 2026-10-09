@@ -2,10 +2,10 @@
   "month": "2026-10",
   "cn": {
     "1202642773": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "完整功能": 1
+        "完整功能": 2
       }
     }
   },
@@ -13,6 +13,13 @@
   "mo": {},
   "tw": {},
   "us": {
+    "1202642773": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Full Function Pack": 1
+      }
+    },
     "6503428327": {
       "all": 1,
       "price": 0,

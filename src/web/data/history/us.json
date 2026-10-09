@@ -130605,6 +130605,18 @@
     "history": [
       [
         {
+          "timestamp": 1791539215982,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Hi-Res & DSD & Visualizer": "$39.99",
+            "Full Function Pack": "$1.49",
+            "Real-time DSD Conversion": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791404248849,
           "price": 0,
           "formattedPrice": "Free",

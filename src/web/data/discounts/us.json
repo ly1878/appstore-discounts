@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1202642773,
+    "region": "us",
+    "timestamp": 1791539215982,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Full Function Pack",
+        "from": "$1.99",
+        "to": "$1.49",
+        "range": "[$1.49 ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1202642773",
+    "trackName": "Ever Play - HiFi Music Player",
+    "firstRecordedAt": 1789379052513
+  },
+  {
     "trackId": 6503428327,
     "region": "us",
     "timestamp": 1790892376081,
