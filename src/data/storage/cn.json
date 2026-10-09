@@ -81822,6 +81822,19 @@
     "history": [
       [
         {
+          "timestamp": 1791506855880,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Hi-Res & DSD & 音乐可视化": "¥48.00",
+            "完整功能": "¥14.00",
+            "Hi-Res & DSD & 音乐可视化(永久购买)": "¥298.00",
+            "实时DSD转换": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791452465358,
           "price": 0,
           "formattedPrice": "免费",
