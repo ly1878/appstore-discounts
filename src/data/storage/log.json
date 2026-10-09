@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": 1791567670453,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 316133247,
+          "trackName": "LDOCE",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1099850421,
+          "trackName": "Annotable: Annotation & Markup",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": []
+    },
+    "duration": "14.342s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 10,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 5,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1791539215982,
     "regionAppInfo": {
       "cn": [],
@@ -611,98 +656,6 @@
       "pt": []
     },
     "duration": "10.706s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 10,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1790960371029,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "21.198s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 10,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1790940740503,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 1189158497,
-          "trackName": "图片标记助手 - 注记和量尺大师",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1202642773,
-          "trackName": "Ever Play - HiFi 高清网盘音乐播放器",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "hk": [
-        {
-          "trackId": 6477843068,
-          "trackName": "貓鍵盤",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1336634154,
-          "trackName": "SSH Client - Secure ShellFish",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 應用程式免費",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: Apps Gone Free",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 373493387,
-          "trackName": "AnkiMobile Flashcards",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [],
-      "pt": [
-        {
-          "trackId": 1099850421,
-          "trackName": "Annotable — Anotar & Marcar",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "14.944s",
     "regionAppCount": {
       "cn": 8,
       "hk": 11,
