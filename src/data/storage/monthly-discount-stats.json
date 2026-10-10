@@ -28,7 +28,15 @@
       }
     }
   },
-  "tr": {},
+  "tr": {
+    "1202642773": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Full Function Pack": 1
+      }
+    }
+  },
   "pt": {
     "6503428327": {
       "all": 1,
