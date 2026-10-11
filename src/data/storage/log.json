@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": 1791753107337,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 1099850421,
+          "trackName": "Annotable: Annotation & Markup",
+          "inAppPurchasesTimes": 11
+        },
+        {
+          "trackId": 1189158497,
+          "trackName": "照片標記助手 PhotosMeasure",
+          "inAppPurchasesTimes": 11
+        },
+        {
+          "trackId": 1596063349,
+          "trackName": "Stash",
+          "inAppPurchasesTimes": 11
+        }
+      ],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "24.13s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 5,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1791737867547,
     "regionAppInfo": {
       "cn": [],
@@ -694,29 +734,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1791146235887,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "28.518s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 11,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 4,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
