@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": 1791812934298,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1481853033,
+          "trackName": "Strongbox Pro",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 897283731,
+          "trackName": "Strongbox - Password Manager",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: 免费应用程序",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 316133247,
+          "trackName": "朗文当代高级词典（第6版）",
+          "inAppPurchasesTimes": 7
+        },
+        {
+          "trackId": 6477843068,
+          "trackName": "猫键盘",
+          "inAppPurchasesTimes": 6
+        }
+      ],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "21.342s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 10,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1791774504026,
     "regionAppInfo": {
       "cn": [],
@@ -685,30 +740,6 @@
       "pt": 11
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1791193592965,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "13.154s",
-    "regionAppCount": {
-      "cn": 8,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 11,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 4,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
