@@ -30,10 +30,11 @@
   },
   "tr": {
     "1202642773": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Full Function Pack": 1
+        "Full Function Pack": 1,
+        "Hi-Res & DSD & Visualizer": 1
       }
     }
   },

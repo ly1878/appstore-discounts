@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-10T20:51:11.107Z</updated>
+    <updated>2026-10-14T14:09:49.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-10T20:51:11.108Z</updated>
+        <updated>2026-10-14T14:09:49.065Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrSat, 10 Oct 2026 20:51:11 GMT</id>
+        <id>rankingtrWed, 14 Oct 2026 14:09:49 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-10T20:51:11.108Z</updated>
+        <updated>2026-10-14T14:09:49.066Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -102,13 +102,15 @@ feedId:157008924688563200+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Full Function Pack</i>：<b>1</b>
+              </li><li>
+                <i>Hi-Res & DSD & Visualizer</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -139,27 +141,27 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Ever Play - HiFi Music Player]]></title>
-        <id>Ever Play - HiFi Music Player-tr-1791665424000</id>
+        <id>Ever Play - HiFi Music Player-tr-1791986969589</id>
         <link href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en"/>
-        <updated>2026-10-10T20:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Full Function Pack: ₺46,99 → ₺32,99]]></summary>
+        <updated>2026-10-14T14:09:29.589Z</updated>
+        <summary type="html"><![CDATA[Hi-Res & DSD & Visualizer: ₺1.999,99 → ₺147,99]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/32/0d/5f320dc3-feef-157c-450c-34407b40ebf6/Autumn-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Full Function Pack：</strong><span>₺46,99</span> → <b>
-  <strong>₺32,99</strong>
-</b><span>[₺32,99 ~ ₺82,99]</span>
+    <strong>Hi-Res & DSD & Visualizer：</strong><span>₺1.999,99</span> → <b>
+  <strong>₺147,99</strong>
+</b><span>[₺147,99 ~ ₺1.999,99]</span>
   </li>
 </ul><h2>All Price Information</h2><p>
   Price：<b>Free</b>
 </p><h3>In-App Purchases</h3><ul>
   <li>
-    Hi-Res & DSD & Visualizer：<b>₺1.999,99</b>
+    Full Function Pack：<b>₺82,99</b>
   </li><li>
     Real-time DSD Conversion：<b>₺99,99</b>
   </li><li>
-    Full Function Pack：<b>₺32,99</b>
+    Hi-Res & DSD & Visualizer：<b>₺147,99</b>
   </li>
 </ul><h2>Application Description</h2><p>
   Bring your local, cloud and NAS music into one Hi-Res player.
