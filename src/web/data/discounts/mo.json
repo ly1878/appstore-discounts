@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 897283731,
+    "region": "mo",
+    "timestamp": 1792004521866,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Strongbox Pro (Lifetime)",
+        "from": "USD 99.99",
+        "to": "USD 74.99",
+        "range": "[USD 74.99 ~ USD 99.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id897283731",
+    "trackName": "Strongbox - Password Manager",
+    "firstRecordedAt": 1791337721979
+  },
+  {
     "trackId": 934850257,
     "region": "mo",
     "timestamp": 1790701976685,

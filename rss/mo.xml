@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-09-29T17:13:09.112Z</updated>
+    <updated>2026-10-14T19:02:15.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-29T17:13:09.113Z</updated>
+        <updated>2026-10-14T19:02:15.487Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoTue, 29 Sep 2026 17:13:09 GMT</id>
+        <id>rankingmoWed, 14 Oct 2026 19:02:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-29T17:13:09.114Z</updated>
+        <updated>2026-10-14T19:02:15.487Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -97,24 +97,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/549432607?lang=zh-CN">Townsmen Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/934850257?lang=zh-CN">OsmAnd Maps Travel & Navigate</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/897283731?lang=zh-CN">Strongbox - Password Manager</a>
       </td>
       <td>
         <ul>
@@ -125,253 +108,7 @@ feedId:157008389768002560+userId:73658201673997312
           </li><li>
             <span>App 內購買</span><ol>
               <li>
-                <i>OsmAnd Maps+</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1477806063?lang=zh-CN">Football Agent</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1592505377?lang=zh-CN">Wreckfest</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/1642715290?lang=zh-CN">Little Big Workshop</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6759970821?lang=zh-CN">地牢合併!（Dungeon Merge!）</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6480058345?lang=zh-CN">怪獸大進擊 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/6467822375?lang=zh-CN">Auto Redial - 自動重撥</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 內購買</span><ol>
-              <li>
-                <i>24小時通行證</i>：<b>1</b>
-              </li><li>
-                <i>高級終身會員</i>：<b>1</b>
+                <i>Strongbox Pro (Lifetime)</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -391,63 +128,80 @@ feedId:157008389768002560+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OsmAnd Maps Travel & Navigate]]></title>
-        <id>OsmAnd Maps Travel &amp; Navigate-mo-1790701976685</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/934850257?lang=zh-CN"/>
-        <updated>2026-09-29T17:12:56.685Z</updated>
-        <summary type="html"><![CDATA[OsmAnd Maps+: USD 59.99 → USD 29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/934850257?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5e/07/6f5e0743-ab65-5760-49dc-e757eebb5503/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Strongbox - Password Manager]]></title>
+        <id>Strongbox - Password Manager-mo-1792004521866</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/897283731?lang=zh-CN"/>
+        <updated>2026-10-14T19:02:01.866Z</updated>
+        <summary type="html"><![CDATA[Strongbox Pro (Lifetime): USD 99.99 → USD 74.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/897283731?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/81/0c/c4810c38-8fda-3630-6409-4e1edf8d055e/strongboxicon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
   <li>
-    <strong>OsmAnd Maps+：</strong><span>USD 59.99</span> → <b>
-  <strong>USD 29.99</strong>
-</b><span>[USD 29.99 ~ USD 59.99]</span>
+    <strong>Strongbox Pro (Lifetime)：</strong><span>USD 99.99</span> → <b>
+  <strong>USD 74.99</strong>
+</b><span>[USD 74.99 ~ USD 99.99]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免費</b>
 </p><h3>App 內購買</h3><ul>
   <li>
-    OsmAnd Maps+ Annual：<b>USD 9.99</b>
+    Strongbox Pro (Yearly)：<b>USD 24.99</b>
   </li><li>
-    Wikipedia：<b>USD 0.00</b>
+    Strongbox Pro (Lifetime)：<b>USD 74.99</b>
   </li><li>
-    OsmAnd Maps+：<b>USD 29.99</b>
+    Strongbox Pro (Monthly)：<b>USD 2.99</b>
   </li><li>
-    Contour lines：<b>USD 8.99</b>
+    Yearly Tip：<b>USD 19.99</b>
   </li><li>
-    All World Maps：<b>USD 19.99</b>
-  </li><li>
-    Nautical Map：<b>USD 1.99</b>
-  </li><li>
-    OsmAnd Pro Monthly：<b>USD 4.99</b>
-  </li><li>
-    OsmAnd Pro Annual：<b>USD 34.99</b>
-  </li><li>
-    Antarctica：<b>USD 1.99</b>
-  </li><li>
-    OsmAnd: All Inclusive Monthly：<b>USD 1.99</b>
+    Huge Tip：<b>USD 199.99</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  OsmAnd is an offline maps and navigation app for people who want reliable guidance, detailed maps, and full control over their routes. Download complete maps by country or region, search by address, place, or coordinates, and navigate with turn-by-turn voice guidance — even without internet access.
+  Strongbox 是一款管理密碼用的應用程式。其能安全地儲存所有密碼，再由一個主密碼來加以保護。其支援開源的  Password Safe 和 KeePass 格式。
 
-With OsmAnd, you can:
+*** 功能 ***
+- Face ID 或 Touch ID 解鎖，方便、安全、快捷。
 
-· Navigate offline for driving, cycling, walking, hiking, and more
-· Plan routes with intermediate stops and automatic rerouting
-· Use detailed OpenStreetMap-based maps with POIs, Favorites, and customizable overlays
-· Display, record, import, and navigate GPX tracks
-· Explore foot, hiking, and bike paths included in offline maps
-· Add contour lines and hillshading for better terrain awareness
-· Get lane guidance, street names, ETA, and optional screen alerts
-· Keep maps on your device for dependable use at home, abroad, and in remote areas
+- PIN 碼解鎖，提供脅迫 PIN 碼選項，以防棘手的情況發生。
 
-OsmAnd is built for everyday navigation, travel, and outdoor exploration. It combines offline reliability with powerful route planning, detailed map data, and advanced tools for users who want more than a basic navigation app.
+- YubiKey 防護 - 用硬體權杖保護您的資料庫。
 
-Built on OpenStreetMap and developed as an open-source project, OsmAnd is privacy-friendly and gives you control over your data and app access. Maps are available worldwide and updated regularly, with optional hourly updates through Live Updates feature.
+- 安全 - 由經過時間檢驗的軍工級加密技術保護。
 
-Terms of Use: https://osmand.net/docs/legal/terms-of-use
-Privacy Policy: https://osmand.net/docs/legal/privacy-policy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/41/6d/af/416daf00-0429-f14e-6062-6e01c8ea3f11/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/66/cd/7a66cdf0-d44c-9695-6606-39dce60f64c6/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/cd/b1/58cdb12f-296e-013a-0fb2-a48120600400/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c1/72/9fc17245-3711-69ec-a7f1-41f783e95f42/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/3e/a1/4a3ea186-98f3-02ec-ee31-08caa65d92d9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/ef/c6/d3efc6ad-de45-42f8-4ab6-3c022cf5b2e8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/7b/8b/a67b8b83-2460-362b-b08e-7acc8ffef016/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/e8/1b/33e81b28-a2e3-6632-8eab-dde95e1f59ca/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/72/1a/94721a3d-2a3f-8540-70cc-0a7af4add339/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/84/f9/6984f95d-f2e9-3bb1-4592-c82c17b6a8ca/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/ea/27/07ea27df-088f-6759-833e-57317a3cdbc7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/5b/e1/6e5be18c-8a6b-b2aa-8182-4ccd7d218c46/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ee/df/94/eedf94db-e1e2-6e66-e8b3-a8d702160064/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/33/46/ef3346f4-0a50-3c84-dddb-fb6542dd4a7b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/c7/c8/b6c7c88e-236a-6e1b-1846-e510521c6dc3/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/5c/0b/e35c0be2-219a-6d86-61f4-2dc74475decc/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/a6/4e/80a64e5e-88d6-5d16-63bb-e1ee2c97fab0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/55/ea/be55ea61-e960-d157-3d25-541b63722589/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/fb/49/75fb4969-1bda-17ee-da02-f427b995c091/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/71/31/4a7131fe-f97c-c13f-be2a-7b1737dd4de3/pr_source.png/576x768bb.png" />]]></content>
+- 私密 - 為您的敏感檔案、照片和影片提供隔離的應用程式內附件檢查工具。
+
+- 稽核您的密碼 - 自動檢查您資料庫的弱密碼，包括「Have I Been Pwned?」檢查。
+
+- 雲端支援，所以您可以使用 iCloud、Dropbox、OneDrive、Google Drive、WebDAV 或 SFTP 安全存取雲端，即使處於離線狀態。使用內建的「檔案」應用程式以獲得許多其他的儲存選項，或僅在您的本機裝置上安全地進行儲存。由您選擇您的儲存方式。
+
+- 透過深度搜尋，即時、強大地搜尋您的整套密碼和隱私權。自動產生新條目，並自動產生安全密碼。
+
+- 相容 - 透過「檔案」應用程式、電子郵件、CSV、iTunes 檔案共享或使用雲端儲存匯入/匯出。
+
+- 符合標準 - 使用經過時間檢驗的 Password Safe 和 KeePass 格式，讓您可以匯入任何現有的密碼保險箱。
+
+- 功能豐富 
+   - 驚人而可設定的密碼產生器，包括 Diceware (XKCD) 和通用密碼。
+   - 定時自動清除剪貼簿。
+   - 條目歷史記錄。
+   - KeePass 欄位喜好、標籤、自訂圖示和最愛圖示 (包括自動搜尋和下載) 。
+   - 雙因素驗證碼 (TOTP) - QR 碼、Steam 和手動。
+
+*** Strongbox 是免費增值應用程式 ***。
+這表示 Strongbox 是免費的，但如果您喜歡，也為您提供增強的 Pro 功能。如果您願意，可以選擇 90 天免費試用所有的 Pro 功能，沒有任何帳單，但大部分使用者認為免費版已完全夠用。
+
+---------------------------------------------------------------------
+‧ Strongbox 為專業版提供應用程式內購買服務 (包括自動續訂和單次付款)。
+‧ 也有直接/預付 (即非應用程式內購買) 的選項，詳情請見 Strongbox 網站。
+‧ 訂閱可自動續訂，並可循環計費。可隨時取消。
+‧ 訂閱的時間段為每月、每三個月或每年，由使用者自行決定。
+‧ 使用者還可以選擇購買「終身」的專業版應用程式。
+‧ 付款將在確認購買時從 iTunes 帳戶中扣除。
+‧ 除非在目前訂閱期限結束的 24 小時前關閉自動續訂，否則將自動續訂。
+‧ 將在目前訂閱期限結束前的 24 小時內向帳戶收取續訂費用，並確定續訂的費用。
+‧ 訂閱由使用者進行管理，購買後可以在使用者的帳戶設定中關閉自動續訂。
+‧ 免費試用期 (如果提供) 的剩餘時長將在使用者購買訂閱後被自動收回。
+‧ 可以透過存取 https://strongboxsafe.com/privacy-policy 瞭解 Strongbox 的隱私權政策。
+‧ 可以透過存取 https://strongboxsafe.com/terms 瞭解 Strongbox 的使用條款。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/74/c6/5574c690-4aae-cc95-533f-1746914e3626/737C0ADC-D300-4B2A-8072-B64F10FA5C6E-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/1e/ca/ce1ecafc-1edd-4efd-8fcf-80ddc474c528/A433F749-6494-41AD-A82A-315D1AED3C60-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/51/b3/cb51b336-b10d-328a-6fc1-0b5eb6a9fe31/6CC19449-3163-4FC7-BF7C-63FAFD2DA4F7-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/2c/84/012c8453-6919-a1c1-ddf9-bcae6e6e7eb6/1E5BE5B1-CF22-4EC9-B55A-BC75406AA178-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c2/8b/6fc28b3d-f940-9343-0944-4b76f057f20b/BBD671BC-195D-4CA7-8BD9-3DBBA38620E2-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/59/fe/8a59fe93-c3e8-8d49-653c-1e7c5ddad2d3/C9047BEA-5E48-4483-AA0B-9F193E14117E-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/66/ac/0966ac93-7128-27e0-1014-7365960fa4be/AF658B21-7074-4125-818C-0D81AF65D944-7.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/28/06/f728069d-cbe0-a992-7430-838ad52a8dce/0FFA98AD-BED3-4736-8F2F-3D356DC25F8A-8.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/eb/d4/38ebd41e-a55d-934d-1a3a-5e62bfacc0e0/9174A95C-BBF0-496C-B27C-F18DDA2C4A15-9.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/4e/ed/8a4eed51-3cac-6a53-f844-d6fd05d8bb8a/5E8FAE35-8590-421D-A667-350F3D858ABD-10.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9f/5b/829f5b16-cc5a-43c7-0aa6-579db3e30cdb/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/40/cdb240f6-b9ae-8419-44bc-c907f8bfec38/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/90/4f/20904f50-def7-957e-ca59-2f8c7be619e5/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/cd/1a/a1cd1a3f-4b06-e6e0-8b9f-52f2eef99cea/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/9f/13/e79f13c6-7106-2ee3-77af-be856bb08fd9/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/51/f1/f051f166-b7aa-99aa-9e7d-39322b1329e4/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/03/20/b403202c-b598-c9b0-03df-d56b816e5ec6/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/e7/6e/1be76e47-902d-f99d-c24f-b844997a8f53/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/16/90/db169074-bce8-a8f6-25f8-419ca66e89d2/pr_source.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

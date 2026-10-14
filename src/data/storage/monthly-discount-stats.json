@@ -10,7 +10,15 @@
     }
   },
   "hk": {},
-  "mo": {},
+  "mo": {
+    "897283731": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Strongbox Pro (Lifetime)": 1
+      }
+    }
+  },
   "tw": {},
   "us": {
     "1202642773": {
@@ -30,10 +38,10 @@
   },
   "tr": {
     "1202642773": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Full Function Pack": 1,
+        "Full Function Pack": 2,
         "Hi-Res & DSD & Visualizer": 1
       }
     }
