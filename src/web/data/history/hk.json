@@ -70622,6 +70622,16 @@
     "history": [
       [
         {
+          "timestamp": 1792020719913,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "HK$ 188.00",
+            "Strongbox Pro (Lifetime)": "HK$ 588.00",
+            "Strongbox Pro (Monthly)": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1792004521866,
           "price": 0,
           "formattedPrice": "免費",
