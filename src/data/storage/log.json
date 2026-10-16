@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1792175436866,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "13.084s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 10,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1792157811907,
     "regionAppInfo": {
       "cn": [
@@ -818,51 +842,6 @@
       "pt": 11
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1791567670453,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [
-        {
-          "trackId": 373493387,
-          "trackName": "AnkiMobile Flashcards",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 316133247,
-          "trackName": "LDOCE",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1099850421,
-          "trackName": "Annotable: Annotation & Markup",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1202642773,
-          "trackName": "Ever Play - HiFi Music Player",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "pt": []
-    },
-    "duration": "14.342s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 10,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
