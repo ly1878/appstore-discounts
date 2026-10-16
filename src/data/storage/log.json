@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": 1792157811907,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1481853033,
+          "trackName": "Strongbox Pro",
+          "inAppPurchasesTimes": 6
+        },
+        {
+          "trackId": 897283731,
+          "trackName": "Strongbox - Password Manager",
+          "inAppPurchasesTimes": 6
+        }
+      ],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "57.982s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 10,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1792136297641,
     "regionAppInfo": {
       "cn": [],
@@ -828,30 +863,6 @@
       "pt": 11
     },
     "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1791539215982,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "13.579s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 10,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
