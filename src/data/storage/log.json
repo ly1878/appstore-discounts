@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": 1792258590501,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 1189158497,
+          "trackName": "Photos Measure - Image meter",
+          "inAppPurchasesTimes": 9
+        },
+        {
+          "trackId": 1202642773,
+          "trackName": "Ever Play - HiFi Music Player",
+          "inAppPurchasesTimes": 8
+        }
+      ],
+      "pt": []
+    },
+    "duration": "35.197s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1792240398534,
     "regionAppInfo": {
       "cn": [],
@@ -842,30 +877,6 @@
       "pt": 11
     },
     "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1791649967284,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "22.217s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 11,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 6,
     "inAppPurchasesScrapeType": "playwright"
   }
 ]
