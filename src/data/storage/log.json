@@ -1,5 +1,46 @@
 [
   {
+    "timestamp": 1792327898028,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [
+        {
+          "trackId": 6477843068,
+          "trackName": "貓鍵盤",
+          "inAppPurchasesTimes": 3
+        }
+      ],
+      "us": [],
+      "tr": [
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: Apps Gone Free",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1099850421,
+          "trackName": "Annotable: Annotation & Markup",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": []
+    },
+    "duration": "50.517s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1792308652814,
     "regionAppInfo": {
       "cn": [],
@@ -844,29 +885,5 @@
     },
     "limitCount": 2,
     "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1791719170269,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "18.346s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 11,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 4,
-    "inAppPurchasesScrapeType": "fetch"
   }
 ]
