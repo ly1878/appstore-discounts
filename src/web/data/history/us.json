@@ -79201,6 +79201,21 @@
     "history": [
       [
         {
+          "timestamp": 1792308652814,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "$24.99",
+            "Strongbox Pro (Monthly)": "$2.99",
+            "Strongbox Pro (Lifetime)": "$99.99",
+            "Little Tip": "$4.99",
+            "Medium Tip": "$19.99",
+            "Small Tip": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791337721979,
           "price": 0,
           "formattedPrice": "Free",
