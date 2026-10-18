@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1792345165719,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "14.272s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1792327898028,
     "regionAppInfo": {
       "cn": [],
@@ -844,46 +868,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1791737867547,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [
-        {
-          "trackId": 1596063349,
-          "trackName": "Stash - Rule Based Proxy",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [],
-      "pt": [
-        {
-          "trackId": 1481853033,
-          "trackName": "Strongbox Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 897283731,
-          "trackName": "Strongbox - Password Manager",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "52.799s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 11,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
