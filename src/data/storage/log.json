@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1792288768040,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "21.759s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 11,
+      "mo": 11,
+      "tw": 11,
+      "us": 11,
+      "tr": 11,
+      "pt": 11
+    },
+    "limitCount": 3,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1792277130288,
     "regionAppInfo": {
       "cn": [],
@@ -843,58 +867,6 @@
       "pt": 11
     },
     "limitCount": 2,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1791676638098,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 1099850421,
-          "trackName": "Annotable — 终极图片标注工具",
-          "inAppPurchasesTimes": 3
-        }
-      ],
-      "hk": [],
-      "mo": [
-        {
-          "trackId": 1596063349,
-          "trackName": "Stash",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [
-        {
-          "trackId": 897283731,
-          "trackName": "Strongbox - Password Manager",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1336634154,
-          "trackName": "SSH Client - Secure ShellFish",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 應用程式免費",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "30.674s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 11,
-      "mo": 11,
-      "tw": 11,
-      "us": 11,
-      "tr": 11,
-      "pt": 11
-    },
-    "limitCount": 3,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
