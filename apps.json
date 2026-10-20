@@ -2,6 +2,14 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6791254308,
+      "name": {
+        "cn": "QKeyboard：AI 写作",
+        "us": "QKeyboard: AI Writing"
+      },
+      "addType": "manual"
+    },
+    {
       "id": 1481853033,
       "name": {
         "cn": "Strongbox Pro",
@@ -78,16 +86,6 @@
         "hk": "照片標記助手 PhotosMeasure",
         "us": "Photos Measure - Image meter",
         "tr": "Photos Measure - Image meter"
-      },
-      "addType": "manual"
-    },
-    {
-      "id": 1202642773,
-      "name": {
-        "cn": "Ever Play - HiFi 高清网盘音乐播放器",
-        "hk": "Ever Play - HiFi Music Player",
-        "us": "Ever Play - HiFi Music Player",
-        "tr": "Ever Play - HiFi Music Player"
       },
       "addType": "manual"
     },
