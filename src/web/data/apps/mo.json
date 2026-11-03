@@ -17904,6 +17904,18 @@
     "firstRecordedAt": 1756476705248
   },
   {
+    "trackId": 6443975850,
+    "region": "mo",
+    "timestamp": 1793683987952,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6443975850",
+    "trackName": "SenPlayer -  影片播放器",
+    "firstRecordedAt": 1793683987952
+  },
+  {
     "trackId": 6444029612,
     "region": "mo",
     "timestamp": 1721960142187,
@@ -25244,6 +25256,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6790482210",
     "trackName": "香港海關投考攻略 CustomsReady",
     "firstRecordedAt": 1784360917216
+  },
+  {
+    "trackId": 6791254308,
+    "region": "mo",
+    "timestamp": 1793683987952,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6791254308",
+    "trackName": "QKeyboard：AI 寫作",
+    "firstRecordedAt": 1793683987952
   },
   {
     "trackId": 6792675339,

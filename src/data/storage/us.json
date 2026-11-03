@@ -78245,6 +78245,19 @@
     "history": [
       [
         {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "$24.99",
+            "Strongbox Pro (Monthly)": "$2.99",
+            "Strongbox Pro (Lifetime)": "$99.99",
+            "Little Tip": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792308652814,
           "price": 0,
           "formattedPrice": "Free",
@@ -338239,6 +338252,74 @@
             "SuperGrok Plus": "$100.00",
             "Extra Usage Credits 50 USD": "$50.00",
             "Extra Usage Credits 100 USD": "$100.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6443975850": {
+    "name": "SenPlayer - Media Player",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Pro(Suite)": "$12.99",
+      "Lifetime Pro(AppleTV)": "$9.99",
+      "Lifetime Pro(iPhone+iPad)": "$9.99",
+      "Lifetime Pro(Upgrade to Suite)": "$6.99",
+      "Lifetime Pro(Mac)": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Pro(Suite)": "$12.99",
+      "Lifetime Pro(AppleTV)": "$9.99",
+      "Lifetime Pro(iPhone+iPad)": "$9.99",
+      "Lifetime Pro(Upgrade to Suite)": "$6.99",
+      "Lifetime Pro(Mac)": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Pro(Suite)": "$12.99",
+            "Lifetime Pro(AppleTV)": "$9.99",
+            "Lifetime Pro(iPhone+iPad)": "$9.99",
+            "Lifetime Pro(Upgrade to Suite)": "$6.99",
+            "Lifetime Pro(Mac)": "$9.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6791254308": {
+    "name": "QKeyboard: AI Writing",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Lifetime": "$29.95",
+      "Pro Monthly Subscription": "$1.49",
+      "Pro Yearly Subscription": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Lifetime": "$29.95",
+      "Pro Monthly Subscription": "$1.49",
+      "Pro Yearly Subscription": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Lifetime": "$29.95",
+            "Pro Monthly Subscription": "$1.49",
+            "Pro Yearly Subscription": "$9.99"
           }
         }
       ]

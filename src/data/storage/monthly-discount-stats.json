@@ -1,59 +1,10 @@
 {
-  "month": "2026-10",
-  "cn": {
-    "1202642773": {
-      "all": 3,
-      "price": 0,
-      "inAppPurchase": {
-        "完整功能": 3
-      }
-    }
-  },
+  "month": "2026-11",
+  "cn": {},
   "hk": {},
-  "mo": {
-    "897283731": {
-      "all": 1,
-      "price": 0,
-      "inAppPurchase": {
-        "Strongbox Pro (Lifetime)": 1
-      }
-    }
-  },
+  "mo": {},
   "tw": {},
-  "us": {
-    "1202642773": {
-      "all": 1,
-      "price": 0,
-      "inAppPurchase": {
-        "Full Function Pack": 1
-      }
-    },
-    "6503428327": {
-      "all": 1,
-      "price": 0,
-      "inAppPurchase": {
-        "Max Plan": 1
-      }
-    }
-  },
-  "tr": {
-    "1202642773": {
-      "all": 3,
-      "price": 0,
-      "inAppPurchase": {
-        "Full Function Pack": 2,
-        "Hi-Res & DSD & Visualizer": 1
-      }
-    }
-  },
-  "pt": {
-    "6503428327": {
-      "all": 1,
-      "price": 0,
-      "inAppPurchase": {
-        "Advanced AI": 1,
-        "Pro": 1
-      }
-    }
-  }
+  "us": {},
+  "tr": {},
+  "pt": {}
 }

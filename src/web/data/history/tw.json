@@ -303272,5 +303272,77 @@
         }
       ]
     ]
+  },
+  "6443975850": {
+    "trackId": 6443975850,
+    "trackName": "SenPlayer -  影片播放器",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "永久Pro(套裝)": "$390.00",
+      "永久Pro(iPhone+iPad)": "$320.00",
+      "永久Pro(AppleTV)": "$320.00",
+      "永久Pro(Mac)": "$320.00",
+      "永久Pro(陞級到套裝)": "$220.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "永久Pro(套裝)": "$390.00",
+      "永久Pro(iPhone+iPad)": "$320.00",
+      "永久Pro(AppleTV)": "$320.00",
+      "永久Pro(Mac)": "$320.00",
+      "永久Pro(陞級到套裝)": "$220.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久Pro(套裝)": "$390.00",
+            "永久Pro(iPhone+iPad)": "$320.00",
+            "永久Pro(AppleTV)": "$320.00",
+            "永久Pro(Mac)": "$320.00",
+            "永久Pro(陞級到套裝)": "$220.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6791254308": {
+    "trackId": 6791254308,
+    "trackName": "QKeyboard：AI 寫作",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Pro Yearly Subscription": "$320.00",
+      "Pro Monthly Subscription": "$50.00",
+      "Pro Lifetime": "$990.00"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Pro Yearly Subscription": "$320.00",
+      "Pro Monthly Subscription": "$50.00",
+      "Pro Lifetime": "$990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Yearly Subscription": "$320.00",
+            "Pro Monthly Subscription": "$50.00",
+            "Pro Lifetime": "$990.00"
+          }
+        }
+      ]
+    ]
   }
 }

@@ -138122,5 +138122,77 @@
         }
       ]
     ]
+  },
+  "6443975850": {
+    "trackId": 6443975850,
+    "trackName": "SenPlayer - Media Player",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Lifetime Pro(Suite)": "14,99 €",
+      "Lifetime Pro(AppleTV)": "9,99 €",
+      "Lifetime Pro(iPhone+iPad)": "9,99 €",
+      "Lifetime Pro(Upgrade to Suite)": "7,99 €",
+      "Lifetime Pro(Mac)": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Lifetime Pro(Suite)": "14,99 €",
+      "Lifetime Pro(AppleTV)": "9,99 €",
+      "Lifetime Pro(iPhone+iPad)": "9,99 €",
+      "Lifetime Pro(Upgrade to Suite)": "7,99 €",
+      "Lifetime Pro(Mac)": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime Pro(Suite)": "14,99 €",
+            "Lifetime Pro(AppleTV)": "9,99 €",
+            "Lifetime Pro(iPhone+iPad)": "9,99 €",
+            "Lifetime Pro(Upgrade to Suite)": "7,99 €",
+            "Lifetime Pro(Mac)": "9,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6791254308": {
+    "trackId": 6791254308,
+    "trackName": "QKeyboard: Escrita com IA",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Pro Yearly Subscription": "9,99 €",
+      "Pro Monthly Subscription": "1,99 €",
+      "Pro Lifetime": "34,95 €"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Pro Yearly Subscription": "9,99 €",
+      "Pro Monthly Subscription": "1,99 €",
+      "Pro Lifetime": "34,95 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro Yearly Subscription": "9,99 €",
+            "Pro Monthly Subscription": "1,99 €",
+            "Pro Lifetime": "34,95 €"
+          }
+        }
+      ]
+    ]
   }
 }

@@ -282703,5 +282703,77 @@
         }
       ]
     ]
+  },
+  "6443975850": {
+    "trackId": 6443975850,
+    "trackName": "SenPlayer - Media Player",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Pro(Suite)": "₺699,99",
+      "Lifetime Pro(AppleTV)": "₺499,99",
+      "Lifetime Pro(iPhone+iPad)": "₺499,99",
+      "Lifetime Pro(Mac)": "₺499,99",
+      "Lifetime Pro(Upgrade to Suite)": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Pro(Suite)": "₺699,99",
+      "Lifetime Pro(AppleTV)": "₺499,99",
+      "Lifetime Pro(iPhone+iPad)": "₺499,99",
+      "Lifetime Pro(Mac)": "₺499,99",
+      "Lifetime Pro(Upgrade to Suite)": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Pro(Suite)": "₺699,99",
+            "Lifetime Pro(AppleTV)": "₺499,99",
+            "Lifetime Pro(iPhone+iPad)": "₺499,99",
+            "Lifetime Pro(Mac)": "₺499,99",
+            "Lifetime Pro(Upgrade to Suite)": "₺399,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6791254308": {
+    "trackId": 6791254308,
+    "trackName": "QKeyboard: AI Writing",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Yearly Subscription": "₺499,99",
+      "Pro Monthly Subscription": "₺79,99",
+      "Pro Lifetime": "₺1.499,99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Yearly Subscription": "₺499,99",
+      "Pro Monthly Subscription": "₺79,99",
+      "Pro Lifetime": "₺1.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793683987952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Yearly Subscription": "₺499,99",
+            "Pro Monthly Subscription": "₺79,99",
+            "Pro Lifetime": "₺1.499,99"
+          }
+        }
+      ]
+    ]
   }
 }
