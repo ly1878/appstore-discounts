@@ -35583,6 +35583,16 @@
     "history": [
       [
         {
+          "timestamp": 1793731614060,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "29,99 €",
+            "Strongbox Pro (Monthly)": "2,99 €",
+            "Strongbox Pro (Lifetime)": "79,99 €"
+          }
+        },
+        {
           "timestamp": 1793700974301,
           "price": 0,
           "formattedPrice": "Gratuito",
