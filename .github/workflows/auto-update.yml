@@ -3,13 +3,19 @@ name: auto update
 on:
   push:
     branches: ['main']
+  workflow_dispatch:
+    inputs:
+      bark_test:
+        description: 'Only send a Bark test push (skip the normal update)'
+        type: boolean
+        default: false
   schedule:
     - cron: '0 */3 * * *'
 
 jobs:
   generate:
     runs-on: ubuntu-24.04
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && !inputs.bark_test
     permissions:
       contents: write
     steps:
@@ -26,6 +32,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           DING_TALK_BOT_TOKEN: ${{ secrets.DING_TALK_BOT_TOKEN }}
+          BARK_URL: ${{ secrets.BARK_URL }}
+          BARK_URL_BACKUP: ${{ secrets.BARK_URL_BACKUP }}
 
       - name: generate web data (src/web/data)
         run: npm run generate-web-data
@@ -52,3 +60,18 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+
+  bark-test:
+    runs-on: ubuntu-24.04
+    if: github.ref == 'refs/heads/main' && inputs.bark_test
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: install dependence
+        run: npm i -g pnpm && pnpm i --no-frozen-lockfile --ignore-scripts
+
+      - name: send Bark test push
+        run: npx tsx src/data/barkTest.ts
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          BARK_URL_BACKUP: ${{ secrets.BARK_URL_BACKUP }}
