@@ -2,6 +2,16 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6443975850,
+      "name": {
+        "cn": "SenPlayer - 全能视频播放器 网盘直连",
+        "hk": "SenPlayer -  影片播放器",
+        "us": "SenPlayer - Media Player",
+        "tr": "SenPlayer - Media Player"
+      },
+      "addType": "manual"
+    },
+    {
       "id": 6791254308,
       "name": {
         "cn": "QKeyboard：AI 写作",
