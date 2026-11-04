@@ -78234,7 +78234,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Strongbox Pro (Yearly)": "$24.99",
+      "Strongbox Pro (Yearly)": "$19.99",
       "Strongbox Pro (Monthly)": "$2.99",
       "Strongbox Pro (Lifetime)": "$99.99",
       "Little Tip": "$4.99",
@@ -78244,6 +78244,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753885136,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "$19.99",
+            "Strongbox Pro (Monthly)": "$2.99",
+            "Strongbox Pro (Lifetime)": "$99.99",
+            "Little Tip": "$4.99"
+          }
+        },
         {
           "timestamp": 1793683987952,
           "price": 0,
