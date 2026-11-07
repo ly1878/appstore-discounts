@@ -1,5 +1,46 @@
 [
   {
+    "timestamp": 1794043433245,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 6791254308,
+          "trackName": "QKeyboard：AI 寫作",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 1481853033,
+          "trackName": "Strongbox Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 897283731,
+          "trackName": "Strongbox - Password Manager",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "16.491s",
+    "regionAppCount": {
+      "cn": 11,
+      "hk": 12,
+      "mo": 12,
+      "tw": 12,
+      "us": 11,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 5,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1794011385666,
     "regionAppInfo": {
       "cn": [],
