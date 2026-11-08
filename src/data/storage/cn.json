@@ -40833,7 +40833,10 @@
       "Strongbox Pro (Yearly)": "¥168.00",
       "Strongbox Pro (Monthly)": "¥22.00",
       "Strongbox Pro (Lifetime)": "¥498.00",
-      "Little Tip": "¥38.00"
+      "Little Tip": "¥38.00",
+      "Yearly Tip": "¥128.00",
+      "Huge Tip": "¥1,298.00",
+      "Monthly Tip": "¥19.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -40841,9 +40844,27 @@
       "Strongbox Pro (Yearly)": "¥168.00",
       "Strongbox Pro (Monthly)": "¥22.00",
       "Strongbox Pro (Lifetime)": "¥498.00",
-      "Little Tip": "¥38.00"
+      "Little Tip": "¥38.00",
+      "Yearly Tip": "¥128.00",
+      "Huge Tip": "¥1,298.00",
+      "Monthly Tip": "¥19.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794165230494,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "¥168.00",
+            "Strongbox Pro (Lifetime)": "¥498.00",
+            "Strongbox Pro (Monthly)": "¥22.00",
+            "Yearly Tip": "¥128.00",
+            "Huge Tip": "¥1,298.00",
+            "Monthly Tip": "¥19.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791337721979,
