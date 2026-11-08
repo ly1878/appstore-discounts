@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1794140633762,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "28.08s",
+    "regionAppCount": {
+      "cn": 11,
+      "hk": 12,
+      "mo": 12,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 5,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1794107457168,
     "regionAppInfo": {
       "cn": [],
