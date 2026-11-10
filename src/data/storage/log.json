@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1794318934645,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "22.596s",
+    "regionAppCount": {
+      "cn": 11,
+      "hk": 12,
+      "mo": 12,
+      "tw": 12,
+      "us": 11,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1794287155052,
     "regionAppInfo": {
       "cn": [],
@@ -538,78 +562,6 @@
       "pt": 12
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1793700974301,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "11.454s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1793684347970,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "15.245s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1793683987952,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "30.702s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 2,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
