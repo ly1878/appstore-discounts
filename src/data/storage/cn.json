@@ -40852,6 +40852,21 @@
     "history": [
       [
         {
+          "timestamp": 1794542310585,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "¥168.00",
+            "Strongbox Pro (Lifetime)": "¥498.00",
+            "Strongbox Pro (Monthly)": "¥22.00",
+            "Yearly Tip": "¥128.00",
+            "Huge Tip": "¥1,298.00",
+            "Monthly Tip": "¥19.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794183348535,
           "price": 0,
           "formattedPrice": "免费",
