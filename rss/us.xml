@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-04T00:58:26.661Z</updated>
+    <updated>2026-11-14T19:34:04.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-04T00:58:26.663Z</updated>
+        <updated>2026-11-14T19:34:04.680Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 04 Nov 2026 00:58:26 GMT</id>
+        <id>rankingusSat, 14 Nov 2026 19:34:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-04T00:58:26.663Z</updated>
+        <updated>2026-11-14T19:34:04.681Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -102,13 +102,13 @@ feedId:157008699750812672+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
-                <i>Strongbox Pro (Yearly)</i>：<b>1</b>
+                <i>Strongbox Pro (Yearly)</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -139,9 +139,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Strongbox - Password Manager]]></title>
-        <id>Strongbox - Password Manager-us-1793753885136</id>
+        <id>Strongbox - Password Manager-us-1794684831397</id>
         <link href="https://appstore-discounts.eyelly.me/us/897283731?lang=en"/>
-        <updated>2026-11-04T00:58:05.136Z</updated>
+        <updated>2026-11-14T19:33:51.397Z</updated>
         <summary type="html"><![CDATA[Strongbox Pro (Yearly): $24.99 → $19.99]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/897283731?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/81/0c/c4810c38-8fda-3630-6409-4e1edf8d055e/strongboxicon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
@@ -160,6 +160,8 @@ feedId:157008699750812672+userId:73658201673997312
     Strongbox Pro (Monthly)：<b>$2.99</b>
   </li><li>
     Strongbox Pro (Lifetime)：<b>$99.99</b>
+  </li><li>
+    Small Tip：<b>$9.99</b>
   </li><li>
     Little Tip：<b>$4.99</b>
   </li>
