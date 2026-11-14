@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1794660051037,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1189158497,
+          "trackName": "图片标记助手 - 注记和量尺大师",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "hk": [
+        {
+          "trackId": 6791254308,
+          "trackName": "QKeyboard：AI 寫作",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "23.865s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 12,
+      "mo": 12,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1794628607722,
     "regionAppInfo": {
       "cn": [],
@@ -577,47 +613,6 @@
       "pt": []
     },
     "duration": "17.232s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794043433245,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 6791254308,
-          "trackName": "QKeyboard：AI 寫作",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": [
-        {
-          "trackId": 1481853033,
-          "trackName": "Strongbox Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 897283731,
-          "trackName": "Strongbox - Password Manager",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "16.491s",
     "regionAppCount": {
       "cn": 11,
       "hk": 12,
