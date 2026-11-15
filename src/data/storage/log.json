@@ -1,5 +1,70 @@
 [
   {
+    "timestamp": 1794766113200,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [
+        {
+          "trackId": 6443975850,
+          "trackName": "SenPlayer - Media Player",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6791254308,
+          "trackName": "QKeyboard: AI Writing",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1481853033,
+          "trackName": "Strongbox Pro",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 897283731,
+          "trackName": "Strongbox - Password Manager",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6477843068,
+          "trackName": "Cat Keyboard - Easy Paste",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1596063349,
+          "trackName": "Stash - Rule Based Proxy",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1099850421,
+          "trackName": "Annotable: Annotation & Markup",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "20.616s",
+    "regionAppCount": {
+      "cn": 10,
+      "hk": 12,
+      "mo": 12,
+      "tw": 12,
+      "us": 12,
+      "tr": 12,
+      "pt": 12
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1794737229864,
     "regionAppInfo": {
       "cn": [],
@@ -638,29 +703,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794140633762,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "28.08s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
