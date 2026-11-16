@@ -63064,10 +63064,22 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "ShellFish Monthly subscription": "2,99 €",
-      "ShellFish Lifetime Pro Unlock": "29,99 €",
+      "ShellFish Lifetime Pro Unlock": "19,99 €",
       "ShellFish Annual subscription": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794789111965,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "2,99 €",
+            "ShellFish Lifetime Pro Unlock": "19,99 €",
+            "ShellFish Annual subscription": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790823485391,

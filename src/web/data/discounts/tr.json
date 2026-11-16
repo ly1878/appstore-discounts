@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1336634154,
+    "region": "tr",
+    "timestamp": 1794789111965,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "ShellFish Lifetime Pro Unlock",
+        "from": "₺999,99",
+        "to": "₺669,99",
+        "range": "[₺669,99 ~ ₺999,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1336634154",
+    "trackName": "SSH Client - Secure ShellFish",
+    "firstRecordedAt": 1788489063218
+  },
+  {
     "trackId": 1202642773,
     "region": "tr",
     "timestamp": 1791665424000,

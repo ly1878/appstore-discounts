@@ -103748,9 +103748,21 @@
       "formattedPrice": "免費",
       "ShellFish Annual subscription": "USD 12.99",
       "ShellFish Monthly subscription": "USD 2.99",
-      "ShellFish Lifetime Pro Unlock": "USD 24.99"
+      "ShellFish Lifetime Pro Unlock": "USD 16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794789111965,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ShellFish Annual subscription": "USD 12.99",
+            "ShellFish Monthly subscription": "USD 2.99",
+            "ShellFish Lifetime Pro Unlock": "USD 16.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,

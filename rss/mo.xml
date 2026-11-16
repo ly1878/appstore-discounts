@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-10-14T19:02:15.485Z</updated>
+    <updated>2026-11-16T00:32:13.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-14T19:02:15.487Z</updated>
+        <updated>2026-11-16T00:32:13.618Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoWed, 14 Oct 2026 19:02:15 GMT</id>
+        <id>rankingmoMon, 16 Nov 2026 00:32:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-14T19:02:15.487Z</updated>
+        <updated>2026-11-16T00:32:13.618Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,10 +51,10 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <b></b>
@@ -97,7 +97,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/897283731?lang=zh-CN">Strongbox - Password Manager</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/1336634154?lang=zh-CN">SSH Client - Secure ShellFish</a>
       </td>
       <td>
         <ul>
@@ -108,7 +108,7 @@ feedId:157008389768002560+userId:73658201673997312
           </li><li>
             <span>App 內購買</span><ol>
               <li>
-                <i>Strongbox Pro (Lifetime)</i>：<b>1</b>
+                <i>ShellFish Lifetime Pro Unlock</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -128,80 +128,43 @@ feedId:157008389768002560+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strongbox - Password Manager]]></title>
-        <id>Strongbox - Password Manager-mo-1792004521866</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/897283731?lang=zh-CN"/>
-        <updated>2026-10-14T19:02:01.866Z</updated>
-        <summary type="html"><![CDATA[Strongbox Pro (Lifetime): USD 99.99 → USD 74.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/897283731?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/81/0c/c4810c38-8fda-3630-6409-4e1edf8d055e/strongboxicon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[SSH Client - Secure ShellFish]]></title>
+        <id>SSH Client - Secure ShellFish-mo-1794789111965</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/1336634154?lang=zh-CN"/>
+        <updated>2026-11-16T00:31:51.965Z</updated>
+        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: USD 24.99 → USD 16.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/1336634154?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
   <li>
-    <strong>Strongbox Pro (Lifetime)：</strong><span>USD 99.99</span> → <b>
-  <strong>USD 74.99</strong>
-</b><span>[USD 74.99 ~ USD 99.99]</span>
+    <strong>ShellFish Lifetime Pro Unlock：</strong><span>USD 24.99</span> → <b>
+  <strong>USD 16.99</strong>
+</b><span>[USD 16.99 ~ USD 24.99]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免費</b>
 </p><h3>App 內購買</h3><ul>
   <li>
-    Strongbox Pro (Yearly)：<b>USD 24.99</b>
+    ShellFish Annual subscription：<b>USD 12.99</b>
   </li><li>
-    Strongbox Pro (Lifetime)：<b>USD 74.99</b>
+    ShellFish Monthly subscription：<b>USD 2.99</b>
   </li><li>
-    Strongbox Pro (Monthly)：<b>USD 2.99</b>
-  </li><li>
-    Yearly Tip：<b>USD 19.99</b>
-  </li><li>
-    Huge Tip：<b>USD 199.99</b>
+    ShellFish Lifetime Pro Unlock：<b>USD 16.99</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Strongbox 是一款管理密碼用的應用程式。其能安全地儲存所有密碼，再由一個主密碼來加以保護。其支援開源的  Password Safe 和 KeePass 格式。
+  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
 
-*** 功能 ***
-- Face ID 或 Touch ID 解鎖，方便、安全、快捷。
+Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
 
-- PIN 碼解鎖，提供脅迫 PIN 碼選項，以防棘手的情況發生。
+Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
 
-- YubiKey 防護 - 用硬體權杖保護您的資料庫。
+Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
 
-- 安全 - 由經過時間檢驗的軍工級加密技術保護。
+Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
 
-- 私密 - 為您的敏感檔案、照片和影片提供隔離的應用程式內附件檢查工具。
+Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
 
-- 稽核您的密碼 - 自動檢查您資料庫的弱密碼，包括「Have I Been Pwned?」檢查。
-
-- 雲端支援，所以您可以使用 iCloud、Dropbox、OneDrive、Google Drive、WebDAV 或 SFTP 安全存取雲端，即使處於離線狀態。使用內建的「檔案」應用程式以獲得許多其他的儲存選項，或僅在您的本機裝置上安全地進行儲存。由您選擇您的儲存方式。
-
-- 透過深度搜尋，即時、強大地搜尋您的整套密碼和隱私權。自動產生新條目，並自動產生安全密碼。
-
-- 相容 - 透過「檔案」應用程式、電子郵件、CSV、iTunes 檔案共享或使用雲端儲存匯入/匯出。
-
-- 符合標準 - 使用經過時間檢驗的 Password Safe 和 KeePass 格式，讓您可以匯入任何現有的密碼保險箱。
-
-- 功能豐富 
-   - 驚人而可設定的密碼產生器，包括 Diceware (XKCD) 和通用密碼。
-   - 定時自動清除剪貼簿。
-   - 條目歷史記錄。
-   - KeePass 欄位喜好、標籤、自訂圖示和最愛圖示 (包括自動搜尋和下載) 。
-   - 雙因素驗證碼 (TOTP) - QR 碼、Steam 和手動。
-
-*** Strongbox 是免費增值應用程式 ***。
-這表示 Strongbox 是免費的，但如果您喜歡，也為您提供增強的 Pro 功能。如果您願意，可以選擇 90 天免費試用所有的 Pro 功能，沒有任何帳單，但大部分使用者認為免費版已完全夠用。
-
----------------------------------------------------------------------
-‧ Strongbox 為專業版提供應用程式內購買服務 (包括自動續訂和單次付款)。
-‧ 也有直接/預付 (即非應用程式內購買) 的選項，詳情請見 Strongbox 網站。
-‧ 訂閱可自動續訂，並可循環計費。可隨時取消。
-‧ 訂閱的時間段為每月、每三個月或每年，由使用者自行決定。
-‧ 使用者還可以選擇購買「終身」的專業版應用程式。
-‧ 付款將在確認購買時從 iTunes 帳戶中扣除。
-‧ 除非在目前訂閱期限結束的 24 小時前關閉自動續訂，否則將自動續訂。
-‧ 將在目前訂閱期限結束前的 24 小時內向帳戶收取續訂費用，並確定續訂的費用。
-‧ 訂閱由使用者進行管理，購買後可以在使用者的帳戶設定中關閉自動續訂。
-‧ 免費試用期 (如果提供) 的剩餘時長將在使用者購買訂閱後被自動收回。
-‧ 可以透過存取 https://strongboxsafe.com/privacy-policy 瞭解 Strongbox 的隱私權政策。
-‧ 可以透過存取 https://strongboxsafe.com/terms 瞭解 Strongbox 的使用條款。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/74/c6/5574c690-4aae-cc95-533f-1746914e3626/737C0ADC-D300-4B2A-8072-B64F10FA5C6E-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/1e/ca/ce1ecafc-1edd-4efd-8fcf-80ddc474c528/A433F749-6494-41AD-A82A-315D1AED3C60-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/51/b3/cb51b336-b10d-328a-6fc1-0b5eb6a9fe31/6CC19449-3163-4FC7-BF7C-63FAFD2DA4F7-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/2c/84/012c8453-6919-a1c1-ddf9-bcae6e6e7eb6/1E5BE5B1-CF22-4EC9-B55A-BC75406AA178-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c2/8b/6fc28b3d-f940-9343-0944-4b76f057f20b/BBD671BC-195D-4CA7-8BD9-3DBBA38620E2-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/59/fe/8a59fe93-c3e8-8d49-653c-1e7c5ddad2d3/C9047BEA-5E48-4483-AA0B-9F193E14117E-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/66/ac/0966ac93-7128-27e0-1014-7365960fa4be/AF658B21-7074-4125-818C-0D81AF65D944-7.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/28/06/f728069d-cbe0-a992-7430-838ad52a8dce/0FFA98AD-BED3-4736-8F2F-3D356DC25F8A-8.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/eb/d4/38ebd41e-a55d-934d-1a3a-5e62bfacc0e0/9174A95C-BBF0-496C-B27C-F18DDA2C4A15-9.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/4e/ed/8a4eed51-3cac-6a53-f844-d6fd05d8bb8a/5E8FAE35-8590-421D-A667-350F3D858ABD-10.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9f/5b/829f5b16-cc5a-43c7-0aa6-579db3e30cdb/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b2/40/cdb240f6-b9ae-8419-44bc-c907f8bfec38/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/90/4f/20904f50-def7-957e-ca59-2f8c7be619e5/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/cd/1a/a1cd1a3f-4b06-e6e0-8b9f-52f2eef99cea/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/9f/13/e79f13c6-7106-2ee3-77af-be856bb08fd9/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/51/f1/f051f166-b7aa-99aa-9e7d-39322b1329e4/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/03/20/b403202c-b598-c9b0-03df-d56b816e5ec6/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/e7/6e/1be76e47-902d-f99d-c24f-b844997a8f53/pr_source.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/16/90/db169074-bce8-a8f6-25f8-419ca66e89d2/pr_source.png/360x480bb.jpg" />]]></content>
+Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

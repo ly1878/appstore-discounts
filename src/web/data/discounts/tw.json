@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1336634154,
+    "region": "tw",
+    "timestamp": 1794789111965,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "ShellFish Lifetime Pro Unlock",
+        "from": "$790.00",
+        "to": "$530.00",
+        "range": "[$530.00 ~ $790.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1336634154",
+    "trackName": "SSH Client - Secure ShellFish",
+    "firstRecordedAt": 1788489063218
+  },
+  {
     "trackId": 934850257,
     "region": "tw",
     "timestamp": 1790701976685,

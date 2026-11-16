@@ -95886,10 +95886,22 @@
       "price": 0,
       "formattedPrice": "免费",
       "ShellFish Monthly subscription": "¥22.00",
-      "ShellFish Lifetime Pro Unlock": "¥168.00",
+      "ShellFish Lifetime Pro Unlock": "¥108.00",
       "ShellFish Annual subscription": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794789111965,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "¥22.00",
+            "ShellFish Lifetime Pro Unlock": "¥108.00",
+            "ShellFish Annual subscription": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790823485391,

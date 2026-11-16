@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-09-29T17:13:09.117Z</updated>
+    <updated>2026-11-16T00:32:13.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-29T17:13:09.117Z</updated>
+        <updated>2026-11-16T00:32:13.618Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwTue, 29 Sep 2026 17:13:09 GMT</id>
+        <id>rankingtwMon, 16 Nov 2026 00:32:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-29T17:13:09.117Z</updated>
+        <updated>2026-11-16T00:32:13.618Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,10 +51,10 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:157008546980077568+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -97,49 +97,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <del>
-          <a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">Grok - AI 助理</a>
-        </del>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App內購買</span><ol>
-              <li>
-                <i>SuperGrok</i>：<b>4</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/549432607?lang=zh-CN">Townsmen Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/934850257?lang=zh-CN">OsmAnd Maps Travel & Navigate</a>
+        <a href="https://appstore-discounts.eyelly.me/tw/1336634154?lang=zh-CN">SSH Client - Secure ShellFish</a>
       </td>
       <td>
         <ul>
@@ -150,236 +108,7 @@ feedId:157008546980077568+userId:73658201673997312
           </li><li>
             <span>App內購買</span><ol>
               <li>
-                <i>OsmAnd Maps+</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1477806063?lang=zh-CN">Football Agent</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1592505377?lang=zh-CN">Wreckfest</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/1642715290?lang=zh-CN">Little Big Workshop</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6480058345?lang=zh-CN">怪獸大進擊 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tw/6467822375?lang=zh-CN">Auto Redial - 自動重撥</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App內購買</span><ol>
-              <li>
-                <i>7-Day Pass</i>：<b>1</b>
-              </li><li>
-                <i>高級終身會員</i>：<b>1</b>
+                <i>ShellFish Lifetime Pro Unlock</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -409,195 +138,43 @@ feedId:157008546980077568+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OsmAnd Maps Travel & Navigate]]></title>
-        <id>OsmAnd Maps Travel &amp; Navigate-tw-1790701976685</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/934850257?lang=zh-CN"/>
-        <updated>2026-09-29T17:12:56.685Z</updated>
-        <summary type="html"><![CDATA[OsmAnd Maps+: $1,990.00 → $990.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/934850257?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5e/07/6f5e0743-ab65-5760-49dc-e757eebb5503/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[SSH Client - Secure ShellFish]]></title>
+        <id>SSH Client - Secure ShellFish-tw-1794789111965</id>
+        <link href="https://appstore-discounts.eyelly.me/tw/1336634154?lang=zh-CN"/>
+        <updated>2026-11-16T00:31:51.965Z</updated>
+        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: $790.00 → $530.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/1336634154?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App內購買</h3><ul>
   <li>
-    <strong>OsmAnd Maps+：</strong><span>$1,990.00</span> → <b>
-  <strong>$990.00</strong>
-</b><span>[$990.00 ~ $1,990.00]</span>
+    <strong>ShellFish Lifetime Pro Unlock：</strong><span>$790.00</span> → <b>
+  <strong>$530.00</strong>
+</b><span>[$530.00 ~ $790.00]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免費</b>
 </p><h3>App內購買</h3><ul>
   <li>
-    Wikipedia：<b>$0.00</b>
+    ShellFish Monthly subscription：<b>$90.00</b>
   </li><li>
-    Contour lines：<b>$290.00</b>
+    ShellFish Lifetime Pro Unlock：<b>$530.00</b>
   </li><li>
-    OsmAnd Pro Monthly：<b>$150.00</b>
-  </li><li>
-    OsmAnd: All inclusive Annual：<b>$280.00</b>
-  </li><li>
-    All World Maps：<b>$690.00</b>
-  </li><li>
-    Asia：<b>$150.00</b>
-  </li><li>
-    OsmAnd Maps+：<b>$990.00</b>
-  </li><li>
-    OsmAnd Maps+ Annual：<b>$320.00</b>
-  </li><li>
-    OsmAnd Pro Annual：<b>$1,190.00</b>
-  </li><li>
-    Nautical Map：<b>$60.00</b>
+    ShellFish Annual subscription：<b>$390.00</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  OsmAnd is an offline maps and navigation app for people who want reliable guidance, detailed maps, and full control over their routes. Download complete maps by country or region, search by address, place, or coordinates, and navigate with turn-by-turn voice guidance — even without internet access.
+  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
 
-With OsmAnd, you can:
+Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
 
-· Navigate offline for driving, cycling, walking, hiking, and more
-· Plan routes with intermediate stops and automatic rerouting
-· Use detailed OpenStreetMap-based maps with POIs, Favorites, and customizable overlays
-· Display, record, import, and navigate GPX tracks
-· Explore foot, hiking, and bike paths included in offline maps
-· Add contour lines and hillshading for better terrain awareness
-· Get lane guidance, street names, ETA, and optional screen alerts
-· Keep maps on your device for dependable use at home, abroad, and in remote areas
+Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
 
-OsmAnd is built for everyday navigation, travel, and outdoor exploration. It combines offline reliability with powerful route planning, detailed map data, and advanced tools for users who want more than a basic navigation app.
+Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
 
-Built on OpenStreetMap and developed as an open-source project, OsmAnd is privacy-friendly and gives you control over your data and app access. Maps are available worldwide and updated regularly, with optional hourly updates through Live Updates feature.
+Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
 
-Terms of Use: https://osmand.net/docs/legal/terms-of-use
-Privacy Policy: https://osmand.net/docs/legal/privacy-policy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/41/6d/af/416daf00-0429-f14e-6062-6e01c8ea3f11/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/66/cd/7a66cdf0-d44c-9695-6606-39dce60f64c6/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/cd/b1/58cdb12f-296e-013a-0fb2-a48120600400/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c1/72/9fc17245-3711-69ec-a7f1-41f783e95f42/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/3e/a1/4a3ea186-98f3-02ec-ee31-08caa65d92d9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/ef/c6/d3efc6ad-de45-42f8-4ab6-3c022cf5b2e8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/7b/8b/a67b8b83-2460-362b-b08e-7acc8ffef016/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/e8/1b/33e81b28-a2e3-6632-8eab-dde95e1f59ca/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/72/1a/94721a3d-2a3f-8540-70cc-0a7af4add339/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/84/f9/6984f95d-f2e9-3bb1-4592-c82c17b6a8ca/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/ea/27/07ea27df-088f-6759-833e-57317a3cdbc7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/5b/e1/6e5be18c-8a6b-b2aa-8182-4ccd7d218c46/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ee/df/94/eedf94db-e1e2-6e66-e8b3-a8d702160064/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/33/46/ef3346f4-0a50-3c84-dddb-fb6542dd4a7b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/c7/c8/b6c7c88e-236a-6e1b-1846-e510521c6dc3/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/5c/0b/e35c0be2-219a-6d86-61f4-2dc74475decc/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/a6/4e/80a64e5e-88d6-5d16-63bb-e1ee2c97fab0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/55/ea/be55ea61-e960-d157-3d25-541b63722589/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/fb/49/75fb4969-1bda-17ee-da02-f427b995c091/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/71/31/4a7131fe-f97c-c13f-be2a-7b1737dd4de3/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok - AI 助理]]></title>
-        <id>Grok - AI 助理-tw-1790673230287</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN"/>
-        <updated>2026-09-29T09:13:50.287Z</updated>
-        <summary type="html"><![CDATA[SuperGrok: $9,990.00 → $990.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/2f/44/292f4441-a728-0ae5-2cf1-69b5bd7e4607/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
-  <li>
-    <strong>SuperGrok：</strong><span>$9,990.00</span> → <b>
-  <strong>$990.00</strong>
-</b><span>[$990.00 ~ $9,990.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App內購買</h3><ul>
-  <li>
-    SuperGrok：<b>$990.00</b>
-  </li><li>
-    Extra Usage Credits 5 USD：<b>$150.00</b>
-  </li><li>
-    SuperGrok Lite：<b>$320.00</b>
-  </li><li>
-    Extra Usage Credits 20 USD：<b>$690.00</b>
-  </li><li>
-    SuperGrok Plus：<b>$2,990.00</b>
-  </li><li>
-    SuperGrok Heavy：<b>$9,990.00</b>
-  </li><li>
-    Extra Usage Credits 50 USD：<b>$1,490.00</b>
-  </li><li>
-    Extra Usage Credits 100 USD：<b>$2,990.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Grok 是由 xAI 開發的強大人工智慧助手。它被設計為最大限度地真實、有用且富有好奇心，幫助你獲得更好的答案、更快地創作，並即時理解這個世界。無論你需要智慧對話、深度研究、程式協助，還是高品質的圖像與影片生成，Grok 都能做到。
+Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
 
-人工智慧助手
-隨便問，即可獲得快速、條理清晰的回覆。讓 Grok 在網路上進行深度研究，解決數學、科學和程式中的複雜問題，或在對話中分析文件、照片和連結。這款人工智慧助手能把複雜主題轉化為清晰、可執行的洞察，並以強大的推理能力處理多步驟任務。
-
-Grok Imagine – AI 圖像與影片生成
-體驗快速而強大的 AI 圖像和影片創作。根據文字生成令人驚豔的圖像，建立帶聲音的短影片，或把照片變成動態影片。你甚至可以只用聲音生成圖像。還可以編輯既有圖片：移除物件、更換背景，或套用藝術風格——全程精準可控、畫質出色。
-
-Grok 語音模式
-與 Grok 進行自然的語音對話。對著你的人工智慧助手說話，即可即時獲得接近真人的回覆。你還可以個人化互動方式，並選擇適合自己的對話風格。
-
-來自 X 的即時資訊
-獲得最新答案。憑藉對 X 和網路的直接存取，這款人工智慧助手能讓你隨時掌握最新新聞、趨勢和正在發生的討論。讓 Grok 在 X 上進行進階搜尋，看看人們真正在說什麼。
-
-輕鬆將內容脈絡轉移到 Grok
-已經在使用 ChatGPT、Claude、Gemini 或其他 AI 工具？可以把對話和內容脈絡輕鬆轉移到 Grok，繼續工作，不必從頭開始。
-
-真實使用情境
-學生用 Grok 學習並獲得清晰講解。職場人士用它做研究、寫作、分析並解決問題。內容創作者可在數秒內生成客製圖像和影片。開發者能獲得強而有力的程式協助與技術洞察。任何想要快速、真實、富有創造力的人工智慧助手的人，都能從 Grok 中受益。
-
-Grok 適合誰？
-Grok 為那些不滿足於基礎答案的好奇之人而打造。它非常適合學生、職場人士、創作者、研究者，以及所有希望同時擁有強大 AI 對話體驗與先進圖像、影片和智慧體能力的人。如果你看重求真、創造力和即時知識，Grok 就是為你準備的。
-
-有了 Grok 作為你的個人人工智慧助手，探索知識、激發創意、完成實際工作都會更快、更有趣。立即下載 Grok，體驗真正有幫助的人工智慧。
-
-服務條款：https://x.ai/legal/terms-of-service
-隱私權政策：https://x.ai/legal/privacy-policy
-
-Grok by xAI
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/7b/7c/cb7b7c6f-bba9-a34f-9fa0-a550eedf6758/Grok__SS1__U0028Google_Play_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/a3/96/31a3964a-ec84-bacf-10db-b821b0e8d344/Grok__SS2__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/36/c7/4c36c7e0-38e7-83bf-34b6-62f19c56082e/CPP__Grok_4.5_SS2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/3f/1c/9f3f1cc9-7158-4c48-e39a-3824ad07c3f6/Grok__SS4__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ef/56/dcef5641-9bbe-699b-4e4a-492177b38c85/Grok__SS5__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/03/ee/fd03eea0-1390-834f-d670-778e3de28727/Grok__SS7__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/df/1f/83df1f85-8743-a9be-058c-b525caef78fd/Grok__SS8__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/ad/50/59ad50ef-33fa-093a-34c3-9fa58f333719/Grok__SS10__U0028App_Store_U0029.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/0b/37/c00b37d8-97b5-329d-46e1-60bf391edd43/Grok__SS1__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/f7/01/97f70161-47d0-5ebd-8c7c-51be0976d705/Grok__SS2__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/74/ac/dc74acfd-ac48-3857-c8d5-fabaec469eb2/Grok__SS3__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/80/69/6d8069b1-12e7-dd17-9a00-de1e2dfc3fdf/Grok__SS4__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/6c/51/2d6c5137-ee80-370f-f25f-86d612fa3250/Grok__SS5__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/ca/21/95ca21f2-494a-493e-0a38-e383949c2a1d/Grok__SS7__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/3d/f8/463df84c-f082-4328-3f9a-c75668ca4c47/Grok__SS8__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/45/0d/0a450d01-8961-37b2-3892-db9c332eccbc/Grok__SS10__U0028iPad_U0029.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok - AI 助理]]></title>
-        <id>Grok - AI 助理-tw-1790562392041</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN"/>
-        <updated>2026-09-28T02:26:32.041Z</updated>
-        <summary type="html"><![CDATA[SuperGrok: $9,990.00 → $990.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6670324846?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/2f/44/292f4441-a728-0ae5-2cf1-69b5bd7e4607/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
-  <li>
-    <strong>SuperGrok：</strong><span>$9,990.00</span> → <b>
-  <strong>$990.00</strong>
-</b><span>[$990.00 ~ $9,990.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App內購買</h3><ul>
-  <li>
-    SuperGrok：<b>$990.00</b>
-  </li><li>
-    Extra Usage Credits 5 USD：<b>$150.00</b>
-  </li><li>
-    SuperGrok Lite：<b>$320.00</b>
-  </li><li>
-    Extra Usage Credits 20 USD：<b>$690.00</b>
-  </li><li>
-    SuperGrok Plus：<b>$2,990.00</b>
-  </li><li>
-    SuperGrok Heavy：<b>$9,990.00</b>
-  </li><li>
-    Extra Usage Credits 50 USD：<b>$1,490.00</b>
-  </li><li>
-    Extra Usage Credits 100 USD：<b>$2,990.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Grok 是由 xAI 開發的強大人工智慧助手。它被設計為最大限度地真實、有用且富有好奇心，幫助你獲得更好的答案、更快地創作，並即時理解這個世界。無論你需要智慧對話、深度研究、程式協助，還是高品質的圖像與影片生成，Grok 都能做到。
-
-人工智慧助手
-隨便問，即可獲得快速、條理清晰的回覆。讓 Grok 在網路上進行深度研究，解決數學、科學和程式中的複雜問題，或在對話中分析文件、照片和連結。這款人工智慧助手能把複雜主題轉化為清晰、可執行的洞察，並以強大的推理能力處理多步驟任務。
-
-Grok Imagine – AI 圖像與影片生成
-體驗快速而強大的 AI 圖像和影片創作。根據文字生成令人驚豔的圖像，建立帶聲音的短影片，或把照片變成動態影片。你甚至可以只用聲音生成圖像。還可以編輯既有圖片：移除物件、更換背景，或套用藝術風格——全程精準可控、畫質出色。
-
-Grok 語音模式
-與 Grok 進行自然的語音對話。對著你的人工智慧助手說話，即可即時獲得接近真人的回覆。你還可以個人化互動方式，並選擇適合自己的對話風格。
-
-來自 X 的即時資訊
-獲得最新答案。憑藉對 X 和網路的直接存取，這款人工智慧助手能讓你隨時掌握最新新聞、趨勢和正在發生的討論。讓 Grok 在 X 上進行進階搜尋，看看人們真正在說什麼。
-
-輕鬆將內容脈絡轉移到 Grok
-已經在使用 ChatGPT、Claude、Gemini 或其他 AI 工具？可以把對話和內容脈絡輕鬆轉移到 Grok，繼續工作，不必從頭開始。
-
-真實使用情境
-學生用 Grok 學習並獲得清晰講解。職場人士用它做研究、寫作、分析並解決問題。內容創作者可在數秒內生成客製圖像和影片。開發者能獲得強而有力的程式協助與技術洞察。任何想要快速、真實、富有創造力的人工智慧助手的人，都能從 Grok 中受益。
-
-Grok 適合誰？
-Grok 為那些不滿足於基礎答案的好奇之人而打造。它非常適合學生、職場人士、創作者、研究者，以及所有希望同時擁有強大 AI 對話體驗與先進圖像、影片和智慧體能力的人。如果你看重求真、創造力和即時知識，Grok 就是為你準備的。
-
-有了 Grok 作為你的個人人工智慧助手，探索知識、激發創意、完成實際工作都會更快、更有趣。立即下載 Grok，體驗真正有幫助的人工智慧。
-
-服務條款：https://x.ai/legal/terms-of-service
-隱私權政策：https://x.ai/legal/privacy-policy
-
-Grok by xAI
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/7b/7c/cb7b7c6f-bba9-a34f-9fa0-a550eedf6758/Grok__SS1__U0028Google_Play_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/a3/96/31a3964a-ec84-bacf-10db-b821b0e8d344/Grok__SS2__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/36/c7/4c36c7e0-38e7-83bf-34b6-62f19c56082e/CPP__Grok_4.5_SS2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/3f/1c/9f3f1cc9-7158-4c48-e39a-3824ad07c3f6/Grok__SS4__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ef/56/dcef5641-9bbe-699b-4e4a-492177b38c85/Grok__SS5__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/03/ee/fd03eea0-1390-834f-d670-778e3de28727/Grok__SS7__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/df/1f/83df1f85-8743-a9be-058c-b525caef78fd/Grok__SS8__U0028App_Store_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/ad/50/59ad50ef-33fa-093a-34c3-9fa58f333719/Grok__SS10__U0028App_Store_U0029.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/0b/37/c00b37d8-97b5-329d-46e1-60bf391edd43/Grok__SS1__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/f7/01/97f70161-47d0-5ebd-8c7c-51be0976d705/Grok__SS2__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/74/ac/dc74acfd-ac48-3857-c8d5-fabaec469eb2/Grok__SS3__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/80/69/6d8069b1-12e7-dd17-9a00-de1e2dfc3fdf/Grok__SS4__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/6c/51/2d6c5137-ee80-370f-f25f-86d612fa3250/Grok__SS5__U0028iPad_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/ca/21/95ca21f2-494a-493e-0a38-e383949c2a1d/Grok__SS7__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/3d/f8/463df84c-f082-4328-3f9a-c75668ca4c47/Grok__SS8__U0028iPad_U0029.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/45/0d/0a450d01-8961-37b2-3892-db9c332eccbc/Grok__SS10__U0028iPad_U0029.png/360x480bb.jpg" />]]></content>
+Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

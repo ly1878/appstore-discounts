@@ -131155,10 +131155,22 @@
       "price": 0,
       "formattedPrice": "免費",
       "ShellFish Monthly subscription": "HK$ 22.00",
-      "ShellFish Lifetime Pro Unlock": "HK$ 188.00",
+      "ShellFish Lifetime Pro Unlock": "HK$ 128.00",
       "ShellFish Annual subscription": "HK$ 98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794789111965,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ShellFish Lifetime Pro Unlock": "HK$ 128.00",
+            "ShellFish Monthly subscription": "HK$ 22.00",
+            "ShellFish Annual subscription": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,

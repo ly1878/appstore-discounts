@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-14T19:02:15.491Z</updated>
+    <updated>2026-11-16T00:32:13.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-14T19:02:15.491Z</updated>
+        <updated>2026-11-16T00:32:13.620Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 14 Oct 2026 19:02:15 GMT</id>
+        <id>rankingtrMon, 16 Nov 2026 00:32:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-14T19:02:15.491Z</updated>
+        <updated>2026-11-16T00:32:13.620Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,10 +51,10 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -97,20 +97,18 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en">Ever Play - HiFi Music Player</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1336634154?lang=en">SSH Client - Secure ShellFish</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>3</b>
+            <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
-                <i>Full Function Pack</i>：<b>2</b>
-              </li><li>
-                <i>Hi-Res & DSD & Visualizer</i>：<b>1</b>
+                <i>ShellFish Lifetime Pro Unlock</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -140,221 +138,43 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ever Play - HiFi Music Player]]></title>
-        <id>Ever Play - HiFi Music Player-tr-1792004521866</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en"/>
-        <updated>2026-10-14T19:02:01.866Z</updated>
-        <summary type="html"><![CDATA[Full Function Pack: ₺82,99 → ₺46,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/32/0d/5f320dc3-feef-157c-450c-34407b40ebf6/Autumn-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[SSH Client - Secure ShellFish]]></title>
+        <id>SSH Client - Secure ShellFish-tr-1794789111965</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/1336634154?lang=en"/>
+        <updated>2026-11-16T00:31:51.965Z</updated>
+        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: ₺999,99 → ₺669,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1336634154?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Full Function Pack：</strong><span>₺82,99</span> → <b>
-  <strong>₺46,99</strong>
-</b><span>[₺32,99 ~ ₺82,99]</span>
+    <strong>ShellFish Lifetime Pro Unlock：</strong><span>₺999,99</span> → <b>
+  <strong>₺669,99</strong>
+</b><span>[₺669,99 ~ ₺999,99]</span>
   </li>
 </ul><h2>All Price Information</h2><p>
   Price：<b>Free</b>
 </p><h3>In-App Purchases</h3><ul>
   <li>
-    Hi-Res & DSD & Visualizer：<b>₺1.999,99</b>
+    ShellFish Monthly subscription：<b>₺69,99</b>
   </li><li>
-    Full Function Pack：<b>₺46,99</b>
+    ShellFish Lifetime Pro Unlock：<b>₺669,99</b>
   </li><li>
-    Real-time DSD Conversion：<b>₺99,99</b>
+    ShellFish Annual subscription：<b>₺499,99</b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Bring your local, cloud and NAS music into one Hi-Res player.
-Ever Play gives you control of your own library, with lossless audio, DSD playback, offline caching and detailed output options for external DACs.
+  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
 
-Built for listeners who collect FLAC, ALAC, WAV, APE or DSD files and want to enjoy them without depending on a streaming catalog.
+Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
 
-Everplay supports all popular formats including Hi-Res ones. 
+Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
 
-One of the most important feature of Everplay is that it support DSD(up to 11.2MHz，aka. DSD256) playback, in term of PCM and DoP. When PCM mode is selected, DSD is converted to and output as PCM. When DoP mode is selected, DSD is outputted as DSD over PCM.(Connected device must be DoP-compatible to this mode, otherwise, DSD will be outputed as PCM even DoP mode is selected.)
+Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
 
-Everplay support up to 384kHz/32bit music file and upsampling output Mode, you can select custom output sample rate to playback. It can automatically choose the max support format to playback, so you never need to worry about output device change.
+Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
 
-Everplay support Wi-Fi transfer, iTunes files sharing and Airdrop. Through Wi-Fi Transfer, you can share music files between computer and Everplay app with browser.
+Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
 
-• Google Drive
-• 115 Drive
-• Aliyun Drive
-• Baidu Yun Drive
-• One Drive
-• SMB1/2/3
-• WebDAV
-• Tencent WeiYun
-• 123 Drive
-• dropbox
-• navidrome
-• pCloud
-
-• FLAC(MQA), APE, WAV, ALAC(M4A), AIFF, AIF, MP3, WMA, OGG, AAC,DTS
-• SACD(ISO), DSF, DFF(DSD64, DSD128 and DSD256 support both PCM and DoP output mode)
-• CUE(Sheet)
-
-[Music Management and Easy Transfer]
-• WiFi Music Transfer (Http)
-• iTunes Files Sharing
-• Playlist Management
-• Files Management
-• Airdrop
-
-[Advanced Features]
-• Support Aliyun Drive, Weiyun, Baidu net-disk, OneDrive authorization and SMB, WebDAV connection.
-• Support load music from iTune library
-• Support Carplay feature
-• Thousand of visualizations embedded in player which beat with music,It's one of the most advanced visualizer in the App Store.
-• Playback Hi-Res audio source up to 32bit/384kHz
-• Playback DSD audio source up to 11.2MHz
-• Visualizer
-• Hundred settings of EQ with random play
-• Random EQ for each song when playing
-• Searching songs
-• Display song and connected device information
-• Upsampling function
-• Sleep timer
-• Disable Auto-lock Screen
-• Auto-download Album/Artist Image(On/OFF)
-• DSD to PCM
-• Dop(DSD over PCM)
-• Custom Output Sample Rate
-• Redesign the Player Interface and Interaction
-• Online lyrics
-• Gapless playback
-• Resample rate Algorithm
-• Variable Playback Rate
-• Fast Forward and Fast Backward
-• A→B repeat play
-• Siri Play
-• Shortcut Play
-• iPadOS Multiple Windows Support
-
-URL Scheme: FancyMusicPlayer
-
-Subscription name: Hi-Res&DSD(Yearly)
-Subscription duration: One year
-Terms of Use: You can read your terms of use here for more details: http://www.appgreat.com/FancyTermsOfUse/
-Auto-renewing subscription: You subscription will be renewed every one year. i.e. you will be charged every year.
-
-– Price may vary by location.
-– Payment will be charged to iTunes Account at confirmation of purchase
-– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
-
-※Please note that Everplay is a pure music player. You should put the song to the app documents directory by the means of throung iTunes File Sharing or Wi-Fi sharing or connect to your cloud account to play it.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/0e/c3/310ec330-f744-cd8c-de4c-685339fe976d/342a2883-c0dd-413c-941f-7c2e8fb466ff_iphone5.5-eng_4.0.4_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5c/f5/745cf509-1cfc-66d9-d746-5f663b3d70bf/fdd46acf-7039-457d-914d-29cbc9cc3f57_IMG_30105.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/28/52/ed28520c-f79e-6247-e431-8bdd68f6f39c/mzl.iwiyhzjq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/49/84/4c498439-58ba-59ca-de4f-3ebda2b37750/mzl.zhkjfypj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/db/cb/dfdbcbe0-74e2-e29e-2c3b-777054754bc8/mzl.cpacyecc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/21/ac/e521aca4-62b4-e6ed-d6d4-1c1b68b47ddf/mzl.ohgteicl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/70/f9447027-1c4b-a1db-ec07-750c07e18272/mzl.qicmxqyi.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/2d/9b/e02d9ba4-ec1d-6d31-0ee5-4d13d4cd71fd/mzl.fpvbfjkf.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/4a/4a/644a4a68-92e7-5dbb-d242-325f46da2ee0/1b86797f-09f0-4f38-9d08-afca347c4344_IMG_0015.PNG/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/53/6e/28536e76-d2f1-a62f-4f99-57a7d0485391/4fb8384e-53eb-412a-98f0-c5461681fb91_IMG_0210.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/b4/ff/8db4ff05-825e-1948-6385-0949afadd658/4d87dda2-4d84-462f-b306-dc6e6926e461_IMG_0211.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/ea/d1/8bead123-8392-098d-a645-ca7610949bf8/63337572-1833-42ed-9216-4c9558b2419b_IMG_0218.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/4e/99/644e9991-0e91-6b74-2848-66e7c32056ad/7db05e24-f50b-499b-a147-113f0c2295ff_IMG_0216.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/5b/3a/395b3ac2-625b-06b9-3b93-f2625b1a1ac2/52532dcb-c7de-44df-b993-324785160eaa_IMG_0212.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/02/47/7b0247f4-03bb-b4b7-f7f8-0bea1c747f02/d4ecf600-42c8-4124-9758-e0b6b2703737_IMG_0214.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/53/cd/cb53cde9-e0d3-adbd-7c25-014aba87293d/decd9297-7459-43ef-b6d0-207ea4d1b808_IMG_0215.PNG/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ever Play - HiFi Music Player]]></title>
-        <id>Ever Play - HiFi Music Player-tr-1791986969589</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en"/>
-        <updated>2026-10-14T14:09:29.589Z</updated>
-        <summary type="html"><![CDATA[Hi-Res & DSD & Visualizer: ₺1.999,99 → ₺147,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1202642773?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/32/0d/5f320dc3-feef-157c-450c-34407b40ebf6/Autumn-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Hi-Res & DSD & Visualizer：</strong><span>₺1.999,99</span> → <b>
-  <strong>₺147,99</strong>
-</b><span>[₺147,99 ~ ₺1.999,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Full Function Pack：<b>₺82,99</b>
-  </li><li>
-    Real-time DSD Conversion：<b>₺99,99</b>
-  </li><li>
-    Hi-Res & DSD & Visualizer：<b>₺147,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Bring your local, cloud and NAS music into one Hi-Res player.
-Ever Play gives you control of your own library, with lossless audio, DSD playback, offline caching and detailed output options for external DACs.
-
-Built for listeners who collect FLAC, ALAC, WAV, APE or DSD files and want to enjoy them without depending on a streaming catalog.
-
-Everplay supports all popular formats including Hi-Res ones. 
-
-One of the most important feature of Everplay is that it support DSD(up to 11.2MHz，aka. DSD256) playback, in term of PCM and DoP. When PCM mode is selected, DSD is converted to and output as PCM. When DoP mode is selected, DSD is outputted as DSD over PCM.(Connected device must be DoP-compatible to this mode, otherwise, DSD will be outputed as PCM even DoP mode is selected.)
-
-Everplay support up to 384kHz/32bit music file and upsampling output Mode, you can select custom output sample rate to playback. It can automatically choose the max support format to playback, so you never need to worry about output device change.
-
-Everplay support Wi-Fi transfer, iTunes files sharing and Airdrop. Through Wi-Fi Transfer, you can share music files between computer and Everplay app with browser.
-
-• Google Drive
-• 115 Drive
-• Aliyun Drive
-• Baidu Yun Drive
-• One Drive
-• SMB1/2/3
-• WebDAV
-• Tencent WeiYun
-• 123 Drive
-• dropbox
-• navidrome
-• pCloud
-
-• FLAC(MQA), APE, WAV, ALAC(M4A), AIFF, AIF, MP3, WMA, OGG, AAC,DTS
-• SACD(ISO), DSF, DFF(DSD64, DSD128 and DSD256 support both PCM and DoP output mode)
-• CUE(Sheet)
-
-[Music Management and Easy Transfer]
-• WiFi Music Transfer (Http)
-• iTunes Files Sharing
-• Playlist Management
-• Files Management
-• Airdrop
-
-[Advanced Features]
-• Support Aliyun Drive, Weiyun, Baidu net-disk, OneDrive authorization and SMB, WebDAV connection.
-• Support load music from iTune library
-• Support Carplay feature
-• Thousand of visualizations embedded in player which beat with music,It's one of the most advanced visualizer in the App Store.
-• Playback Hi-Res audio source up to 32bit/384kHz
-• Playback DSD audio source up to 11.2MHz
-• Visualizer
-• Hundred settings of EQ with random play
-• Random EQ for each song when playing
-• Searching songs
-• Display song and connected device information
-• Upsampling function
-• Sleep timer
-• Disable Auto-lock Screen
-• Auto-download Album/Artist Image(On/OFF)
-• DSD to PCM
-• Dop(DSD over PCM)
-• Custom Output Sample Rate
-• Redesign the Player Interface and Interaction
-• Online lyrics
-• Gapless playback
-• Resample rate Algorithm
-• Variable Playback Rate
-• Fast Forward and Fast Backward
-• A→B repeat play
-• Siri Play
-• Shortcut Play
-• iPadOS Multiple Windows Support
-
-URL Scheme: FancyMusicPlayer
-
-Subscription name: Hi-Res&DSD(Yearly)
-Subscription duration: One year
-Terms of Use: You can read your terms of use here for more details: http://www.appgreat.com/FancyTermsOfUse/
-Auto-renewing subscription: You subscription will be renewed every one year. i.e. you will be charged every year.
-
-– Price may vary by location.
-– Payment will be charged to iTunes Account at confirmation of purchase
-– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
-
-※Please note that Everplay is a pure music player. You should put the song to the app documents directory by the means of throung iTunes File Sharing or Wi-Fi sharing or connect to your cloud account to play it.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/0e/c3/310ec330-f744-cd8c-de4c-685339fe976d/342a2883-c0dd-413c-941f-7c2e8fb466ff_iphone5.5-eng_4.0.4_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5c/f5/745cf509-1cfc-66d9-d746-5f663b3d70bf/fdd46acf-7039-457d-914d-29cbc9cc3f57_IMG_30105.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/28/52/ed28520c-f79e-6247-e431-8bdd68f6f39c/mzl.iwiyhzjq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/49/84/4c498439-58ba-59ca-de4f-3ebda2b37750/mzl.zhkjfypj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/db/cb/dfdbcbe0-74e2-e29e-2c3b-777054754bc8/mzl.cpacyecc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/21/ac/e521aca4-62b4-e6ed-d6d4-1c1b68b47ddf/mzl.ohgteicl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/70/f9447027-1c4b-a1db-ec07-750c07e18272/mzl.qicmxqyi.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/2d/9b/e02d9ba4-ec1d-6d31-0ee5-4d13d4cd71fd/mzl.fpvbfjkf.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/4a/4a/644a4a68-92e7-5dbb-d242-325f46da2ee0/1b86797f-09f0-4f38-9d08-afca347c4344_IMG_0015.PNG/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/53/6e/28536e76-d2f1-a62f-4f99-57a7d0485391/4fb8384e-53eb-412a-98f0-c5461681fb91_IMG_0210.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/b4/ff/8db4ff05-825e-1948-6385-0949afadd658/4d87dda2-4d84-462f-b306-dc6e6926e461_IMG_0211.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/ea/d1/8bead123-8392-098d-a645-ca7610949bf8/63337572-1833-42ed-9216-4c9558b2419b_IMG_0218.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/4e/99/644e9991-0e91-6b74-2848-66e7c32056ad/7db05e24-f50b-499b-a147-113f0c2295ff_IMG_0216.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/5b/3a/395b3ac2-625b-06b9-3b93-f2625b1a1ac2/52532dcb-c7de-44df-b993-324785160eaa_IMG_0212.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/02/47/7b0247f4-03bb-b4b7-f7f8-0bea1c747f02/d4ecf600-42c8-4124-9758-e0b6b2703737_IMG_0214.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/53/cd/cb53cde9-e0d3-adbd-7c25-014aba87293d/decd9297-7459-43ef-b6d0-207ea4d1b808_IMG_0215.PNG/576x768bb.png" />]]></content>
+Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

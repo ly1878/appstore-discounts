@@ -135047,10 +135047,22 @@
       "price": 0,
       "formattedPrice": "Free",
       "ShellFish Monthly subscription": "₺69,99",
-      "ShellFish Lifetime Pro Unlock": "₺999,99",
+      "ShellFish Lifetime Pro Unlock": "₺669,99",
       "ShellFish Annual subscription": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794789111965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "₺69,99",
+            "ShellFish Lifetime Pro Unlock": "₺669,99",
+            "ShellFish Annual subscription": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788489063218,

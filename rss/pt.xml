@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-01T22:06:28.933Z</updated>
+    <updated>2026-11-16T00:32:13.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-01T22:06:28.933Z</updated>
+        <updated>2026-11-16T00:32:13.621Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 01 Oct 2026 22:06:28 GMT</id>
+        <id>rankingptMon, 16 Nov 2026 00:32:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-01T22:06:28.933Z</updated>
+        <updated>2026-11-16T00:32:13.621Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,10 +51,10 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -68,10 +68,10 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
@@ -97,7 +97,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en">Raycast: AI, Notes and more</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1336634154?lang=en">SSH Files – Secure ShellFish</a>
       </td>
       <td>
         <ul>
@@ -108,9 +108,7 @@ feedId:206907475259680768+userId:73658201673997312
           </li><li>
             <span>Compras integradas</span><ol>
               <li>
-                <i>Advanced AI</i>：<b>1</b>
-              </li><li>
-                <i>Pro</i>：<b>1</b>
+                <i>ShellFish Lifetime Pro Unlock</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -140,122 +138,43 @@ feedId:206907475259680768+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raycast: AI, Notes and more]]></title>
-        <id>Raycast: AI, Notes and more-pt-1790892376081</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en"/>
-        <updated>2026-10-01T22:06:16.081Z</updated>
-        <summary type="html"><![CDATA[Advanced AI: 177,99 € → 19,99 €<br/>Pro: 88,99 € → 9,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6503428327?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/6f/f4/be6ff410-6100-ccbf-67b9-7844e77bc6e2/AppIcon-Release-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[SSH Files – Secure ShellFish]]></title>
+        <id>SSH Files – Secure ShellFish-pt-1794789111965</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1336634154?lang=en"/>
+        <updated>2026-11-16T00:31:51.965Z</updated>
+        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: 29,99 € → 19,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1336634154?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
   <li>
-    <strong>Advanced AI：</strong><span>177,99 €</span> → <b>
+    <strong>ShellFish Lifetime Pro Unlock：</strong><span>29,99 €</span> → <b>
   <strong>19,99 €</strong>
-</b><span>[19,99 € ~ 177,99 €]</span>
-  </li><li>
-    <strong>Pro：</strong><span>88,99 €</span> → <b>
-  <strong>9,99 €</strong>
-</b><span>[9,99 € ~ 88,99 €]</span>
+</b><span>[19,99 € ~ 29,99 €]</span>
   </li>
 </ul><h2>All Price Information</h2><p>
   Price：<b>Gratuito</b>
 </p><h3>Compras integradas</h3><ul>
   <li>
-    Advanced AI：<b>19,99 €</b>
+    ShellFish Monthly subscription：<b>2,99 €</b>
   </li><li>
-    Pro：<b>9,99 €</b>
+    ShellFish Lifetime Pro Unlock：<b>19,99 €</b>
   </li><li>
-    10,000 Team AI Credits：<b>129,99 €</b>
-  </li><li>
-    5,000 Team AI Credits：<b>70,00 €</b>
-  </li><li>
-    5,000 AI Credits：<b>49,99 €</b>
-  </li><li>
-    2,500 Team AI Credits：<b>34,90 €</b>
-  </li><li>
-    500 Team AI Credits：<b>6,99 €</b>
-  </li><li>
-    10,000 AI Credits：<b>100,00 €</b>
-  </li><li>
-    2,500 AI Credits：<b>24,90 €</b>
-  </li><li>
-    500 AI Credits：<b>6,00 €</b>
+    ShellFish Annual subscription：<b>14,99 €</b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Introducing Raycast for iOS: Your all-in-one productivity toolkit with AI, notes, and more – now on mobile as the perfect companion to the macOS app.
+  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
 
-The app brings your favorite productivity tools from the Mac into your pocket. With Raycast for iOS, you can:
-• Chat with dozens of AI models from leading providers to get the perfect answers for any task
-• Capture, organize, and access your thoughts to never lose an important idea again
-• Save and open Quicklinks for instant access to your most important resources
-• Store and reuse code snippets and templates to save time on repetitive workflows
-• Enjoy seamless cloud sync to keep all your content updated across devices
+Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
 
-Whether you're a long-time Mac user or just discovering Raycast on iOS, you'll have your essential productivity tools always at hand. Raycast for iOS seamlessly extends your desktop workflow to mobile, ensuring you stay productive and organized wherever life takes you.
+Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
 
-Please note: Raycast for iOS requires a free Raycast account. Premium features available with a Raycast Pro subscription.
+Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
 
-Terms of Service: https://www.raycast.com/terms-of-service
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/17/76/261776fd-3eca-2003-3c90-b8d56b6124ba/iphone-screenshot-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/ea/d8/d7ead813-0c9c-3030-ce1f-6ec913c2acc0/iphone-screenshot-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/4f/f8/574ff8e1-457b-8ab5-73fe-03944714b149/iphone-screenshot-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/3c/36/693c36e6-b167-9406-f0b4-6df26bb979cc/iphone-screenshot-4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/c1/01/06c101dc-e5c7-eb7f-f77f-b1cbe4856354/iphone-screenshot-6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/0b/40/000b401c-2575-89c0-be83-e496e42b9051/iphone-screenshot-5.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/bd/19/febd1940-d4c2-ba0e-b1c9-c509b0156221/ipad-screenshot-1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/9f/8b/8f9f8bff-929a-c4cc-7fa6-35a46dd39737/ipad-screenshot-3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/06/42/c0064200-10b0-b76d-b63a-e665f6fb56bf/ipad-screenshot-2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/3c/a2/913ca222-e5a0-c989-d223-c456fb99f7a7/ipad-screenshot-4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/53/da/c853dac6-964c-e13e-b405-56d056bc3bb5/ipad-screenshot-5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/32/8c/b3328c81-50a7-01df-610e-872fdefefebb/ipad-screenshot-6.jpg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OsmAnd — Mapas e GPS Offline]]></title>
-        <id>OsmAnd — Mapas e GPS Offline-pt-1790736711803</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/934850257?lang=en"/>
-        <updated>2026-09-30T02:51:51.803Z</updated>
-        <summary type="html"><![CDATA[OsmAnd Maps+: 69,99 € → 34,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/934850257?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5e/07/6f5e0743-ab65-5760-49dc-e757eebb5503/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>OsmAnd Maps+：</strong><span>69,99 €</span> → <b>
-  <strong>34,99 €</strong>
-</b><span>[34,99 € ~ 69,99 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    OsmAnd Pro Mensal：<b>5,99 €</b>
-  </li><li>
-    OsmAnd Maps+ Anual：<b>14,99 €</b>
-  </li><li>
-    OsmAnd Pro Anual：<b>39,99 €</b>
-  </li><li>
-    OsmAnd: Anual Tudo Incluído：<b>9,99 €</b>
-  </li><li>
-    Wikipedia：<b>0,00 €</b>
-  </li><li>
-    Contour lines：<b>9,99 €</b>
-  </li><li>
-    OsmAnd Maps+：<b>34,99 €</b>
-  </li><li>
-    Todos os mapas do mundo：<b>22,99 €</b>
-  </li><li>
-    OsmAnd: Tudo Incluído Mensal：<b>1,99 €</b>
-  </li><li>
-    Europa：<b>17,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  OsmAnd é uma aplicação de mapas offline e navegação para pessoas que pretendem orientação fiável, mapas detalhados e controlo total sobre os seus percursos. Descarregue mapas completos por país ou região, pesquise por endereço, local ou coordenadas e navegue com orientação por voz curva a curva — mesmo sem acesso à internet.
+Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
 
-Com o OsmAnd, pode:
+Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
 
-· Navegar offline para condução, ciclismo, caminhadas, trilhos e muito mais
-· Planear percursos com paragens intermédias e recálculo automático
-· Utilizar mapas detalhados baseados no OpenStreetMap com POIs, Favoritos e sobreposições personalizáveis
-· Mostrar, gravar, importar e navegar por trilhos GPX
-· Explorar caminhos pedestres, trilhos e ciclovias incluídos nos mapas offline
-· Adicionar curvas de nível e sombreamento do relevo para melhor perceção do terreno
-· Obter orientação de faixa, nomes de ruas, hora prevista de chegada e alertas opcionais no ecrã
-· Manter os mapas no seu dispositivo para uma utilização fiável em casa, no estrangeiro e em zonas remotas
-
-OsmAnd foi desenvolvido para navegação diária, viagens e exploração ao ar livre. Combina a fiabilidade offline com um poderoso planeamento de percursos, dados cartográficos detalhados e ferramentas avançadas para utilizadores que pretendem mais do que uma aplicação de navegação básica.
-
-Baseado no OpenStreetMap e desenvolvido como um projeto de código aberto, o OsmAnd respeita a privacidade e dá-lhe controlo sobre os seus dados e os acessos da aplicação. Os mapas estão disponíveis em todo o mundo e são atualizados regularmente, com atualizações horárias opcionais através da funcionalidade Live Updates.
-
-Termos de Utilização: https://osmand.net/docs/legal/terms-of-use
-Política de Privacidade: https://osmand.net/docs/legal/privacy-policy
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ee/06/ee/ee06eea1-f828-2d6a-c0cc-36da8c4e5ca8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9d/61/1f/9d611fec-3c10-5d0a-e569-a097a748acbe/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/8f/16/ab8f163d-dd41-10fb-cca8-9fa395f425cc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/73/a4/c873a4be-ce1a-2670-8df2-a1e1d40866dd/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/9b/a9/cf9ba9b1-d45d-e933-e10f-13e7495b2e14/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/9d/ea/7f9deaca-cae2-ec66-e36b-17e3405aff15/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/71/54/b17154f7-8709-4c1c-e3c5-2ae892c189b4/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/a7/a4/15a7a4d3-baf3-c94b-d154-8234e90c0c45/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/df/f6/05dff671-7856-87c6-fc43-f7019043a785/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/0c/a2/3e0ca20b-1877-80f8-8c67-7332ac5101fa/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/38/2b/dc382b24-fc5b-6af9-286e-417d531ac149/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/79/12/de791201-bdd1-07ce-70fd-b9eb93838645/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/b2/7d/7bb27d0b-4166-3260-7de5-3cd837d2e8db/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/e7/97/1ae797a0-130d-b6ed-2664-38b5d5174a98/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/1a/36/461a36f5-81b0-afdf-5e37-f37c933dc5ba/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/ee/28/6fee2897-8245-ff72-82b4-133157f1224e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/7f/16/2f7f164e-c2e7-c51c-5b72-971ca08fc128/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/18/e1/2f18e1da-88f5-6f52-8363-2f4d4c856cb0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ec/81/22/ec8122eb-bbbc-baa7-606f-8056094957d8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/06/28/8a0628b6-09db-106a-8062-757212330084/pr_source.png/576x768bb.png" />]]></content>
+Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

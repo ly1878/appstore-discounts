@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-09-11T03:18:19.223Z</updated>
+    <updated>2026-11-16T00:32:13.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.224Z</updated>
+        <updated>2026-11-16T00:32:13.617Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkFri, 11 Sep 2026 03:18:19 GMT</id>
+        <id>rankinghkMon, 16 Nov 2026 00:32:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-11T03:18:19.225Z</updated>
+        <updated>2026-11-16T00:32:13.617Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,16 +51,16 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>7</b>
+        <b>13</b>
       </td>
       <td>
-        <b>7</b>
-      </td>
-      <td>
-        <b></b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
+      </td>
+      <td>
+        <b>1</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>7</b>
+        <b>13</b>
       </td>
       <td>
-        <b>7</b>
-      </td>
-      <td>
-        <b></b>
+        <b>13</b>
       </td>
       <td>
         <b></b>
+      </td>
+      <td>
+        <b>1</b>
       </td>
     </tr>
   </tbody>
@@ -97,245 +97,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/549432607?lang=zh-CN">Townsmen Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/994157520?lang=zh-CN">1942 Pacific Front Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1477806063?lang=zh-CN">Football Agent</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1481181827?lang=zh-CN">Aces of the Luftwaffe Squadron</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1592505377?lang=zh-CN">Wreckfest</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1642715290?lang=zh-CN">Little Big Workshop</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6747307749?lang=zh-CN">CHAKK - 인스타 스토리 꾸미는 재미, 챡!</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6759970821?lang=zh-CN">地牢合併!（Dungeon Merge!）</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6480058345?lang=zh-CN">怪獸大進擊 2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/6467822375?lang=zh-CN">Auto Redial - 自動重撥</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1336634154?lang=zh-CN">SSH Client - Secure ShellFish</a>
       </td>
       <td>
         <ul>
@@ -346,11 +108,7 @@ feedId:157008141708743680+userId:73658201673997312
           </li><li>
             <span>App 內購買</span><ol>
               <li>
-                <i>高級終身會員</i>：<b>1</b>
-              </li><li>
-                <i>7-Day Pass</i>：<b>1</b>
-              </li><li>
-                <i>24小時通行證</i>：<b>1</b>
+                <i>ShellFish Lifetime Pro Unlock</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -366,164 +124,57 @@ feedId:157008141708743680+userId:73658201673997312
       <th>添加方式</th>
     </tr>
   </thead>
-  <tbody></tbody>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6670324846?lang=zh-CN">Grok - AI 助理</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+  </tbody>
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怪獸大進擊 2]]></title>
-        <id>怪獸大進擊 2-hk-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/6480058345?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6480058345?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/12/6e/9c126eb5-7cbf-30c0-c7b4-42923ace6c23/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 22.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  為了洗雪兩年前敗北的恥辱，混沌這次集結了異星的聯軍，以人類的罪孽為理由，再次襲擊地球。
-就連一直捍衛人類的那位超級英雄，也決定倒戈相向。身為指揮官的你，要如何解決這個危機？人類和地球的明天，又會是如何？
-
-遊戲介紹與特點
-怪獸大進擊2，是我們在兩年前發售的好評作品，怪獸大進擊的續作。我們在保留一代的優點上，修改了缺點，並加入了許多新的特點和樂趣如下：
-- 遊戲節奏更快速、更緊湊。
-- 在原有的三種方塊外，新增資金方塊的蒐集使用。
-- 秘密武器的部署不限一種，可部署複數種類在戰場上。
-- 全新九種外星敵人，更聰明刁鑽的行為AI，提升挑戰性。
-- 全新八種秘密武器，包含可三機分離、合體的超級機器人。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
-        <id>1942 Pacific Front Premium-hk-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/994157520?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/994157520?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/37/a4/6e37a4bc-1e74-ea85-f462-678a077bec82/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 8.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    60,000資金：<b>HK$ 78.00</b>
-  </li><li>
-    25,000資金：<b>HK$ 38.00</b>
-  </li><li>
-    700,000資金：<b>HK$ 688.00</b>
-  </li><li>
-    325,000資金：<b>HK$ 398.00</b>
-  </li><li>
-    125,000資金：<b>HK$ 158.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  延續「1941 Frozen Front」的戰鬥，惟這一次，打的是海戰。加入海軍，打贏生死存亡之戰！稱雄戰場，派遣戰士奔赴前線。最真實的軍事作戰！
-選擇正確戰術，運用突擊隊，擊潰頑敵！既可以在戰役中指揮美軍，也可以在戰鬥中統領日軍。步兵、炮兵、坦克、飛機、戰艦、潛艇，多兵種協同作戰，消滅敵軍幫兇；PACIFIC FRONT，以靈活的指揮技巧獲得晉升！
-
-*** 任務簡報 ***
-
-魚雷、炸彈，強大武器上陣作戰！
-坦克、步兵，攻克敵人陣地！
-轟炸機群，搗毀敵軍指揮部！
-潛艇偷襲，令敵軍防不勝防！
-在惡劣地形中佈置你的炮兵部隊！
-清除灘頭、湖泊、海峽的各種障礙！
-伏擊敵人！ 
-為部隊提供物資和彈藥！
-護衛航母及戰艦群！
-
-特色：
-- 去除廣告！
-- 以二戰為背景的回合制戰略行動遊戲
-- 激動人心的戰役和充滿挑戰的任務
-- 符合史實的美、日軍隊建制
-- 美日雙方步兵、炮兵、坦克、飛機、戰艦、潛艇，多兵種一應俱全
-- 戰鬥中可修理，偽裝，構築各種人員和建物
--白熱化的多人戰鬥
-- 六角網格可一覽無餘
-- 細膩的圖片和極為真實的聲效
-- 高難的搖滾配樂
-
-感謝您選擇 '1942 Pacific Front'！
-
-© HandyGames 2026
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/d6/77/ec/d677ecc3-3ea4-bee1-4dc2-1ac12dae7047/mzl.vuhhnqtt.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/74/68/a5/7468a582-3ea6-0c6c-1d8e-ff2ff6fe5029/mzl.thuqkdyb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/7c/74/5e/7c745ebc-d631-bbd9-5bde-1fd2a809d38d/mzl.pxivotic.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/77/f3/9f/77f39fcb-847d-d023-2fde-d495ab165831/mzl.iyxudhfq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/4d/ff/79/4dff79ff-86ad-c535-f82e-1b9b65ebb739/mzl.rzcpmhkv.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/2e/79/1d/2e791d7e-3954-eef1-d6e6-99bf9063ffb6/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/dc/c6/af/dcc6afb2-45ab-77ef-97f0-c1b1cd0dadcd/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/43/d2/25/43d22595-8fc8-69d6-f95e-d476b7784e2d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/97/fc/d3/97fcd3e7-ed79-9889-4c46-775c3fb20c69/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/aa/14/0d/aa140d68-732c-94d1-18af-ca77384f2562/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Redial - 自動重撥]]></title>
-        <id>Auto Redial - 自動重撥-hk-1789096686298</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/6467822375?lang=zh-CN"/>
-        <updated>2026-09-11T03:18:06.298Z</updated>
-        <summary type="html"><![CDATA[高級終身會員: HK$ 188.00 → HK$ 48.00<br/>7-Day Pass: HK$ 38.00 → HK$ 22.00<br/>24小時通行證: HK$ 8.00 → HK$ 6.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6467822375?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2e/a1/cc2ea1d5-0045-c8eb-6697-feb35cd6d97f/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[SSH Client - Secure ShellFish]]></title>
+        <id>SSH Client - Secure ShellFish-hk-1794789111965</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/1336634154?lang=zh-CN"/>
+        <updated>2026-11-16T00:31:51.965Z</updated>
+        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: HK$ 188.00 → HK$ 128.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1336634154?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
   <li>
-    <strong>高級終身會員：</strong><span>HK$ 188.00</span> → <b>
-  <strong>HK$ 48.00</strong>
-</b><span>[HK$ 48.00 ~ HK$ 228.00]</span>
-  </li><li>
-    <strong>7-Day Pass：</strong><span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
-</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
-  </li><li>
-    <strong>24小時通行證：</strong><span>HK$ 8.00</span> → <b>
-  <strong>HK$ 6.00</strong>
-</b><span>[HK$ 6.00 ~ HK$ 8.00]</span>
+    <strong>ShellFish Lifetime Pro Unlock：</strong><span>HK$ 188.00</span> → <b>
+  <strong>HK$ 128.00</strong>
+</b><span>[HK$ 128.00 ~ HK$ 188.00]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免費</b>
 </p><h3>App 內購買</h3><ul>
   <li>
-    每週訂閱：<b>HK$ 12.00</b>
+    ShellFish Lifetime Pro Unlock：<b>HK$ 128.00</b>
   </li><li>
-    高級終身會員：<b>HK$ 48.00</b>
+    ShellFish Monthly subscription：<b>HK$ 22.00</b>
   </li><li>
-    7-Day Pass：<b>HK$ 22.00</b>
-  </li><li>
-    3-Day Pass：<b>HK$ 8.00</b>
-  </li><li>
-    24小時通行證：<b>HK$ 6.00</b>
-  </li><li>
-    Pro – Lifetime：<b>HK$ 0.00</b>
-  </li><li>
-    年度訂閱：<b>HK$ 68.00</b>
+    ShellFish Annual subscription：<b>HK$ 98.00</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  透過此應用程序，您可以有效率且個人化地自動撥打您想要的號碼。您可以定義重複次數、通話間隔、新增分機號碼、撥號前啟動震動，甚至使用內建行事曆安排通話。 「自動重撥應用程式」還提供簡單直覺的介面、詳細的通話記錄和多種自訂選項，以滿足您的需求。
+  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
 
-此應用程式非常適合需要自動重複撥打電話的任何人 - 例如預約電話、忙線重試或聯絡線路繁忙的服務。
+Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
 
-主要特點：
-- 自動重撥佔線或未接來電。
-- 設定重試次數和時間間隔。
-- 透過行事曆提前安排通話。
-- 撥號後自動新增分機號碼。
-- 每次重撥前啟用振動。
-- 通話記錄和重試統計。
+Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
 
-適合：
-- 預約（醫生、大使館等）
-- 客戶服務或技術支援
-- 致電公共辦公室
-- 自由工作者和企業主跟進客戶
+Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
 
-無論您是打電話預約醫生、聯繫客戶服務，還是在線路繁忙時嘗試連接，此應用程式都可以節省時間和避免煩惱。
+Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
 
+Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
 
-隱私權政策：
-
-https://sites.google.com/view/auto-redial-app-rellamadas/pol%C3%ADtica-de-privacidad?pli=1
-
-使用條款（最終使用者許可協議）：
-
-Apple App Store：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/fd/36/2efd3677-7ead-dd11-3cac-c3765a026ab8/22c32242-b4e4-4f3f-b545-1f8d9ad67837_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.54.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/df/f9/05dff9b3-0a8c-4c3f-bf3c-d710badf4240/5f13a017-e208-4e09-995e-f5e808a97343_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.59.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/a3/4c/72a34cfe-c6be-4acd-6a2b-6aec1e82fc5a/d9356034-0c59-4171-ae49-8bf37adc0536_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.22.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/8b/03/698b03a1-4961-be08-47bc-386e97f9d681/d23b5ab8-3f9e-4719-9944-623dbc266d3a_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.11.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/06/d6/c106d6f6-6229-9077-00d3-b9f662024f0e/86793243-8ddb-4564-9a9a-c26b763a0c1d_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.38.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/4d/b9/624db940-88b3-521f-24e4-e2ab5a3f826a/850ff7e2-ec4b-4647-a374-150d088da5ee_Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2024-09-20_at_20.37.48.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/d6/26/3cd6267f-4ad7-ee74-aea6-12634c832dac/658171ac-a346-42ad-af3c-87155b697ccd_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.50.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/05/d3/0c05d30e-d096-34b6-4c37-31135417df7e/34f06e56-f582-4b07-ac91-6e31c005c8b9_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.54.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/92/8a/ad928a8a-5990-a35c-acc4-f32a9fb7a9e9/5de6bba2-ff9d-41d7-9c10-f039d744a745_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.37.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/a1/af/29a1af08-aee0-d2b0-0152-0c399aec019c/edbac840-7238-4ffe-91ef-e23d95f0471a_Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2024-09-20_at_20.58.31.png/360x480bb.jpg" />]]></content>
+Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>
