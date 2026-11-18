@@ -21,7 +21,7 @@ import { useTheme } from '@/hooks/useTheme'
 import { useLocale } from '@/hooks/useLocale'
 
 // 所有支持的 App Store 地区代码
-const REGIONS = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS = ['cn', 'us', 'in', 'tr']
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -47,12 +47,9 @@ export default function Header() {
 
   const regionNameMap: Record<string, string> = {
     cn: t('中国大陆'),
-    hk: t('中国香港'),
-    mo: t('中国澳门'),
-    tw: t('中国台湾'),
     us: t('美国'),
+    in: t('印度'),
     tr: t('土耳其'),
-    pt: t('葡萄牙'),
   }
 
   const handleRegionChange = (newRegion: string) => {

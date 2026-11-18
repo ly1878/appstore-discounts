@@ -1,32 +1,17 @@
 import fetch from 'node-fetch'
-import { isEmpty } from 'lodash'
 import { start, end } from './timer'
+import { buildBarkItems, type BarkPayload } from './barkItems'
 
 /**
  * Bark 推送（ly1878 自定义）
- * 只在本次运行检测到真实降价（discounts 非空）时推送，每个降价应用一条
+ * 只在本次运行检测到真实降价时推送。
+ * 2026-11-18：同一 app 在不同地区的降价汇总成一条，不再按地区各推一条。
  * 地址来自 GitHub Secrets：BARK_URL（主），BARK_URL_BACKUP（备用）
  */
 
-const regionNameMap: Record<Region, string> = {
-  cn: '中国大陆',
-  hk: '中国香港',
-  mo: '中国澳门',
-  tw: '中国台湾',
-  us: '美国',
-  tr: '土耳其',
-  pt: '葡萄牙',
-}
-
 const MAX_SINGLE_PUSHES = 15
 
-export type BarkPayload = {
-  title: string
-  body: string
-  url?: string
-  group?: string
-  level?: string
-}
+export type { BarkPayload }
 
 function getBarkUrls() {
   return [process.env.BARK_URL, process.env.BARK_URL_BACKUP]
@@ -77,34 +62,14 @@ export async function sendBark(payload: BarkPayload) {
   return false
 }
 
-function getAppStoreUrl(region: Region, trackId: number) {
-  return `https://apps.apple.com/${region}/app/id${trackId}`
-}
-
-function getDiscountLines(discounts: Discount[]) {
-  return discounts.map(({ type, name, from, to }) =>
-    type === 'price' ? `本体：${from} → ${to}` : `${name}：${from} → ${to}`,
-  )
-}
+export { buildBarkItems }
 
 export default async function pushBarkNotification(
   regionDiscountInfos: RegionDiscountInfo,
 ) {
   start('pushBarkNotification')
   try {
-    const items: BarkPayload[] = []
-
-    Object.entries(regionDiscountInfos).forEach(([region, discountInfos]) => {
-      if (isEmpty(discountInfos)) return
-      discountInfos.forEach(({ trackId, trackName, discounts = [] }) => {
-        if (isEmpty(discounts)) return
-        items.push({
-          title: `${trackName}（${regionNameMap[region as Region] || region}）降价`,
-          body: getDiscountLines(discounts).join('\n'),
-          url: getAppStoreUrl(region as Region, trackId),
-        })
-      })
-    })
+    const items = buildBarkItems(regionDiscountInfos)
 
     if (items.length === 0) {
       console.info('Bark: no discounts, skip')
@@ -113,7 +78,7 @@ export default async function pushBarkNotification(
 
     if (items.length > MAX_SINGLE_PUSHES) {
       await sendBark({
-        title: `App 降价：本次共 ${items.length} 项`,
+        title: `App 降价：本次共 ${items.length} 款`,
         body: items.map((item) => `${item.title}\n${item.body}`).join('\n\n'),
       })
       return

@@ -22,16 +22,13 @@ import AppCardSkeleton from '@/components/AppCard/AppCardSkeleton'
 import SEOHead from '@/components/SEOHead'
 import SearchInput from '@/components/SearchInput'
 
-const VALID_REGIONS: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const VALID_REGIONS: Region[] = ['cn', 'us', 'in', 'tr']
 
 const REGION_NAMES: Record<Region, string> = {
   cn: '中国大陆',
-  hk: '中国香港',
-  mo: '中国澳门',
-  tw: '中国台湾',
   us: '美国',
+  in: '印度',
   tr: '土耳其',
-  pt: '葡萄牙',
 }
 
 const PAGE_SIZE = 40

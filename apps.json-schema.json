@@ -36,7 +36,7 @@
                 "type": "object",
                 "description": "Region-specific app names（指定国家或地区的应用名称）",
                 "patternProperties": {
-                  "^(cn|hk|mo|tw|us|tr|pt)$": {
+                  "^(cn|hk|mo|tw|us|tr|pt|in)$": {
                     "type": "string"
                   }
                 },
@@ -56,7 +56,7 @@
                     "type": "object",
                     "description": "Region-specific app names that override the common name",
                     "patternProperties": {
-                      "^(cn|hk|mo|tw|us|tr|pt)$": {
+                      "^(cn|hk|mo|tw|us|tr|pt|in)$": {
                         "type": "string"
                       }
                     },

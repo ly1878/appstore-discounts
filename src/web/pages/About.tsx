@@ -17,7 +17,7 @@ export default function About() {
       icon: '🌍',
       title: t('全球地区支持'),
       desc: t(
-        '支持中国大陆、香港、澳门、台湾、美国、土耳其、葡萄牙等地区的 App Store',
+        '支持中国大陆、美国、印度、土耳其等地区的 App Store',
       ),
     },
     {

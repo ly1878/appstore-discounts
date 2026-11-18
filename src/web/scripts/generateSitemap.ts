@@ -27,7 +27,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 /** 支持的地区列表 */
-const REGIONS = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS = ['cn', 'us', 'in', 'tr']
 /** 站点根 URL */
 const BASE_URL = 'https://appstore-discounts.eyelly.me'
 /** 每个地区最多收录的应用详情页数量 */

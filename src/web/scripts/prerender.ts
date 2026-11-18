@@ -21,7 +21,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 /** 支持的地区列表 */
-const REGIONS = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS = ['cn', 'us', 'in', 'tr']
 
 /** 需要预渲染的路由列表 */
 const routes = ['/', ...REGIONS.map((region) => `/${region}`)]

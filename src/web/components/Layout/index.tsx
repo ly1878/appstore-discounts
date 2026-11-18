@@ -13,7 +13,7 @@ import Footer from './Footer'
 import ScrollToTop from '@/components/ScrollToTop'
 
 /** 支持的地区列表 */
-const REGIONS = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS = ['cn', 'us', 'in', 'tr']
 
 interface LayoutProps {
   children: ReactNode

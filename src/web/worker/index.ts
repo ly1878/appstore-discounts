@@ -23,7 +23,7 @@ interface Env {
   ASSETS: { fetch: (input: Request | string) => Promise<Response> }
 }
 
-const REGIONS = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS = ['cn', 'us', 'in', 'tr']
 
 function corsHeaders(): Record<string, string> {
   return {

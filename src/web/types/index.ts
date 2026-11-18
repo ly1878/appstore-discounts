@@ -2,7 +2,7 @@
  * 支持的地区代码
  * 每个代码对应一个 App Store 区域
  */
-export type Region = 'cn' | 'hk' | 'mo' | 'tw' | 'us' | 'tr' | 'pt'
+export type Region = 'cn' | 'us' | 'in' | 'tr'
 
 /**
  * 折扣类型
