@@ -23,10 +23,10 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
-type Region = 'cn' | 'hk' | 'mo' | 'tw' | 'us' | 'tr' | 'pt'
+type Region = 'cn' | 'us' | 'in' | 'tr'
 
 /** 支持的地区列表 */
-const REGIONS: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS: Region[] = ['cn', 'us', 'in', 'tr']
 
 /** 原始数据目录（由爬虫脚本生成，每个地区一个 JSON 文件） */
 const STORAGE_DIR = resolve(__dirname, '../../../src/data/storage')
@@ -111,12 +111,9 @@ interface PriceHistoryItem {
 function getRegionCurrency(region: Region): string {
   const map: Record<Region, string> = {
     cn: 'CNY',
-    hk: 'HKD',
-    mo: 'MOP',
-    tw: 'TWD',
     us: 'USD',
+    in: 'INR',
     tr: 'TRY',
-    pt: 'EUR',
   }
   return map[region]
 }

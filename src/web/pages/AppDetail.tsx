@@ -40,7 +40,7 @@ import ShareButton from '@/components/ShareButton'
 import { formatDate } from '@/utils/date'
 import { useLocale } from '@/hooks/useLocale'
 
-const VALID_REGIONS: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const VALID_REGIONS: Region[] = ['cn', 'us', 'in', 'tr']
 
 /**
  * 从后端 API 加载指定应用的价格历史数据

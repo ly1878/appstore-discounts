@@ -36,7 +36,7 @@ import AppCardSkeleton from '@/components/AppCard/AppCardSkeleton'
 import VirtualizedSection from '@/components/VirtualizedSection'
 import DateNav from '@/components/DateNav'
 import SearchInput from '@/components/SearchInput'
-const VALID_REGIONS: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const VALID_REGIONS: Region[] = ['cn', 'us', 'in', 'tr']
 
 export default function DiscountList() {
   const { region = 'cn' } = useParams()

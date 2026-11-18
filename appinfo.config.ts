@@ -1,6 +1,6 @@
 import { Translate } from 'i18n-pro'
 
-export const regions: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+export const regions: Region[] = ['cn', 'us', 'in', 'tr']
 
 /**
  * 注意：这里默认写的是中文，做了多语言支持，以中文为key
@@ -9,12 +9,9 @@ export const getRegionNameMap = (tProp?: Translate) => {
   const t = tProp || (global as any).t
   return {
     cn: t('中国大陆'),
-    hk: t('中国香港'),
-    mo: t('中国澳门'),
-    tw: t('中国台湾'),
     us: t('美国'),
+    in: t('印度'),
     tr: t('土耳其'),
-    pt: t('葡萄牙'),
   }
 }
 
@@ -24,12 +21,9 @@ export const getRegionNameMap = (tProp?: Translate) => {
  */
 export const regionInAppPurchasesTextMap: Record<Region, string> = {
   cn: 'App内购买',
-  hk: 'App 內購買',
-  mo: 'App 內購買',
-  tw: 'App內購買',
   us: 'In-App Purchases',
+  in: 'In-App Purchases',
   tr: `In-App Purchases`,
-  pt: 'Compras integradas',
 }
 
 /**
@@ -37,12 +31,9 @@ export const regionInAppPurchasesTextMap: Record<Region, string> = {
  */
 export const regionLanguageCodeMap: Record<Region, string> = {
   cn: 'zh-CN',
-  hk: 'zh-CN',
-  mo: 'zh-CN',
-  tw: 'zh-CN',
   us: 'en',
+  in: 'en',
   tr: 'en',
-  pt: 'en',
 }
 
 /**
@@ -51,10 +42,7 @@ export const regionLanguageCodeMap: Record<Region, string> = {
  */
 export const regionTimezoneMap: Record<Region, string> = {
   cn: 'Asia/Shanghai',
-  hk: 'Asia/Hong_Kong',
-  mo: 'Asia/Macau',
-  tw: 'Asia/Taipei',
   us: 'America/New_York',
+  in: 'Asia/Kolkata',
   tr: 'Europe/Istanbul',
-  pt: 'Europe/Lisbon',
 }

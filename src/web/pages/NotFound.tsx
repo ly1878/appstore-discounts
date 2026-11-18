@@ -8,7 +8,7 @@ import { useI18n } from '@i18n-pro/react'
 import { useLocale } from '@/hooks/useLocale'
 import SEOHead from '@/components/SEOHead'
 
-const REGIONS = ['cn', 'hk', 'mo', 'tw', 'us', 'tr', 'pt']
+const REGIONS = ['cn', 'us', 'in', 'tr']
 
 export default function NotFound() {
   const { t } = useI18n()
