@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/log.xml</id>
     <title>日志信息</title>
-    <updated>2026-11-18T00:10:20.511Z</updated>
+    <updated>2026-11-18T01:15:38.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -10,6 +10,108 @@
         <uri>https://github.com/eyelly-wu</uri>
     </author>
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[2026-11-18 09:15:38 - fetch - 5]]></title>
+        <id>1794964538779</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-11-18T01:15:38.779Z</updated>
+        <summary type="html"><![CDATA[总耗时：10.024s；重新获取应用数占比：0%；单个应用重新获取平均次数：0；重新获取总次数：0；获取失败总应用数：0；获取失败应用数占比：-%]]></summary>
+        <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
+  <li>总耗时：10.024s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：0</li><li>重新获取总次数：0</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：-%</li>
+</ul><h2>统计信息</h2><table>
+  <thead>
+    <tr>
+      <th>区域</th>
+      <th>应用总数</th>
+      <th>重新获取应用数</th>
+      <th>重试总次数</th>
+      <th>获取失败数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>中国大陆（CN）</td>
+      <td>11</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>美国（US）</td>
+      <td>11</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>印度（IN）</td>
+      <td>11</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>土耳其（TR）</td>
+      <td>12</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+  </tbody>
+</table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>美国（US）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>印度（IN）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>土耳其（TR）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-11-18 08:10:20 - playwright - 3]]></title>
         <id>1794960620511</id>
@@ -41,39 +143,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -85,9 +154,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -96,7 +165,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -116,33 +185,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -152,7 +194,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -161,7 +203,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -203,39 +245,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -247,9 +256,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -258,7 +267,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -278,33 +287,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -314,7 +296,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -323,7 +305,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -365,39 +347,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -409,9 +358,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -420,7 +369,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -440,33 +389,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -476,7 +398,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -485,7 +407,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -527,39 +449,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -571,9 +460,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -582,7 +471,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -602,33 +491,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -638,7 +500,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -647,7 +509,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -689,39 +551,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>0（0%）</td>
@@ -733,9 +562,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -744,7 +573,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -764,33 +593,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -800,7 +602,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -809,7 +611,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -851,39 +653,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>0（0%）</td>
@@ -895,9 +664,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -906,7 +675,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -926,34 +695,16 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -971,15 +722,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table>]]></content>
     </entry>
     <entry>
@@ -987,9 +729,9 @@
         <id>1794766113200</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
         <updated>2026-11-15T18:08:33.200Z</updated>
-        <summary type="html"><![CDATA[总耗时：20.616s；重新获取应用数占比：10%；单个应用重新获取平均次数：2；重新获取总次数：15；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
+        <summary type="html"><![CDATA[总耗时：20.616s；重新获取应用数占比：24%；单个应用重新获取平均次数：2；重新获取总次数：15；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
         <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
-  <li>总耗时：20.616s</li><li>重新获取应用数占比：10%</li><li>单个应用重新获取平均次数：2</li><li>重新获取总次数：15</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
+  <li>总耗时：20.616s</li><li>重新获取应用数占比：24%</li><li>单个应用重新获取平均次数：2</li><li>重新获取总次数：15</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
 </ul><h2>统计信息</h2><table>
   <thead>
     <tr>
@@ -1013,39 +755,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>8（67%）</td>
@@ -1054,6 +763,17 @@
       </td>
       <td>
         <b>0（0%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
       </td>
     </tr>
     <tr>
@@ -1067,46 +787,8 @@
         <b>0（-%）</b>
       </td>
     </tr>
-    <tr>
-      <td>葡萄牙（PT）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
   </tbody>
 </table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1245,7 +927,7 @@
       </td>
     </tr>
   </tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1254,7 +936,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1270,9 +952,9 @@
         <id>1794737229864</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
         <updated>2026-11-15T10:07:09.864Z</updated>
-        <summary type="html"><![CDATA[总耗时：18.186s；重新获取应用数占比：9%；单个应用重新获取平均次数：1；重新获取总次数：7；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
+        <summary type="html"><![CDATA[总耗时：18.186s；重新获取应用数占比：15%；单个应用重新获取平均次数：1；重新获取总次数：5；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
         <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
-  <li>总耗时：18.186s</li><li>重新获取应用数占比：9%</li><li>单个应用重新获取平均次数：1</li><li>重新获取总次数：7</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
+  <li>总耗时：18.186s</li><li>重新获取应用数占比：15%</li><li>单个应用重新获取平均次数：1</li><li>重新获取总次数：5</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
 </ul><h2>统计信息</h2><table>
   <thead>
     <tr>
@@ -1296,39 +978,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>1（8%）</td>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>1（8%）</td>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>5（42%）</td>
@@ -1340,9 +989,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -1351,7 +1000,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -1371,65 +1020,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>316133247</li><li>
-            <a href="https://appstore-discounts.eyelly.me/mo/316133247?lang=zh-CN">朗文當代高級詞典 (第6版)</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>1490607195</li><li>
-            <a href="https://appstore-discounts.eyelly.me/tw/1490607195?lang=zh-CN">AppRaven: 應用程式免費</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-  </tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -1515,7 +1105,7 @@
       </td>
     </tr>
   </tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1524,7 +1114,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1566,39 +1156,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>0（0%）</td>
@@ -1610,9 +1167,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -1621,7 +1178,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -1641,33 +1198,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -1677,7 +1207,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1686,7 +1216,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1728,39 +1258,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>0（0%）</td>
@@ -1772,9 +1269,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -1783,7 +1280,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -1803,34 +1300,16 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -1848,15 +1327,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table>]]></content>
     </entry>
     <entry>
@@ -1864,9 +1334,9 @@
         <id>1794660051037</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
         <updated>2026-11-14T12:40:51.037Z</updated>
-        <summary type="html"><![CDATA[总耗时：23.865s；重新获取应用数占比：2%；单个应用重新获取平均次数：1；重新获取总次数：2；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
+        <summary type="html"><![CDATA[总耗时：23.865s；重新获取应用数占比：3%；单个应用重新获取平均次数：1；重新获取总次数：1；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
         <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
-  <li>总耗时：23.865s</li><li>重新获取应用数占比：2%</li><li>单个应用重新获取平均次数：1</li><li>重新获取总次数：2</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
+  <li>总耗时：23.865s</li><li>重新获取应用数占比：3%</li><li>单个应用重新获取平均次数：1</li><li>重新获取总次数：1</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
 </ul><h2>统计信息</h2><table>
   <thead>
     <tr>
@@ -1890,39 +1360,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>1（8%）</td>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>12</td>
       <td>0（0%）</td>
@@ -1934,9 +1371,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -1945,7 +1382,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -1981,49 +1418,6 @@
       </td>
     </tr>
   </tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>6791254308</li><li>
-            <a href="https://appstore-discounts.eyelly.me/hk/6791254308?lang=zh-CN">QKeyboard：AI 寫作</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -2033,7 +1427,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2042,7 +1436,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2084,39 +1478,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -2128,9 +1489,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -2139,7 +1500,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -2159,33 +1520,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -2195,7 +1529,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2204,7 +1538,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2246,39 +1580,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -2290,9 +1591,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -2301,7 +1602,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -2321,33 +1622,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -2357,7 +1631,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2366,7 +1640,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2408,39 +1682,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -2452,9 +1693,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -2463,7 +1704,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -2483,33 +1724,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -2519,7 +1733,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2528,7 +1742,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2570,39 +1784,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -2614,9 +1795,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -2625,7 +1806,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -2645,33 +1826,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -2681,7 +1835,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2690,7 +1844,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2732,39 +1886,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -2776,9 +1897,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -2787,7 +1908,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -2807,34 +1928,16 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -2852,15 +1955,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table>]]></content>
     </entry>
     <entry>
@@ -2868,9 +1962,9 @@
         <id>1794492710458</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
         <updated>2026-11-12T14:11:50.458Z</updated>
-        <summary type="html"><![CDATA[总耗时：17.942s；重新获取应用数占比：10%；单个应用重新获取平均次数：2；重新获取总次数：13；获取失败总应用数：0；获取失败应用数占比：0%]]></summary>
+        <summary type="html"><![CDATA[总耗时：17.942s；重新获取应用数占比：0%；单个应用重新获取平均次数：0；重新获取总次数：0；获取失败总应用数：0；获取失败应用数占比：-%]]></summary>
         <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
-  <li>总耗时：17.942s</li><li>重新获取应用数占比：10%</li><li>单个应用重新获取平均次数：2</li><li>重新获取总次数：13</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：0%</li>
+  <li>总耗时：17.942s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：0</li><li>重新获取总次数：0</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：-%</li>
 </ul><h2>统计信息</h2><table>
   <thead>
     <tr>
@@ -2894,39 +1988,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>5（42%）</td>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>3（25%）</td>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <b>0（0%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -2938,9 +1999,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -2949,7 +2010,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -2969,155 +2030,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>1336634154</li><li>
-            <a href="https://appstore-discounts.eyelly.me/hk/1336634154?lang=zh-CN">SSH Client - Secure ShellFish</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>3</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <ul>
-          <li>1490607195</li><li>
-            <a href="https://appstore-discounts.eyelly.me/hk/1490607195?lang=zh-CN">AppRaven: 應用程式免費</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>3</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <ul>
-          <li>316133247</li><li>
-            <a href="https://appstore-discounts.eyelly.me/hk/316133247?lang=zh-CN">朗文當代高級詞典 (第6版)</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>3</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <ul>
-          <li>373493387</li><li>
-            <a href="https://appstore-discounts.eyelly.me/hk/373493387?lang=zh-CN">AnkiMobile Flashcards</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>3</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <ul>
-          <li>1099850421</li><li>
-            <a href="https://appstore-discounts.eyelly.me/hk/1099850421?lang=zh-CN">Annotable: Annotation & Markup</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>3</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>1</b>
-      </td>
-      <td>
-        <ul>
-          <li>1490607195</li><li>
-            <a href="https://appstore-discounts.eyelly.me/mo/1490607195?lang=zh-CN">AppRaven: 應用程式免費</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <ul>
-          <li>373493387</li><li>
-            <a href="https://appstore-discounts.eyelly.me/mo/373493387?lang=zh-CN">AnkiMobile Flashcards</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <ul>
-          <li>1099850421</li><li>
-            <a href="https://appstore-discounts.eyelly.me/mo/1099850421?lang=zh-CN">Annotable: Annotation & Markup</a>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <b>2</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -3127,7 +2039,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3136,7 +2048,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3178,39 +2090,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -3222,9 +2101,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -3233,7 +2112,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -3253,33 +2132,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -3289,7 +2141,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3298,7 +2150,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3340,39 +2192,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -3384,9 +2203,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -3395,7 +2214,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -3415,33 +2234,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -3451,7 +2243,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3460,7 +2252,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3502,39 +2294,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -3546,9 +2305,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -3557,7 +2316,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -3577,33 +2336,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -3613,7 +2345,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3622,7 +2354,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3664,39 +2396,6 @@
       </td>
     </tr>
     <tr>
-      <td>中国香港（HK）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国澳门（MO）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>中国台湾（TW）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
       <td>美国（US）</td>
       <td>11</td>
       <td>0（0%）</td>
@@ -3708,9 +2407,9 @@
       </td>
     </tr>
     <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
+      <td>印度（IN）</td>
+      <td></td>
+      <td>0（-%）</td>
       <td>
         <b>0</b>
       </td>
@@ -3719,7 +2418,7 @@
       </td>
     </tr>
     <tr>
-      <td>葡萄牙（PT）</td>
+      <td>土耳其（TR）</td>
       <td>12</td>
       <td>0（0%）</td>
       <td>
@@ -3739,33 +2438,6 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>中国香港（HK）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国澳门（MO）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>中国台湾（TW）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table><h2>美国（US）</h2><table>
   <thead>
     <tr>
@@ -3775,7 +2447,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
+</table><h2>印度（IN）</h2><table>
   <thead>
     <tr>
       <th>名次</th>
@@ -3784,7 +2456,7 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><h2>葡萄牙（PT）</h2><table>
+</table><h2>土耳其（TR）</h2><table>
   <thead>
     <tr>
       <th>名次</th>

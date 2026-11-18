@@ -1,0 +1,374 @@
+{
+  "373493387": {
+    "name": "AnkiMobile Flashcards",
+    "maxPriceInfo": {
+      "price": 2499,
+      "formattedPrice": "₹ 2,499"
+    },
+    "minPriceInfo": {
+      "price": 2499,
+      "formattedPrice": "₹ 2,499"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 2499,
+          "formattedPrice": "₹ 2,499",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "897283731": {
+    "name": "Strongbox - Password Manager",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Strongbox Pro (Yearly)": "₹ 2,499",
+      "Strongbox Pro (Monthly)": "₹ 299",
+      "Strongbox Pro (Lifetime)": "₹ 7,900"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Strongbox Pro (Yearly)": "₹ 2,499",
+      "Strongbox Pro (Monthly)": "₹ 299",
+      "Strongbox Pro (Lifetime)": "₹ 7,900"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Strongbox Pro (Yearly)": "₹ 2,499",
+            "Strongbox Pro (Monthly)": "₹ 299",
+            "Strongbox Pro (Lifetime)": "₹ 7,900"
+          }
+        }
+      ]
+    ]
+  },
+  "1099850421": {
+    "name": "Annotable: Annotation & Markup",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "All Features": "₹ 999",
+      "Spotlight Tool": "₹ 199",
+      "All Text Styles & Fonts": "₹ 199",
+      "Text Highlighter & Redaction Tool": "₹ 199",
+      "Color Customization": "₹ 199",
+      "Loupe Tool": "₹ 199",
+      "All Obscuration Styles": "₹ 199",
+      "Blur Tool": "₹ 199"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "All Features": "₹ 999",
+      "Spotlight Tool": "₹ 199",
+      "All Text Styles & Fonts": "₹ 199",
+      "Text Highlighter & Redaction Tool": "₹ 199",
+      "Color Customization": "₹ 199",
+      "Loupe Tool": "₹ 199",
+      "All Obscuration Styles": "₹ 199",
+      "Blur Tool": "₹ 199"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Features": "₹ 999",
+            "Spotlight Tool": "₹ 199",
+            "All Text Styles & Fonts": "₹ 199",
+            "Text Highlighter & Redaction Tool": "₹ 199",
+            "Color Customization": "₹ 199",
+            "Loupe Tool": "₹ 199",
+            "All Obscuration Styles": "₹ 199",
+            "Blur Tool": "₹ 199"
+          }
+        }
+      ]
+    ]
+  },
+  "1189158497": {
+    "name": "Photos Measure - Image meter",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Autorenew monthly VIP": "₹ 269",
+      "Autorenew yearly VIP": "₹ 1,299",
+      "Upgrade to VIP for life time": "₹ 4,999"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Autorenew monthly VIP": "₹ 269",
+      "Autorenew yearly VIP": "₹ 1,299",
+      "Upgrade to VIP for life time": "₹ 4,999"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Autorenew monthly VIP": "₹ 269",
+            "Autorenew yearly VIP": "₹ 1,299",
+            "Upgrade to VIP for life time": "₹ 4,999"
+          }
+        }
+      ]
+    ]
+  },
+  "1336634154": {
+    "name": "SSH Client - Secure ShellFish",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ShellFish Monthly subscription": "₹ 299",
+      "ShellFish Lifetime Pro Unlock": "₹ 1,649",
+      "ShellFish Annual subscription": "₹ 1,299"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "ShellFish Monthly subscription": "₹ 299",
+      "ShellFish Lifetime Pro Unlock": "₹ 1,649",
+      "ShellFish Annual subscription": "₹ 1,299"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ShellFish Monthly subscription": "₹ 299",
+            "ShellFish Lifetime Pro Unlock": "₹ 1,649",
+            "ShellFish Annual subscription": "₹ 1,299"
+          }
+        }
+      ]
+    ]
+  },
+  "1481853033": {
+    "name": "Strongbox Pro",
+    "maxPriceInfo": {
+      "price": 9900,
+      "formattedPrice": "₹ 9,900",
+      "Annual Tip": "₹ 1,799",
+      "Monthly Tip": "₹ 269",
+      "Huge Tip": "₹ 19,900",
+      "Large Tip": "₹ 9,900",
+      "Medium Tip": "₹ 1,999",
+      "Small Tip": "₹ 999",
+      "Little Tip": "₹ 499"
+    },
+    "minPriceInfo": {
+      "price": 9900,
+      "formattedPrice": "₹ 9,900",
+      "Annual Tip": "₹ 1,799",
+      "Monthly Tip": "₹ 269",
+      "Huge Tip": "₹ 19,900",
+      "Large Tip": "₹ 9,900",
+      "Medium Tip": "₹ 1,999",
+      "Small Tip": "₹ 999",
+      "Little Tip": "₹ 499"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 9900,
+          "formattedPrice": "₹ 9,900",
+          "inAppPurchases": {
+            "Annual Tip": "₹ 1,799",
+            "Monthly Tip": "₹ 269",
+            "Huge Tip": "₹ 19,900",
+            "Large Tip": "₹ 9,900",
+            "Medium Tip": "₹ 1,999",
+            "Small Tip": "₹ 999",
+            "Little Tip": "₹ 499"
+          }
+        }
+      ]
+    ]
+  },
+  "1490607195": {
+    "name": "AppRaven: Apps Gone Free",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Supporter": "₹ 169",
+      "AppRaven Lifetime": "₹ 999",
+      "Yearly Supporter": "₹ 999",
+      "Amazing Tip": "₹ 299",
+      "Enormous Tip": "₹ 999",
+      "Fearless Tip": "₹ 1,999",
+      "Nice Tip": "₹ 99",
+      "Generous Tip": "₹ 499"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Monthly Supporter": "₹ 169",
+      "AppRaven Lifetime": "₹ 999",
+      "Yearly Supporter": "₹ 999",
+      "Amazing Tip": "₹ 299",
+      "Enormous Tip": "₹ 999",
+      "Fearless Tip": "₹ 1,999",
+      "Nice Tip": "₹ 99",
+      "Generous Tip": "₹ 499"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Supporter": "₹ 169",
+            "AppRaven Lifetime": "₹ 999",
+            "Yearly Supporter": "₹ 999",
+            "Amazing Tip": "₹ 299",
+            "Enormous Tip": "₹ 999",
+            "Fearless Tip": "₹ 1,999",
+            "Nice Tip": "₹ 99",
+            "Generous Tip": "₹ 499"
+          }
+        }
+      ]
+    ]
+  },
+  "1596063349": {
+    "name": "Stash - Rule Based Proxy",
+    "maxPriceInfo": {
+      "price": 599,
+      "formattedPrice": "₹ 599"
+    },
+    "minPriceInfo": {
+      "price": 599,
+      "formattedPrice": "₹ 599"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 599,
+          "formattedPrice": "₹ 599",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6443975850": {
+    "name": "SenPlayer - Media Player",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Pro(Suite)": "₹ 1,299",
+      "Lifetime Pro(iPhone+iPad)": "₹ 999",
+      "Lifetime Pro(Upgrade to Suite)": "₹ 699",
+      "Lifetime Pro(AppleTV)": "₹ 999",
+      "Lifetime Pro(Mac)": "₹ 999"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Lifetime Pro(Suite)": "₹ 1,299",
+      "Lifetime Pro(iPhone+iPad)": "₹ 999",
+      "Lifetime Pro(Upgrade to Suite)": "₹ 699",
+      "Lifetime Pro(AppleTV)": "₹ 999",
+      "Lifetime Pro(Mac)": "₹ 999"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Pro(Suite)": "₹ 1,299",
+            "Lifetime Pro(iPhone+iPad)": "₹ 999",
+            "Lifetime Pro(Upgrade to Suite)": "₹ 699",
+            "Lifetime Pro(AppleTV)": "₹ 999",
+            "Lifetime Pro(Mac)": "₹ 999"
+          }
+        }
+      ]
+    ]
+  },
+  "6791254308": {
+    "name": "QKeyboard: AI Writing",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Yearly Subscription": "₹ 999",
+      "Pro Monthly Subscription": "₹ 149",
+      "Pro Lifetime": "₹ 2,999"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Yearly Subscription": "₹ 999",
+      "Pro Monthly Subscription": "₹ 149",
+      "Pro Lifetime": "₹ 2,999"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Yearly Subscription": "₹ 999",
+            "Pro Monthly Subscription": "₹ 149",
+            "Pro Lifetime": "₹ 2,999"
+          }
+        }
+      ]
+    ]
+  },
+  "6477843068": {
+    "name": "Cat Keyboard - Easy Paste",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Cat Pro": "₹ 2,499",
+      "Premium (3 Month)": "₹ 799",
+      "Premium (12 Month)": "₹ 1,999",
+      "Premium (1 Month)": "₹ 299"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "Free",
+      "Cat Pro": "₹ 2,499",
+      "Premium (3 Month)": "₹ 799",
+      "Premium (12 Month)": "₹ 1,999",
+      "Premium (1 Month)": "₹ 299"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794964538779,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Cat Pro": "₹ 2,499",
+            "Premium (3 Month)": "₹ 799",
+            "Premium (12 Month)": "₹ 1,999",
+            "Premium (1 Month)": "₹ 299"
+          }
+        }
+      ]
+    ]
+  }
+}
