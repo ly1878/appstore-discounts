@@ -1,5 +1,34 @@
 [
   {
+    "timestamp": 1795171317294,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: 免费应用程序",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 316133247,
+          "trackName": "朗文当代高级词典（第6版）",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [],
+      "in": [],
+      "tr": []
+    },
+    "duration": "13.883s",
+    "regionAppCount": {
+      "cn": 11,
+      "us": 12,
+      "in": 12,
+      "tr": 12
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1795139834272,
     "regionAppInfo": {
       "cn": [],
@@ -550,30 +579,6 @@
       "pt": 12
     },
     "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794542310585,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "14.172s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
