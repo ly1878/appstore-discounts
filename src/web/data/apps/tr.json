@@ -5709,7 +5709,8 @@
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id897283731",
     "trackName": "Strongbox - Password Manager",
-    "firstRecordedAt": 1791337721979
+    "firstRecordedAt": 1791337721979,
+    "notificationDisabled": true
   },
   {
     "trackId": 898188878,

@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1795285531606,
+    "regionAppInfo": {
+      "cn": [],
+      "us": [],
+      "in": [],
+      "tr": []
+    },
+    "duration": "12.984s",
+    "regionAppCount": {
+      "cn": 11,
+      "us": 12,
+      "in": 12,
+      "tr": 12
+    },
+    "limitCount": 3,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1795256713156,
     "regionAppInfo": {
       "cn": [],
@@ -526,41 +544,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794660051037,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 1189158497,
-          "trackName": "图片标记助手 - 注记和量尺大师",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "hk": [
-        {
-          "trackId": 6791254308,
-          "trackName": "QKeyboard：AI 寫作",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "23.865s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 6,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]

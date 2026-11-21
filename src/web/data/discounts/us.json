@@ -2,6 +2,27 @@
   {
     "trackId": 897283731,
     "region": "us",
+    "timestamp": 1795285531606,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Strongbox Pro (Yearly)",
+        "from": "$24.99",
+        "to": "$19.99",
+        "range": "[$19.99 ~ $24.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id897283731",
+    "trackName": "Strongbox - Password Manager",
+    "firstRecordedAt": 1791337721979,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 897283731,
+    "region": "us",
     "timestamp": 1794893846730,
     "discounts": [
       {
@@ -17,7 +38,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id897283731",
     "trackName": "Strongbox - Password Manager",
-    "firstRecordedAt": 1791337721979
+    "firstRecordedAt": 1791337721979,
+    "notificationDisabled": true
   },
   {
     "trackId": 1336634154,
@@ -57,7 +79,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id897283731",
     "trackName": "Strongbox - Password Manager",
-    "firstRecordedAt": 1791337721979
+    "firstRecordedAt": 1791337721979,
+    "notificationDisabled": true
   },
   {
     "trackId": 897283731,
@@ -77,7 +100,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id897283731",
     "trackName": "Strongbox - Password Manager",
-    "firstRecordedAt": 1791337721979
+    "firstRecordedAt": 1791337721979,
+    "notificationDisabled": true
   },
   {
     "trackId": 1202642773,

@@ -33,7 +33,8 @@
     "currency": "INR",
     "trackViewUrl": "https://apps.apple.com/in/app/id897283731",
     "trackName": "Strongbox - Password Manager",
-    "firstRecordedAt": 1794964538779
+    "firstRecordedAt": 1794964538779,
+    "notificationDisabled": true
   },
   {
     "trackId": 1099850421,

@@ -37,7 +37,8 @@
         "us": "Strongbox - Password Manager",
         "tr": "Strongbox - Password Manager"
       },
-      "addType": "manual"
+      "addType": "manual",
+      "allowNotification": false
     },
     {
       "id": 6477843068,
