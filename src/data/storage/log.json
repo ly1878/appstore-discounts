@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1795308400947,
+    "regionAppInfo": {
+      "cn": [],
+      "us": [],
+      "in": [],
+      "tr": []
+    },
+    "duration": "18.766s",
+    "regionAppCount": {
+      "cn": 10,
+      "us": 11,
+      "in": 11,
+      "tr": 11
+    },
+    "limitCount": 4,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1795285531606,
     "regionAppInfo": {
       "cn": [],
@@ -485,54 +503,6 @@
       "pt": []
     },
     "duration": "18.186s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794702601628,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "35.914s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 3,
-    "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1794684831397,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "15.705s",
     "regionAppCount": {
       "cn": 10,
       "hk": 12,
