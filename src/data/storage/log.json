@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": 1795343348601,
+    "regionAppInfo": {
+      "cn": [],
+      "us": [],
+      "in": [],
+      "tr": []
+    },
+    "duration": "6.975s",
+    "regionAppCount": {
+      "cn": 10,
+      "us": 11,
+      "in": 11,
+      "tr": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1795308400947,
     "regionAppInfo": {
       "cn": [],
@@ -451,68 +469,6 @@
       "pt": 12
     },
     "limitCount": 6,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794737229864,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [
-        {
-          "trackId": 316133247,
-          "trackName": "朗文當代高級詞典 (第6版)",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 應用程式免費",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "us": [
-        {
-          "trackId": 6443975850,
-          "trackName": "SenPlayer - Media Player",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1481853033,
-          "trackName": "Strongbox Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 897283731,
-          "trackName": "Strongbox - Password Manager",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6477843068,
-          "trackName": "Cat Keyboard - Easy Paste",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 373493387,
-          "trackName": "AnkiMobile Flashcards",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "18.186s",
-    "regionAppCount": {
-      "cn": 10,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 12,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]
