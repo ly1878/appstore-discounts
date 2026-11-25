@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": 1795578713883,
+    "regionAppInfo": {
+      "cn": [],
+      "us": [],
+      "in": [],
+      "tr": [
+        {
+          "trackId": 6477843068,
+          "trackName": "Cat Keyboard - Easy Paste",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1481853033,
+          "trackName": "Strongbox Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: Apps Gone Free",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "11.216s",
+    "regionAppCount": {
+      "cn": 10,
+      "us": 10,
+      "in": 10,
+      "tr": 11
+    },
+    "limitCount": 3,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1795549623741,
     "regionAppInfo": {
       "cn": [],
@@ -351,47 +390,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794964538779,
-    "regionAppInfo": {
-      "cn": [],
-      "us": [],
-      "in": [],
-      "tr": []
-    },
-    "duration": "10.024s",
-    "regionAppCount": {
-      "cn": 11,
-      "us": 11,
-      "in": 11,
-      "tr": 12
-    },
-    "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1794960620511,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "39.673s",
-    "regionAppCount": {
-      "cn": 11,
-      "hk": 12,
-      "mo": 12,
-      "tw": 12,
-      "us": 11,
-      "tr": 12,
-      "pt": 12
-    },
-    "limitCount": 3,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
