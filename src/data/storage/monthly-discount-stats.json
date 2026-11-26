@@ -7,6 +7,13 @@
       "inAppPurchase": {
         "ShellFish Lifetime Pro Unlock": 1
       }
+    },
+    "1490607195": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "AppRaven Lifetime": 1
+      }
     }
   },
   "hk": {
@@ -50,6 +57,13 @@
       "inAppPurchase": {
         "ShellFish Lifetime Pro Unlock": 1
       }
+    },
+    "1490607195": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "AppRaven Lifetime": 1
+      }
     }
   },
   "tr": {
@@ -58,6 +72,13 @@
       "price": 0,
       "inAppPurchase": {
         "ShellFish Lifetime Pro Unlock": 1
+      }
+    },
+    "1490607195": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "AppRaven Lifetime": 1
       }
     }
   },

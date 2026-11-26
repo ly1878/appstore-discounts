@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1490607195,
+    "region": "cn",
+    "timestamp": 1795725657669,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "AppRaven Lifetime",
+        "from": "¥198.00",
+        "to": "¥98.00",
+        "range": "[¥98.00 ~ ¥198.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1490607195",
+    "trackName": "AppRaven: 免费应用程序",
+    "firstRecordedAt": 1788520967639
+  },
+  {
     "trackId": 1336634154,
     "region": "cn",
     "timestamp": 1794789111965,

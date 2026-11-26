@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-11-16T00:32:13.612Z</updated>
+    <updated>2026-11-26T20:41:15.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -12,8 +12,7 @@
     <link rel="alternate" href="https://apps.apple.com/cn/app"/>
     <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:49753297431966720+userId:73658201673997312
-feedId:157007849019630592+userId:73658201673997312
-</subtitle>
+feedId:157007849019630592+userId:73658201673997312</subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
     <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
@@ -21,7 +20,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-16T00:32:13.614Z</updated>
+        <updated>2026-11-26T20:41:15.615Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,14 +28,14 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 16 Nov 2026 00:32:13 GMT</id>
+        <id>rankingcnThu, 26 Nov 2026 20:41:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-16T00:32:13.614Z</updated>
+        <updated>2026-11-26T20:41:15.615Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
     <b>中国大陆(CN)</b>
-  </li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>中国台湾(TW)</li><li>美国(US)</li><li>土耳其(TR)</li><li>葡萄牙(PT)</li>
+  </li><li>美国(US)</li><li>印度(IN)</li><li>土耳其(TR)</li>
 </ol><h2>追踪的应用数量统计</h2><table>
   <thead>
     <tr>
@@ -60,7 +59,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b></b>
       </td>
       <td>
-        <b>1</b>
+        <b>2</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +76,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b></b>
       </td>
       <td>
-        <b></b>
+        <b>1</b>
       </td>
     </tr>
   </tbody>
@@ -115,6 +114,29 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1490607195?lang=zh-CN">AppRaven: 免费应用程序</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>AppRaven Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -124,47 +146,81 @@ feedId:157007849019630592+userId:73658201673997312
       <th>添加方式</th>
     </tr>
   </thead>
-  <tbody></tbody>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/897283731?lang=zh-CN">Strongbox - Password Manager</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+  </tbody>
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSH Client - Secure ShellFish]]></title>
-        <id>SSH Client - Secure ShellFish-cn-1794789111965</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/1336634154?lang=zh-CN"/>
-        <updated>2026-11-16T00:31:51.965Z</updated>
-        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: ¥168.00 → ¥108.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1336634154?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[AppRaven: 免费应用程序]]></title>
+        <id>AppRaven: 免费应用程序-cn-1795725657669</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1490607195?lang=zh-CN"/>
+        <updated>2026-11-26T20:40:57.669Z</updated>
+        <summary type="html"><![CDATA[AppRaven Lifetime: ¥198.00 → ¥98.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1490607195?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a9/c7/aea9c786-fe0b-6cdc-11a5-a7bbef37a637/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App内购买</h3><ul>
   <li>
-    <strong>ShellFish Lifetime Pro Unlock：</strong><span>¥168.00</span> → <b>
-  <strong>¥108.00</strong>
-</b><span>[¥108.00 ~ ¥168.00]</span>
+    <strong>AppRaven Lifetime：</strong><span>¥198.00</span> → <b>
+  <strong>¥98.00</strong>
+</b><span>[¥98.00 ~ ¥198.00]</span>
   </li>
 </ul><h2>全部价格信息</h2><p>
   价格：<b>免费</b>
 </p><h3>App内购买</h3><ul>
   <li>
-    ShellFish Monthly subscription：<b>¥22.00</b>
+    每月支持者：<b>¥15.00</b>
   </li><li>
-    ShellFish Lifetime Pro Unlock：<b>¥108.00</b>
+    AppRaven Lifetime：<b>¥98.00</b>
   </li><li>
-    ShellFish Annual subscription：<b>¥88.00</b>
+    Yearly Supporter：<b>¥88.00</b>
+  </li><li>
+    Nice Tip：<b>¥8.00</b>
+  </li><li>
+    Amazing Tip：<b>¥22.00</b>
+  </li><li>
+    Enormous Tip：<b>¥68.00</b>
+  </li><li>
+    Fearless Tip：<b>¥148.00</b>
+  </li><li>
+    Generous Tip：<b>¥38.00</b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
+  ”如何找到更好的应用？“
 
-Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
+AppRaven [老鹰] 帮助发现 更多优秀应用和游戏！通过社区用户，可以分享优秀应用和心得；通过收藏列表，可以获得应用最优惠的价格！
 
-Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
+==AppRaven功能特点===
 
-Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
+发现优秀应用 [鹰的视野]
+• 每天更新最流行的应用，提供详细的应用详情
+• 创建自己的应用收藏，查看社区用户的收藏列表
+• 按照自己的兴趣将应用进行详细分类
+• 关注感兴趣的应用或开发者，及时获取通知
 
-Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
+发现优惠价格 [鹰的眼睛]
+• 每天更新优惠的应用或内购，随时随地节省时间和金钱
+• 通过 AppStore 直接导入应用，获取应用的优惠或更新通知
+• 查看应用的历史价格和历史版本
+• 随时随地获取限免的应用和游戏
 
-Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
+参与社区交流 [鹰的翅膀]
+• 发现更多热爱应用的朋友，互相分享优秀的应用
+• 通过互动，相互推荐和评论，发现更适合自己的应用
+• 发表自己的评价和意见，有利于应用或开发者更好的改进
+• 回复自己对应用的看法，给其他社区用户有用的帮助
 
-Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
+更多发现，等你体验...
+ 
+AppRaven [老鹰] 将始终免费、无广告，只为美好体验！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/6b/63/3a6b63ea-81f9-93c8-9315-d8472490012e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/62/3a/86/623a863c-51ad-9b1a-56f8-a8cc46ab8c39/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f0/73/b3/f073b38b-8597-3891-3742-c72cc913fec6/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d4/37/d6/d437d64d-aa21-a896-34d5-dff95b3b666b/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/98/39/4d/98394da7-ba85-aef2-7d61-3cf961ae8677/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/04/24/4d/04244d15-a3e4-c958-8dd8-87cc02c0d25f/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e3/b4/15/e3b41523-85b3-ad69-a585-9cce55c36516/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/02/2c/0e/022c0e96-4083-6371-22c8-bcba0ed1c474/b99341c0-8270-43d7-9fca-19f0d0f70023_DiscoverNewApps-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a6/85/1d/a6851de1-5ab0-5d7e-5da3-48a059bbca7e/6c6a5b8c-a754-4160-baaf-8d2698548781_SaveMoney-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/12/15/2b/12152bc2-7f68-d4da-06a1-74532c8252db/862c5810-d56c-49a8-944b-d99b9cc03ba6_RateComment-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/71/94/02/7194022a-1172-468a-1344-34e792817035/b3a75ae6-e0f9-4d59-bad0-c2cf1b144ad7_TrackYourApps-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/71/88/56/71885691-9f79-4e29-0bfa-cc38f746798c/9e16beaf-fc84-45d8-af82-7f694ca6038a_CreateCollections-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/21/ea/71/21ea712f-21a5-5412-a59f-8fdfa49d3e4a/26586f77-b864-4871-af5b-fd71dd9a5ea2_JoinCommunity-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/fc/d0/21/fcd02179-de77-e71e-9b86-a32c208022db/debd79ac-bcb2-4f3a-a67a-66bcebbff729_GetNotified-iPad.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

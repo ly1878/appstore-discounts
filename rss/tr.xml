@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-11-16T00:32:13.620Z</updated>
+    <updated>2026-11-26T20:41:15.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -12,8 +12,7 @@
     <link rel="alternate" href="https://apps.apple.com/tr/app"/>
     <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)
 feedId:99063474310237184+userId:73658201673997312
-feedId:157008924688563200+userId:73658201673997312
-</subtitle>
+feedId:157008924688563200+userId:73658201673997312</subtitle>
     <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
     <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
@@ -21,7 +20,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-16T00:32:13.620Z</updated>
+        <updated>2026-11-26T20:41:15.620Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,14 +28,14 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 16 Nov 2026 00:32:13 GMT</id>
+        <id>rankingtrThu, 26 Nov 2026 20:41:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-16T00:32:13.620Z</updated>
+        <updated>2026-11-26T20:41:15.620Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
-  <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
+  <li>Mainland China(CN)</li><li>United States(US)</li><li>印度(IN)</li><li>
     <b>Türkiye(TR)</b>
-  </li><li>Portugal(PT)</li>
+  </li>
 </ol><h2>Statistics of the Number of App Tracked</h2><table>
   <thead>
     <tr>
@@ -60,7 +59,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b></b>
       </td>
       <td>
-        <b>1</b>
+        <b>2</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +76,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b></b>
       </td>
       <td>
-        <b>1</b>
+        <b>2</b>
       </td>
     </tr>
   </tbody>
@@ -115,6 +114,29 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/1490607195?lang=en">AppRaven: Apps Gone Free</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>AppRaven Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -130,6 +152,15 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/897283731?lang=en">Strongbox - Password Manager</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6670324846?lang=en">Grok - AI Assistant</a>
       </td>
       <td>Artificially Added</td>
@@ -138,43 +169,69 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSH Client - Secure ShellFish]]></title>
-        <id>SSH Client - Secure ShellFish-tr-1794789111965</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1336634154?lang=en"/>
-        <updated>2026-11-16T00:31:51.965Z</updated>
-        <summary type="html"><![CDATA[ShellFish Lifetime Pro Unlock: ₺999,99 → ₺669,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1336634154?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/27/d0/9527d02e-3a22-4f7c-1082-d6a12a3211c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[AppRaven: Apps Gone Free]]></title>
+        <id>AppRaven: Apps Gone Free-tr-1795725657669</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/1490607195?lang=en"/>
+        <updated>2026-11-26T20:40:57.669Z</updated>
+        <summary type="html"><![CDATA[AppRaven Lifetime: ₺899,99 → ₺799,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1490607195?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a9/c7/aea9c786-fe0b-6cdc-11a5-a7bbef37a637/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>ShellFish Lifetime Pro Unlock：</strong><span>₺999,99</span> → <b>
-  <strong>₺669,99</strong>
-</b><span>[₺669,99 ~ ₺999,99]</span>
+    <strong>AppRaven Lifetime：</strong><span>₺899,99</span> → <b>
+  <strong>₺799,99</strong>
+</b><span>[₺799,99 ~ ₺899,99]</span>
   </li>
 </ul><h2>All Price Information</h2><p>
   Price：<b>Free</b>
 </p><h3>In-App Purchases</h3><ul>
   <li>
-    ShellFish Monthly subscription：<b>₺69,99</b>
+    Monthly Supporter：<b>₺12,99</b>
   </li><li>
-    ShellFish Lifetime Pro Unlock：<b>₺669,99</b>
+    Yearly Supporter：<b>₺79,99</b>
   </li><li>
-    ShellFish Annual subscription：<b>₺499,99</b>
+    AppRaven Lifetime：<b>₺799,99</b>
+  </li><li>
+    Amazing Tip：<b>₺149,99</b>
+  </li><li>
+    Enormous Tip：<b>₺499,99</b>
+  </li><li>
+    Fearless Tip：<b>₺999,99</b>
+  </li><li>
+    Nice Tip：<b>₺49,99</b>
+  </li><li>
+    Generous Tip：<b>₺249,99</b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Lightning fast SSH terminal with remote file access. No other app fuses your SSH servers and iOS devices as well as Secure ShellFish. Tap Get and see for yourself.
+  We live in the world of apps and at times it can be difficult to find the ones we look for…
 
-Terminal supports standard text editing gestures for selection, scrolling and copy/paste as well as custom gestures to send arrow keys and tabulator making shell entry and full screen editing with vim or emacs delightful. Bar above the keyboard makes it easy to type special keys and insert snippets.
+AppRaven helps to discover the best apps and games designed just for you! Connect with people who share the same interests and recommend your favourite games to each other. Make a wish list to never miss a sale and save money on the apps you like the most!
 
-Select and drag filenames out of the terminal as actual files and drag files from other apps into the terminal to upload. Use built-in tmux support to persist terminal sessions if you lose Internet access, pick existing sessions with thumbnails and Handoff sessions between devices.
+AppRaven’s unique features:
 
-Server file system is available in the Files app and recently accessed files and directories are cached to make them available when offline. Use apps like Textastic and iA Writer for a native editing experience working on your remote server files.
+Discover New Apps
 
-Upload files or entire directories from the share sheet with minimal friction as the last destination directory for each kind of file is remembered or automate file transfers in the Shortcuts app.
+• Check daily updated charts to get an overview of the most popular apps around you.
+• Browse collections of apps created by other users and create your own.
+• Sort apps by the categories that interest you the most.
+• Watch your favourite sellers and get notified whenever they have a new release.
+• Be the first to see newly released apps and the latest updates.
 
-Connect to your Mac, Synology NAS and any other SSH server or create new Digital Ocean droplets right from the app.  
+Save Money
 
-Secure ShellFish is useful as a free app and paying pro users can disable ads in the terminal, upload through the Files app and configure unlimited number of servers.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/d9/5a/42d95a67-bf07-92c2-995c-054efb56eef0/5.5_-_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/77/82/d37782ef-c304-b3ca-d374-d0d4bf882f05/5.5_-_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/7b/1c/7b7b1cef-529e-4318-9cce-e0c5b9c3efac/5.5_-_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/b3/62/71b36218-f96d-78e2-b798-84730eec139f/5.5_-_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/b7/ac/20b7ac5f-f1ad-ed4d-f348-c4bcaa83f9b4/5.5_-_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/b3/4f/89b34fea-f1fc-e23a-2d1c-e978d3c2c0a0/5.5_-_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/c6/3e/e2c63e72-78be-aa4b-d06e-7d2b5e96848f/5.5_-_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/fa/8f/b8fa8fc2-42b9-f7ea-e75b-fcb442bf23c6/5.5_-_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f2/99/21f2998a-f846-813a-b10f-fc663c017385/5.5_-_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/58/01/425801d8-8c0c-9bdc-c691-a66e1858082d/ipad-pro-0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/cc/af/bdccaf3b-0052-7730-6a41-9d3adb86a5b6/0x0ss.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/2f/a3/c92fa303-bef9-8678-c40e-309a9d911ca9/ipad-pro-1b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/26/6a/82266ab1-ff3a-81cc-b929-c33de470a52d/ipad-pro-3b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/97/30/e997304d-d01e-ac7d-987f-de852cea0cc3/ipad-pro-5b.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8b/1d/1b8b1d31-01c5-a61b-5a5c-2fe1db9a33c2/0x0ss-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/6f/4e/c16f4e3e-9267-2cc3-9d25-8e3bfbff9c26/ipad-pro-2b.png/360x480bb.jpg" />]]></content>
+• Check daily which apps are on sale to save time and money.
+• Add games to your wish list directly from within the App Store using the share extension and get notified whenever they are on sale or updated.
+• Track apps to see the history of price changes and updates.
+• Get many paid games for free every day.
+
+Join the Community
+
+• Find people who love the same apps as you and share them together.
+• Connect with friends and give recommendations to each other.
+• Rate and comment on apps and sellers - your opinions matter.
+• Reply to other users and give them an advice.
+
+For your best experience, AppRaven is free and contains no ads!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/6b/63/3a6b63ea-81f9-93c8-9315-d8472490012e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/62/3a/86/623a863c-51ad-9b1a-56f8-a8cc46ab8c39/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f0/73/b3/f073b38b-8597-3891-3742-c72cc913fec6/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d4/37/d6/d437d64d-aa21-a896-34d5-dff95b3b666b/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/98/39/4d/98394da7-ba85-aef2-7d61-3cf961ae8677/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/04/24/4d/04244d15-a3e4-c958-8dd8-87cc02c0d25f/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e3/b4/15/e3b41523-85b3-ad69-a585-9cce55c36516/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/02/2c/0e/022c0e96-4083-6371-22c8-bcba0ed1c474/b99341c0-8270-43d7-9fca-19f0d0f70023_DiscoverNewApps-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a6/85/1d/a6851de1-5ab0-5d7e-5da3-48a059bbca7e/6c6a5b8c-a754-4160-baaf-8d2698548781_SaveMoney-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/12/15/2b/12152bc2-7f68-d4da-06a1-74532c8252db/862c5810-d56c-49a8-944b-d99b9cc03ba6_RateComment-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/71/94/02/7194022a-1172-468a-1344-34e792817035/b3a75ae6-e0f9-4d59-bad0-c2cf1b144ad7_TrackYourApps-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/71/88/56/71885691-9f79-4e29-0bfa-cc38f746798c/9e16beaf-fc84-45d8-af82-7f694ca6038a_CreateCollections-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/21/ea/71/21ea712f-21a5-5412-a59f-8fdfa49d3e4a/26586f77-b864-4871-af5b-fd71dd9a5ea2_JoinCommunity-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/fc/d0/21/fcd02179-de77-e71e-9b86-a32c208022db/debd79ac-bcb2-4f3a-a67a-66bcebbff729_GetNotified-iPad.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
