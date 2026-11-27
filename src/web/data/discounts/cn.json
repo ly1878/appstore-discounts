@@ -2,14 +2,14 @@
   {
     "trackId": 1490607195,
     "region": "cn",
-    "timestamp": 1795725657669,
+    "timestamp": 1795794406246,
     "discounts": [
       {
         "type": "inAppPurchase",
         "name": "AppRaven Lifetime",
         "from": "¥198.00",
-        "to": "¥98.00",
-        "range": "[¥98.00 ~ ¥198.00]"
+        "to": "¥38.00",
+        "range": "[¥38.00 ~ ¥198.00]"
       }
     ],
     "price": 0,

@@ -121110,7 +121110,7 @@
       "price": 0,
       "formattedPrice": "免费",
       "每月支持者": "¥15.00",
-      "AppRaven Lifetime": "¥98.00",
+      "AppRaven Lifetime": "¥38.00",
       "Yearly Supporter": "¥88.00",
       "Amazing Tip": "¥22.00",
       "Enormous Tip": "¥68.00",
@@ -121120,6 +121120,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795794406246,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "每月支持者": "¥15.00",
+            "AppRaven Lifetime": "¥38.00",
+            "Yearly Supporter": "¥88.00",
+            "Nice Tip": "¥8.00",
+            "Amazing Tip": "¥22.00",
+            "Enormous Tip": "¥68.00",
+            "Fearless Tip": "¥148.00",
+            "Generous Tip": "¥38.00"
+          }
+        },
         {
           "timestamp": 1795725657669,
           "price": 0,

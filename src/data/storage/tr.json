@@ -174165,7 +174165,7 @@
       "formattedPrice": "Free",
       "Monthly Supporter": "₺12,99",
       "Yearly Supporter": "₺79,99",
-      "AppRaven Lifetime": "₺799,99",
+      "AppRaven Lifetime": "₺699,99",
       "Amazing Tip": "₺149,99",
       "Enormous Tip": "₺499,99",
       "Fearless Tip": "₺999,99",
@@ -174173,6 +174173,23 @@
       "Generous Tip": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1795794406246,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Supporter": "₺12,99",
+            "Yearly Supporter": "₺79,99",
+            "AppRaven Lifetime": "₺699,99",
+            "Amazing Tip": "₺149,99",
+            "Enormous Tip": "₺499,99",
+            "Fearless Tip": "₺999,99",
+            "Nice Tip": "₺49,99",
+            "Generous Tip": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1795725657669,

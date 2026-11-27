@@ -2,6 +2,26 @@
   {
     "trackId": 1490607195,
     "region": "tr",
+    "timestamp": 1795794406246,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "AppRaven Lifetime",
+        "from": "₺799,99",
+        "to": "₺699,99",
+        "range": "[₺699,99 ~ ₺899,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1490607195",
+    "trackName": "AppRaven: Apps Gone Free",
+    "firstRecordedAt": 1788520967639
+  },
+  {
+    "trackId": 1490607195,
+    "region": "tr",
     "timestamp": 1795725657669,
     "discounts": [
       {
@@ -9,7 +29,7 @@
         "name": "AppRaven Lifetime",
         "from": "₺899,99",
         "to": "₺799,99",
-        "range": "[₺799,99 ~ ₺899,99]"
+        "range": "[₺699,99 ~ ₺899,99]"
       }
     ],
     "price": 0,

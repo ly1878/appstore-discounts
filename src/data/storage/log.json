@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1795794406246,
+    "regionAppInfo": {
+      "cn": [],
+      "us": [
+        {
+          "trackId": 1189158497,
+          "trackName": "Photos Measure - Image meter",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "in": [],
+      "tr": []
+    },
+    "duration": "12.584s",
+    "regionAppCount": {
+      "cn": 10,
+      "us": 10,
+      "in": 10,
+      "tr": 11
+    },
+    "limitCount": 6,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1795749696817,
     "regionAppInfo": {
       "cn": [],
@@ -342,35 +366,6 @@
       "tr": 12
     },
     "limitCount": 5,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1795171317294,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 1490607195,
-          "trackName": "AppRaven: 免费应用程序",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 316133247,
-          "trackName": "朗文当代高级词典（第6版）",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "us": [],
-      "in": [],
-      "tr": []
-    },
-    "duration": "13.883s",
-    "regionAppCount": {
-      "cn": 11,
-      "us": 12,
-      "in": 12,
-      "tr": 12
-    },
-    "limitCount": 2,
     "inAppPurchasesScrapeType": "fetch"
   }
 ]

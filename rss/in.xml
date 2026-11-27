@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/appstore-discounts/appstore-discounts/rss/in.xml</id>
+    <title>App Store Discounts（IN）</title>
+    <updated>2026-11-27T15:46:54.501Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Eyelly wu</name>
+        <email>eyelly.wu@gmail.com</email>
+        <uri>https://github.com/eyelly-wu</uri>
+    </author>
+    <link rel="alternate" href="https://apps.apple.com/in/app"/>
+    <subtitle>App Store Discounts - Made with love by appstore-discounts(https://github.com/appstore-discounts/appstore-discounts)</subtitle>
+    <logo>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</logo>
+    <icon>https://s3.bmp.ovh/imgs/2024/07/20/491487aec936222a.png</icon>
+    <rights>Copyright (c) 2024-present Eyelly Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
+        <id>welcomein</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-11-27T15:46:54.501Z</updated>
+        <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
+        <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
+  <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
+</ul><h1>Find Us</h1><a href="https://github.com/appstore-discounts/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Data Report]]></title>
+        <id>rankinginFri, 27 Nov 2026 15:46:54 GMT</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-11-27T15:46:54.501Z</updated>
+        <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
+        <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
+  <li>Mainland China(CN)</li><li>United States(US)</li><li>
+    <b>印度(IN)</b>
+  </li><li>Türkiye(TR)</li>
+</ol><h2>Statistics of the Number of App Tracked</h2><table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Total Apps</th>
+      <th>Artificially Added</th>
+      <th>Automatically Added</th>
+      <th>Prohibit Push</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>All</td>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+      <td>
+        <b>2</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>IN</b>
+      </td>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
+        <b></b>
+      </td>
+      <td>
+        <b>1</b>
+      </td>
+    </tr>
+  </tbody>
+</table><p>
+  <a href="https://appstore-discounts.eyelly.me/in/apps?lang=en">View All Apps</a>
+</p><h2>Ranking of App Discounts This Month(IN)</h2><blockquote>Since it supports applications that automatically add tracking based on paid application rankings, most applications are now automatically added, and the quality of the application is unknown and uncontrollable. The current ranking will be used as a reference for subsequent disabling push.</blockquote><table>
+  <thead>
+    <tr>
+      <th>Ranking</th>
+      <th>App</th>
+      <th>Number of Discounts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/in/1490607195?lang=en">AppRaven: Apps Gone Free</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>AppRaven Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table><h2>Disable Push Apps</h2><table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>App</th>
+      <th>Add Method</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>1</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/in/897283731?lang=en">Strongbox - Password Manager</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+  </tbody>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppRaven: Apps Gone Free]]></title>
+        <id>AppRaven: Apps Gone Free-in-1795794406246</id>
+        <link href="https://appstore-discounts.eyelly.me/in/1490607195?lang=en"/>
+        <updated>2026-11-27T15:46:46.246Z</updated>
+        <summary type="html"><![CDATA[AppRaven Lifetime: ₹ 1,499 → ₹ 599]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/in/1490607195?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a9/c7/aea9c786-fe0b-6cdc-11a5-a7bbef37a637/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>AppRaven Lifetime：</strong><span>₹ 1,499</span> → <b>
+  <strong>₹ 599</strong>
+</b><span>[₹ 599 ~ ₹ 1,499]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Monthly Supporter：<b>₹ 169</b>
+  </li><li>
+    AppRaven Lifetime：<b>₹ 599</b>
+  </li><li>
+    Yearly Supporter：<b>₹ 999</b>
+  </li><li>
+    Amazing Tip：<b>₹ 299</b>
+  </li><li>
+    Enormous Tip：<b>₹ 999</b>
+  </li><li>
+    Fearless Tip：<b>₹ 1,999</b>
+  </li><li>
+    Nice Tip：<b>₹ 99</b>
+  </li><li>
+    Generous Tip：<b>₹ 499</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  We live in the world of apps and at times it can be difficult to find the ones we look for…
+
+AppRaven helps to discover the best apps and games designed just for you! Connect with people who share the same interests and recommend your favourite games to each other. Make a wish list to never miss a sale and save money on the apps you like the most!
+
+AppRaven’s unique features:
+
+Discover New Apps
+
+• Check daily updated charts to get an overview of the most popular apps around you.
+• Browse collections of apps created by other users and create your own.
+• Sort apps by the categories that interest you the most.
+• Watch your favourite sellers and get notified whenever they have a new release.
+• Be the first to see newly released apps and the latest updates.
+
+Save Money
+
+• Check daily which apps are on sale to save time and money.
+• Add games to your wish list directly from within the App Store using the share extension and get notified whenever they are on sale or updated.
+• Track apps to see the history of price changes and updates.
+• Get many paid games for free every day.
+
+Join the Community
+
+• Find people who love the same apps as you and share them together.
+• Connect with friends and give recommendations to each other.
+• Rate and comment on apps and sellers - your opinions matter.
+• Reply to other users and give them an advice.
+
+For your best experience, AppRaven is free and contains no ads!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/6b/63/3a6b63ea-81f9-93c8-9315-d8472490012e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/62/3a/86/623a863c-51ad-9b1a-56f8-a8cc46ab8c39/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f0/73/b3/f073b38b-8597-3891-3742-c72cc913fec6/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d4/37/d6/d437d64d-aa21-a896-34d5-dff95b3b666b/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/98/39/4d/98394da7-ba85-aef2-7d61-3cf961ae8677/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/04/24/4d/04244d15-a3e4-c958-8dd8-87cc02c0d25f/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e3/b4/15/e3b41523-85b3-ad69-a585-9cce55c36516/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/02/2c/0e/022c0e96-4083-6371-22c8-bcba0ed1c474/b99341c0-8270-43d7-9fca-19f0d0f70023_DiscoverNewApps-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a6/85/1d/a6851de1-5ab0-5d7e-5da3-48a059bbca7e/6c6a5b8c-a754-4160-baaf-8d2698548781_SaveMoney-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/12/15/2b/12152bc2-7f68-d4da-06a1-74532c8252db/862c5810-d56c-49a8-944b-d99b9cc03ba6_RateComment-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/71/94/02/7194022a-1172-468a-1344-34e792817035/b3a75ae6-e0f9-4d59-bad0-c2cf1b144ad7_TrackYourApps-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/71/88/56/71885691-9f79-4e29-0bfa-cc38f746798c/9e16beaf-fc84-45d8-af82-7f694ca6038a_CreateCollections-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/21/ea/71/21ea712f-21a5-5412-a59f-8fdfa49d3e4a/26586f77-b864-4871-af5b-fd71dd9a5ea2_JoinCommunity-iPad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/fc/d0/21/fcd02179-de77-e71e-9b86-a32c208022db/debd79ac-bcb2-4f3a-a67a-66bcebbff729_GetNotified-iPad.png/576x768bb.png" />]]></content>
+    </entry>
+</feed>

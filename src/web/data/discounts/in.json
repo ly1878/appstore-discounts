@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "trackId": 1490607195,
+    "region": "in",
+    "timestamp": 1795794406246,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "AppRaven Lifetime",
+        "from": "₹ 999",
+        "to": "₹ 599",
+        "range": "[₹ 599 ~ ₹ 1,499]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "INR",
+    "trackViewUrl": "https://apps.apple.com/in/app/id1490607195",
+    "trackName": "AppRaven: Apps Gone Free",
+    "firstRecordedAt": 1794964538779
+  }
+]

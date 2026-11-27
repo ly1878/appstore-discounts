@@ -9,10 +9,10 @@
       }
     },
     "1490607195": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "AppRaven Lifetime": 1
+        "AppRaven Lifetime": 2
       }
     }
   },
@@ -75,10 +75,10 @@
       }
     },
     "1490607195": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "AppRaven Lifetime": 1
+        "AppRaven Lifetime": 2
       }
     }
   },
@@ -91,5 +91,13 @@
       }
     }
   },
-  "in": {}
+  "in": {
+    "1490607195": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "AppRaven Lifetime": 1
+      }
+    }
+  }
 }

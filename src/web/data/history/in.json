@@ -267,7 +267,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Monthly Supporter": "₹ 169",
-      "AppRaven Lifetime": "₹ 999",
+      "AppRaven Lifetime": "₹ 599",
       "Yearly Supporter": "₹ 999",
       "Amazing Tip": "₹ 299",
       "Enormous Tip": "₹ 999",
@@ -277,6 +277,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1795794406246,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Supporter": "₹ 169",
+            "AppRaven Lifetime": "₹ 599",
+            "Yearly Supporter": "₹ 999",
+            "Amazing Tip": "₹ 299",
+            "Enormous Tip": "₹ 999",
+            "Fearless Tip": "₹ 1,999",
+            "Nice Tip": "₹ 99",
+            "Generous Tip": "₹ 499"
+          }
+        },
         {
           "timestamp": 1795725657669,
           "price": 0,
