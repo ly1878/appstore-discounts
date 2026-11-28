@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/log.xml</id>
     <title>日志信息</title>
-    <updated>2026-11-27T15:46:46.246Z</updated>
+    <updated>2026-11-28T00:48:41.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -10,6 +10,108 @@
         <uri>https://github.com/eyelly-wu</uri>
     </author>
     <rights>Copyright (c) 2024-present Eyelly Wu</rights>
+    <entry>
+        <title type="html"><![CDATA[2026-11-28 08:48:41 - playwright - 2]]></title>
+        <id>1795826921483</id>
+        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
+        <updated>2026-11-28T00:48:41.483Z</updated>
+        <summary type="html"><![CDATA[总耗时：30.866s；重新获取应用数占比：0%；单个应用重新获取平均次数：0；重新获取总次数：0；获取失败总应用数：0；获取失败应用数占比：-%]]></summary>
+        <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
+  <li>总耗时：30.866s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：0</li><li>重新获取总次数：0</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：-%</li>
+</ul><h2>统计信息</h2><table>
+  <thead>
+    <tr>
+      <th>区域</th>
+      <th>应用总数</th>
+      <th>重新获取应用数</th>
+      <th>重试总次数</th>
+      <th>获取失败数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>中国大陆（CN）</td>
+      <td>10</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>美国（US）</td>
+      <td>10</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>印度（IN）</td>
+      <td>10</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+    <tr>
+      <td>土耳其（TR）</td>
+      <td>11</td>
+      <td>0（0%）</td>
+      <td>
+        <b>0</b>
+      </td>
+      <td>
+        <b>0（-%）</b>
+      </td>
+    </tr>
+  </tbody>
+</table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>美国（US）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>印度（IN）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><h2>土耳其（TR）</h2><table>
+  <thead>
+    <tr>
+      <th>名次</th>
+      <th>应用</th>
+      <th>次数</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-11-27 23:46:46 - fetch - 6]]></title>
         <id>1795794406246</id>
@@ -1829,108 +1931,6 @@
         <summary type="html"><![CDATA[总耗时：9.906s；重新获取应用数占比：0%；单个应用重新获取平均次数：0；重新获取总次数：0；获取失败总应用数：0；获取失败应用数占比：-%]]></summary>
         <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
   <li>总耗时：9.906s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：0</li><li>重新获取总次数：0</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：-%</li>
-</ul><h2>统计信息</h2><table>
-  <thead>
-    <tr>
-      <th>区域</th>
-      <th>应用总数</th>
-      <th>重新获取应用数</th>
-      <th>重试总次数</th>
-      <th>获取失败数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>中国大陆（CN）</td>
-      <td>11</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>美国（US）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>印度（IN）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-    <tr>
-      <td>土耳其（TR）</td>
-      <td>12</td>
-      <td>0（0%）</td>
-      <td>
-        <b>0</b>
-      </td>
-      <td>
-        <b>0（-%）</b>
-      </td>
-    </tr>
-  </tbody>
-</table><h1>各领域内购信息获取排行</h1><h2>中国大陆（CN）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>美国（US）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>印度（IN）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><h2>土耳其（TR）</h2><table>
-  <thead>
-    <tr>
-      <th>名次</th>
-      <th>应用</th>
-      <th>次数</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026-11-21 03:23:23 - fetch - 5]]></title>
-        <id>1795202603049</id>
-        <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-20T19:23:23.049Z</updated>
-        <summary type="html"><![CDATA[总耗时：12.08s；重新获取应用数占比：0%；单个应用重新获取平均次数：0；重新获取总次数：0；获取失败总应用数：0；获取失败应用数占比：-%]]></summary>
-        <content type="html"><![CDATA[<h1>汇总信息</h1><ul>
-  <li>总耗时：12.08s</li><li>重新获取应用数占比：0%</li><li>单个应用重新获取平均次数：0</li><li>重新获取总次数：0</li><li>获取失败总应用数：0</li><li>获取失败应用数占比：-%</li>
 </ul><h2>统计信息</h2><table>
   <thead>
     <tr>
