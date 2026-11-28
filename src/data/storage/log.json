@@ -1,5 +1,76 @@
 [
   {
+    "timestamp": 1795893384662,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 1490607195,
+          "trackName": "AppRaven: 免费应用程序",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1099850421,
+          "trackName": "Annotable — 终极图片标注工具",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6477843068,
+          "trackName": "猫键盘",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1189158497,
+          "trackName": "图片标记助手 - 注记和量尺大师",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [
+        {
+          "trackId": 1481853033,
+          "trackName": "Strongbox Pro",
+          "inAppPurchasesTimes": 25
+        },
+        {
+          "trackId": 1336634154,
+          "trackName": "SSH Client - Secure ShellFish",
+          "inAppPurchasesTimes": 23
+        },
+        {
+          "trackId": 6477843068,
+          "trackName": "Cat Keyboard - Easy Paste",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "in": [],
+      "tr": [
+        {
+          "trackId": 373493387,
+          "trackName": "AnkiMobile Flashcards",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "51.239s",
+    "regionAppCount": {
+      "cn": 10,
+      "us": 11,
+      "in": 11,
+      "tr": 11
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "fetch"
+  },
+  {
     "timestamp": 1795863823583,
     "regionAppInfo": {
       "cn": [],
@@ -331,23 +402,5 @@
     },
     "limitCount": 4,
     "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1795285531606,
-    "regionAppInfo": {
-      "cn": [],
-      "us": [],
-      "in": [],
-      "tr": []
-    },
-    "duration": "12.984s",
-    "regionAppCount": {
-      "cn": 11,
-      "us": 12,
-      "in": 12,
-      "tr": 12
-    },
-    "limitCount": 3,
-    "inAppPurchasesScrapeType": "fetch"
   }
 ]
